@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1912222,
+        "crate": "zzz-arc",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zzz-arc/0.4.0/download",
+        "readme_path": "/api/v1/crates/zzz-arc/0.4.0/readme",
+        "updated_at": "2025-12-31T05:04:21.836487Z",
+        "created_at": "2025-12-31T05:04:21.836487Z",
+        "downloads": 20,
+        "features": {
+            "default": [],
+            "rar": [
+                "unrar"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzz-arc/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzz-arc/0.4.0/downloads",
+            "authors": "/api/v1/crates/zzz-arc/0.4.0/authors"
+        },
+        "crate_size": 64063,
+        "published_by": {
+            "id": 338061,
+            "login": "redthing1",
+            "name": "red thing",
+            "avatar": "https://avatars.githubusercontent.com/u/54390138?v=4",
+            "url": "https://github.com/redthing1"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 338061,
+                    "login": "redthing1",
+                    "name": "red thing",
+                    "avatar": "https://avatars.githubusercontent.com/u/54390138?v=4",
+                    "url": "https://github.com/redthing1"
+                },
+                "time": "2025-12-31T05:04:21.836487Z"
+            }
+        ],
+        "checksum": "6e5fef625a39fcc5903c50408e99da1529993580eb23eef16d2362044c80f897",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zzz"
+        ],
+        "edition": "2021",
+        "description": "A fast compression multitool supporting zst, tgz, txz, zip, and 7z formats with optional encryption",
+        "homepage": "https://github.com/redthing1/zzz",
+        "documentation": null,
+        "repository": "https://github.com/redthing1/zzz",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3652,
+                    "comment_lines": 135,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 3652,
+            "total_comment_lines": 135
+        }
+    }
+}
