@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 613932,
+        "crate": "zr-alshasha",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zr-alshasha/0.1.1/download",
+        "readme_path": "/api/v1/crates/zr-alshasha/0.1.1/readme",
+        "updated_at": "2022-09-03T12:55:26.954761Z",
+        "created_at": "2022-09-03T12:55:26.954761Z",
+        "downloads": 1245,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zr-alshasha/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zr-alshasha/0.1.1/downloads",
+            "authors": "/api/v1/crates/zr-alshasha/0.1.1/authors"
+        },
+        "crate_size": 598589,
+        "published_by": {
+            "id": 174905,
+            "login": "BKSalman",
+            "name": "Salman Abuhaimed",
+            "avatar": "https://avatars.githubusercontent.com/u/85521119?v=4",
+            "url": "https://github.com/BKSalman"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 174905,
+                    "login": "BKSalman",
+                    "name": "Salman Abuhaimed",
+                    "avatar": "https://avatars.githubusercontent.com/u/85521119?v=4",
+                    "url": "https://github.com/BKSalman"
+                },
+                "time": "2022-09-03T12:55:26.954761Z"
+            }
+        ],
+        "checksum": "e54c5f8fddeb7698b8f4292c29b6b3cfb5bd2c5e443719a1d839dfda35ffa011",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zr-alshasha"
+        ],
+        "edition": "2021",
+        "description": "an app to show keyboard input",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BKSalman/zr-alshasha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 608,
+                    "comment_lines": 22,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 608,
+            "total_comment_lines": 22
+        }
+    }
+}

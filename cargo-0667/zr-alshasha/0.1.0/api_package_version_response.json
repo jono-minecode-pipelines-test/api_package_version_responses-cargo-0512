@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 613709,
+        "crate": "zr-alshasha",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zr-alshasha/0.1.0/download",
+        "readme_path": "/api/v1/crates/zr-alshasha/0.1.0/readme",
+        "updated_at": "2022-09-03T12:53:52.579213Z",
+        "created_at": "2022-09-02T22:25:27.591023Z",
+        "downloads": 1282,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zr-alshasha/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zr-alshasha/0.1.0/downloads",
+            "authors": "/api/v1/crates/zr-alshasha/0.1.0/authors"
+        },
+        "crate_size": 594137,
+        "published_by": {
+            "id": 174905,
+            "login": "BKSalman",
+            "name": "Salman Abuhaimed",
+            "avatar": "https://avatars.githubusercontent.com/u/85521119?v=4",
+            "url": "https://github.com/BKSalman"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 174905,
+                    "login": "BKSalman",
+                    "name": "Salman Abuhaimed",
+                    "avatar": "https://avatars.githubusercontent.com/u/85521119?v=4",
+                    "url": "https://github.com/BKSalman"
+                },
+                "time": "2022-09-02T22:25:27.591023Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 174905,
+                    "login": "BKSalman",
+                    "name": "Salman Abuhaimed",
+                    "avatar": "https://avatars.githubusercontent.com/u/85521119?v=4",
+                    "url": "https://github.com/BKSalman"
+                },
+                "time": "2022-09-03T12:51:58.457310Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 174905,
+                    "login": "BKSalman",
+                    "name": "Salman Abuhaimed",
+                    "avatar": "https://avatars.githubusercontent.com/u/85521119?v=4",
+                    "url": "https://github.com/BKSalman"
+                },
+                "time": "2022-09-03T12:53:52.582256Z"
+            }
+        ],
+        "checksum": "68a1ea575200d8a74aca5e10628267cd068193addfcf0fc4ffd64f40b0745b98",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zr-alshasha"
+        ],
+        "edition": "2021",
+        "description": "an app to show keyboard input",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BKSalman/zr-alshasha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 608,
+                    "comment_lines": 22,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 608,
+            "total_comment_lines": 22
+        }
+    }
+}

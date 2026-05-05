@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1131591,
+        "crate": "zpowergraph",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zpowergraph/1.0.0/download",
+        "readme_path": "/api/v1/crates/zpowergraph/1.0.0/readme",
+        "updated_at": "2024-05-01T12:21:12.801811Z",
+        "created_at": "2024-05-01T12:21:12.801811Z",
+        "downloads": 1089,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpowergraph/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpowergraph/1.0.0/downloads",
+            "authors": "/api/v1/crates/zpowergraph/1.0.0/authors"
+        },
+        "crate_size": 23033,
+        "published_by": {
+            "id": 213746,
+            "login": "bitfl0wer",
+            "name": "Flori Ava Star",
+            "avatar": "https://avatars.githubusercontent.com/u/39242991?v=4",
+            "url": "https://github.com/bitfl0wer"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 213746,
+                    "login": "bitfl0wer",
+                    "name": "Flori Ava Star",
+                    "avatar": "https://avatars.githubusercontent.com/u/39242991?v=4",
+                    "url": "https://github.com/bitfl0wer"
+                },
+                "time": "2024-05-01T12:21:12.801811Z"
+            }
+        ],
+        "checksum": "78326dcba09e637355e1d4bfec4faecc80189c017bebce9f197fae42f431c171",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zpowergraph"
+        ],
+        "edition": "2021",
+        "description": "Listen to Zigbee2MQTT messages for smart plugs (Nous A1Z) and store power consumption data in a SQLite database.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/bitfl0wer/zpowergraph",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 178,
+                    "comment_lines": 8,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 178,
+            "total_comment_lines": 8
+        }
+    }
+}

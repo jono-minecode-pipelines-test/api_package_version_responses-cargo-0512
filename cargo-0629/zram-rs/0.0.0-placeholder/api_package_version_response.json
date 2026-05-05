@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2251032,
+        "crate": "zram-rs",
+        "num": "0.0.0-placeholder",
+        "dl_path": "/api/v1/crates/zram-rs/0.0.0-placeholder/download",
+        "readme_path": "/api/v1/crates/zram-rs/0.0.0-placeholder/readme",
+        "updated_at": "2026-04-13T14:04:24.344441Z",
+        "created_at": "2026-04-13T14:04:24.344441Z",
+        "downloads": 15,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zram-rs/0.0.0-placeholder/dependencies",
+            "version_downloads": "/api/v1/crates/zram-rs/0.0.0-placeholder/downloads",
+            "authors": "/api/v1/crates/zram-rs/0.0.0-placeholder/authors"
+        },
+        "crate_size": 5762,
+        "published_by": {
+            "id": 320981,
+            "login": "kurimanju-dev",
+            "name": "Luis Weitl",
+            "avatar": "https://avatars.githubusercontent.com/u/73285163?v=4",
+            "url": "https://github.com/kurimanju-dev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 320981,
+                    "login": "kurimanju-dev",
+                    "name": "Luis Weitl",
+                    "avatar": "https://avatars.githubusercontent.com/u/73285163?v=4",
+                    "url": "https://github.com/kurimanju-dev"
+                },
+                "time": "2026-04-13T14:04:24.344441Z"
+            }
+        ],
+        "checksum": "b5b0ed09faf8806c938175a1049d3bd07ee9dc843d3999931d3019e39471ffb1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "High-level API for managing zram devices.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zram-rs",
+        "repository": "https://github.com/imara-os/zram-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 1
+        }
+    }
+}
