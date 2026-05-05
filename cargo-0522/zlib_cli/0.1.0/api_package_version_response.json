@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 810545,
+        "crate": "zlib_cli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlib_cli/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlib_cli/0.1.0/readme",
+        "updated_at": "2023-05-29T03:22:14.494601Z",
+        "created_at": "2023-05-29T03:22:14.494601Z",
+        "downloads": 1522,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib_cli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib_cli/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlib_cli/0.1.0/authors"
+        },
+        "crate_size": 5934,
+        "published_by": {
+            "id": 178043,
+            "login": "zinso",
+            "name": "zinso",
+            "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+            "url": "https://github.com/zinso"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 178043,
+                    "login": "zinso",
+                    "name": "zinso",
+                    "avatar": "https://avatars.githubusercontent.com/u/114153224?v=4",
+                    "url": "https://github.com/zinso"
+                },
+                "time": "2023-05-29T03:22:14.494601Z"
+            }
+        ],
+        "checksum": "1515d2c7308358cae922d16aa0da1b4f853f9b7afe58d7c3a91e6278147b53f0",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zlib_cli"
+        ],
+        "edition": "2021",
+        "description": "A CLI tool for compress and decompress zlib file",
+        "homepage": null,
+        "documentation": "https://docs.rs/zlib_cli",
+        "repository": "https://gitlab.com/andrew_ryan/zlib",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 50,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 50,
+            "total_comment_lines": 2
+        }
+    }
+}
