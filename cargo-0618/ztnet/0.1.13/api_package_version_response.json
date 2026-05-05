@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2053980,
+        "crate": "ztnet",
+        "num": "0.1.13",
+        "dl_path": "/api/v1/crates/ztnet/0.1.13/download",
+        "readme_path": "/api/v1/crates/ztnet/0.1.13/readme",
+        "updated_at": "2026-02-23T00:26:11.430957Z",
+        "created_at": "2026-02-23T00:26:11.430957Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/ztnet/0.1.13/dependencies",
+            "version_downloads": "/api/v1/crates/ztnet/0.1.13/downloads",
+            "authors": "/api/v1/crates/ztnet/0.1.13/authors"
+        },
+        "crate_size": 105932,
+        "published_by": {
+            "id": 390572,
+            "login": "JKamsker",
+            "name": "Jonas Kamsker",
+            "avatar": "https://avatars.githubusercontent.com/u/11245306?v=4",
+            "url": "https://github.com/JKamsker"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 390572,
+                    "login": "JKamsker",
+                    "name": "Jonas Kamsker",
+                    "avatar": "https://avatars.githubusercontent.com/u/11245306?v=4",
+                    "url": "https://github.com/JKamsker"
+                },
+                "time": "2026-02-23T00:26:11.430957Z"
+            }
+        ],
+        "checksum": "cb5e36ef1740ff5257baba92e6d9787f6754253c676f40fd32a5ba62c8c87d32",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztnet"
+        ],
+        "edition": "2024",
+        "description": "ZTNet CLI \u2014 manage ZeroTier networks via ZTNet",
+        "homepage": "https://github.com/JKamsker/ztnet-cli",
+        "documentation": null,
+        "repository": "https://github.com/JKamsker/ztnet-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Python": {
+                    "code_lines": 548,
+                    "comment_lines": 15,
+                    "files": 15
+                },
+                "Rust": {
+                    "code_lines": 6646,
+                    "comment_lines": 7,
+                    "files": 39
+                }
+            },
+            "total_code_lines": 7194,
+            "total_comment_lines": 22
+        }
+    }
+}

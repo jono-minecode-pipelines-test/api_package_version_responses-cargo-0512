@@ -1,0 +1,114 @@
+{
+    "version": {
+        "id": 2033687,
+        "crate": "ztensor",
+        "num": "1.2.1",
+        "dl_path": "/api/v1/crates/ztensor/1.2.1/download",
+        "readme_path": "/api/v1/crates/ztensor/1.2.1/readme",
+        "updated_at": "2026-02-16T18:06:31.190281Z",
+        "created_at": "2026-02-16T18:06:31.190281Z",
+        "downloads": 20,
+        "features": {
+            "all-formats": [
+                "safetensors",
+                "pickle",
+                "gguf",
+                "npz",
+                "onnx",
+                "hdf5"
+            ],
+            "cffi": [
+                "dep:libc"
+            ],
+            "default": [],
+            "gguf": [],
+            "hdf5": [],
+            "npz": [
+                "dep:zip"
+            ],
+            "onnx": [],
+            "pickle": [
+                "dep:zip"
+            ],
+            "python": [
+                "dep:pyo3",
+                "dep:numpy",
+                "all-formats"
+            ],
+            "safetensors": [
+                "dep:safetensors"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/ztensor/1.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/ztensor/1.2.1/downloads",
+            "authors": "/api/v1/crates/ztensor/1.2.1/authors"
+        },
+        "crate_size": 298462,
+        "published_by": {
+            "id": 156986,
+            "login": "ingim",
+            "name": "In Gim",
+            "avatar": "https://avatars.githubusercontent.com/u/100491189?v=4",
+            "url": "https://github.com/ingim"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156986,
+                    "login": "ingim",
+                    "name": "In Gim",
+                    "avatar": "https://avatars.githubusercontent.com/u/100491189?v=4",
+                    "url": "https://github.com/ingim"
+                },
+                "time": "2026-02-16T18:06:31.190281Z"
+            }
+        ],
+        "checksum": "4eb3dfb1dcc35d9bf6ef8b731b9447de2404c597d6ca51deae8627ed9ef8e929",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Unified, zero-copy, and safe I/O for deep learning formats",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pie-project/ztensor",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "CSS": {
+                    "code_lines": 21,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "JSX": {
+                    "code_lines": 534,
+                    "comment_lines": 12,
+                    "files": 1
+                },
+                "Python": {
+                    "code_lines": 573,
+                    "comment_lines": 289,
+                    "files": 4
+                },
+                "Rust": {
+                    "code_lines": 6908,
+                    "comment_lines": 405,
+                    "files": 16
+                },
+                "TypeScript": {
+                    "code_lines": 97,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 8133,
+            "total_comment_lines": 706
+        }
+    }
+}

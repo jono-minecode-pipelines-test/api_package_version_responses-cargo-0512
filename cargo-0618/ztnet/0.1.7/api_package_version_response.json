@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2050907,
+        "crate": "ztnet",
+        "num": "0.1.7",
+        "dl_path": "/api/v1/crates/ztnet/0.1.7/download",
+        "readme_path": "/api/v1/crates/ztnet/0.1.7/readme",
+        "updated_at": "2026-02-22T01:39:11.569956Z",
+        "created_at": "2026-02-22T01:39:11.569956Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/ztnet/0.1.7/dependencies",
+            "version_downloads": "/api/v1/crates/ztnet/0.1.7/downloads",
+            "authors": "/api/v1/crates/ztnet/0.1.7/authors"
+        },
+        "crate_size": 96217,
+        "published_by": {
+            "id": 390572,
+            "login": "JKamsker",
+            "name": "Jonas Kamsker",
+            "avatar": "https://avatars.githubusercontent.com/u/11245306?v=4",
+            "url": "https://github.com/JKamsker"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 390572,
+                    "login": "JKamsker",
+                    "name": "Jonas Kamsker",
+                    "avatar": "https://avatars.githubusercontent.com/u/11245306?v=4",
+                    "url": "https://github.com/JKamsker"
+                },
+                "time": "2026-02-22T01:39:11.569956Z"
+            }
+        ],
+        "checksum": "890207ad0c3eb87e4e824075cbad627dc1506234a173d02a383b20b484e7cc6a",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztnet"
+        ],
+        "edition": "2024",
+        "description": "ZTNet CLI \u2014 manage ZeroTier networks via ZTNet",
+        "homepage": "https://github.com/JKamsker/ztnet-cli",
+        "documentation": null,
+        "repository": "https://github.com/JKamsker/ztnet-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5886,
+                    "comment_lines": 0,
+                    "files": 37
+                }
+            },
+            "total_code_lines": 5886,
+            "total_comment_lines": 0
+        }
+    }
+}
