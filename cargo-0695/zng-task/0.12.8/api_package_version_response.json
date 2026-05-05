@@ -1,0 +1,93 @@
+{
+    "version": {
+        "id": 2198647,
+        "crate": "zng-task",
+        "num": "0.12.8",
+        "dl_path": "/api/v1/crates/zng-task/0.12.8/download",
+        "readme_path": "/api/v1/crates/zng-task/0.12.8/readme",
+        "updated_at": "2026-04-01T19:18:33.502905Z",
+        "created_at": "2026-04-01T19:18:33.502905Z",
+        "downloads": 186,
+        "features": {
+            "deadlock_detection": [
+                "parking_lot/deadlock_detection"
+            ],
+            "http": [
+                "dep:serde_json",
+                "dep:once_cell",
+                "dep:sha2",
+                "dep:base64",
+                "dep:remove_dir_all",
+                "dep:http",
+                "dep:http-serde",
+                "dep:http-cache-semantics",
+                "dep:httparse",
+                "dep:mime",
+                "dep:encoding_rs"
+            ],
+            "http_compression": [
+                "dep:async-compression"
+            ],
+            "http_cookie": [
+                "dep:cookie_store"
+            ],
+            "ipc": [
+                "dep:ipc-channel",
+                "dep:zng-unique-id",
+                "dep:memmap2"
+            ],
+            "test_util": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-task/0.12.8/dependencies",
+            "version_downloads": "/api/v1/crates/zng-task/0.12.8/downloads",
+            "authors": "/api/v1/crates/zng-task/0.12.8/authors"
+        },
+        "crate_size": 86276,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-04-01T19:18:33.502905Z"
+            }
+        ],
+        "checksum": "3d1839c17d55541ea06d6102622bfbcd0a820fc479c444f4a52bb76ce81442a3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_task",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7496,
+                    "comment_lines": 141,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 7496,
+            "total_comment_lines": 141
+        }
+    }
+}
