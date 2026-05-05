@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 1736081,
+        "crate": "zng-ext-input",
+        "num": "0.9.6",
+        "dl_path": "/api/v1/crates/zng-ext-input/0.9.6/download",
+        "readme_path": "/api/v1/crates/zng-ext-input/0.9.6/readme",
+        "updated_at": "2025-09-18T21:20:59.578939Z",
+        "created_at": "2025-09-18T21:20:59.578939Z",
+        "downloads": 632,
+        "features": {
+            "default": [],
+            "drag_drop": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-input/0.9.6/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-input/0.9.6/downloads",
+            "authors": "/api/v1/crates/zng-ext-input/0.9.6/authors"
+        },
+        "crate_size": 90181,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-09-18T21:20:59.578939Z"
+            }
+        ],
+        "checksum": "24a2f5c17f58febd3e3171264706bb75dd7eb982168687408733d393915a8964",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_input",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 81,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 8010,
+                    "comment_lines": 194,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 8091,
+            "total_comment_lines": 194
+        }
+    }
+}
