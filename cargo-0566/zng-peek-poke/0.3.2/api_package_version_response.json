@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1169154,
+        "crate": "zng-peek-poke",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/zng-peek-poke/0.3.2/download",
+        "readme_path": "/api/v1/crates/zng-peek-poke/0.3.2/readme",
+        "updated_at": "2024-06-09T17:45:00.560636Z",
+        "created_at": "2024-06-09T17:45:00.560636Z",
+        "downloads": 13602,
+        "features": {
+            "default": [
+                "derive"
+            ],
+            "derive": [
+                "peek-poke-derive"
+            ],
+            "extras": [
+                "derive",
+                "euclid"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-peek-poke/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zng-peek-poke/0.3.2/downloads",
+            "authors": "/api/v1/crates/zng-peek-poke/0.3.2/authors"
+        },
+        "crate_size": 11732,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-06-09T17:45:00.560636Z"
+            }
+        ],
+        "checksum": "570e7de0400859712a9ce87fb6d1c3ea5932e9c142ada699ccf6e626ba8d6e48",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A mechanism for serializing and deserializing data into/from byte buffers, for use in WebRender.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 460,
+                    "comment_lines": 42,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 460,
+            "total_comment_lines": 42
+        }
+    }
+}
