@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1413285,
+        "crate": "zng-ext-fs-watcher",
+        "num": "0.3.6",
+        "dl_path": "/api/v1/crates/zng-ext-fs-watcher/0.3.6/download",
+        "readme_path": "/api/v1/crates/zng-ext-fs-watcher/0.3.6/readme",
+        "updated_at": "2025-01-18T22:06:40.870288Z",
+        "created_at": "2025-01-18T22:06:40.870288Z",
+        "downloads": 820,
+        "features": {
+            "json": [
+                "dep:serde_json"
+            ],
+            "ron": [
+                "dep:ron"
+            ],
+            "toml": [
+                "dep:toml"
+            ],
+            "yaml": [
+                "dep:serde_yaml"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-fs-watcher/0.3.6/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-fs-watcher/0.3.6/downloads",
+            "authors": "/api/v1/crates/zng-ext-fs-watcher/0.3.6/authors"
+        },
+        "crate_size": 33769,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-01-18T22:06:40.870288Z"
+            }
+        ],
+        "checksum": "41ace9495aa1a5b4f3c92b528af86966ab91a87ddb3336957de10ac90102d884",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_fs_watcher",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1693,
+                    "comment_lines": 48,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 1693,
+            "total_comment_lines": 48
+        }
+    }
+}
