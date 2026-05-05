@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2263591,
+        "crate": "zxc-compress",
+        "num": "0.10.0",
+        "dl_path": "/api/v1/crates/zxc-compress/0.10.0/download",
+        "readme_path": "/api/v1/crates/zxc-compress/0.10.0/readme",
+        "updated_at": "2026-04-16T07:24:10.122858Z",
+        "created_at": "2026-04-16T07:24:10.122858Z",
+        "downloads": 17,
+        "features": {
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zxc-compress/0.10.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxc-compress/0.10.0/downloads",
+            "authors": "/api/v1/crates/zxc-compress/0.10.0/authors"
+        },
+        "crate_size": 14405,
+        "published_by": {
+            "id": 387550,
+            "login": "hellobertrand",
+            "name": "Bertrand Lebonnois",
+            "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+            "url": "https://github.com/hellobertrand"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387550,
+                    "login": "hellobertrand",
+                    "name": "Bertrand Lebonnois",
+                    "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+                    "url": "https://github.com/hellobertrand"
+                },
+                "time": "2026-04-16T07:24:10.122858Z"
+            }
+        ],
+        "checksum": "fdb6d76edb14c13ac57c5444ec542f47be93774624b3dbd48909e65a0db3a0bc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Safe Rust bindings to the ZXC compression library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/hellobertrand/zxc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 744,
+                    "comment_lines": 77,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 744,
+            "total_comment_lines": 77
+        }
+    }
+}

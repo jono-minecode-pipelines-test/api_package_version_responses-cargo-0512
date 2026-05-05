@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 872846,
+        "crate": "zvuk",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zvuk/0.1.0/download",
+        "readme_path": "/api/v1/crates/zvuk/0.1.0/readme",
+        "updated_at": "2023-08-16T03:01:43.484697Z",
+        "created_at": "2023-08-16T03:01:43.484697Z",
+        "downloads": 1574,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvuk/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvuk/0.1.0/downloads",
+            "authors": "/api/v1/crates/zvuk/0.1.0/authors"
+        },
+        "crate_size": 9239,
+        "published_by": {
+            "id": 209763,
+            "login": "Weldify",
+            "name": "Ian",
+            "avatar": "https://avatars.githubusercontent.com/u/66477673?v=4",
+            "url": "https://github.com/Weldify"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 209763,
+                    "login": "Weldify",
+                    "name": "Ian",
+                    "avatar": "https://avatars.githubusercontent.com/u/66477673?v=4",
+                    "url": "https://github.com/Weldify"
+                },
+                "time": "2023-08-16T03:01:43.484697Z"
+            }
+        ],
+        "checksum": "ea127f628892944f3dcae64ee20e755480e109cc415b4eca32319fc5a806d9d6",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zvuk"
+        ],
+        "edition": "2021",
+        "description": "Simple CLI music player",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 51,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 51,
+            "total_comment_lines": 1
+        }
+    }
+}

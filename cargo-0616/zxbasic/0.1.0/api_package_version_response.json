@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 813123,
+        "crate": "zxbasic",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zxbasic/0.1.0/download",
+        "readme_path": "/api/v1/crates/zxbasic/0.1.0/readme",
+        "updated_at": "2023-06-01T12:40:21.192854Z",
+        "created_at": "2023-06-01T12:40:21.192854Z",
+        "downloads": 1594,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zxbasic/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxbasic/0.1.0/downloads",
+            "authors": "/api/v1/crates/zxbasic/0.1.0/authors"
+        },
+        "crate_size": 4101,
+        "published_by": {
+            "id": 155470,
+            "login": "vilcans",
+            "name": "Martin Vilcans",
+            "avatar": "https://avatars.githubusercontent.com/u/48641?v=4",
+            "url": "https://github.com/vilcans"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 155470,
+                    "login": "vilcans",
+                    "name": "Martin Vilcans",
+                    "avatar": "https://avatars.githubusercontent.com/u/48641?v=4",
+                    "url": "https://github.com/vilcans"
+                },
+                "time": "2023-06-01T12:40:21.192854Z"
+            }
+        ],
+        "checksum": "5eb7e63410d1f25842cbc5dd9a5049ff9e234c72fd8c5c44a372d202c9044d16",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Generates BASIC code for the Sinclar ZX Spectrum programmatically",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 290,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 290,
+            "total_comment_lines": 0
+        }
+    }
+}

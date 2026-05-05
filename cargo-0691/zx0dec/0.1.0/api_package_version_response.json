@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 809622,
+        "crate": "zx0dec",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zx0dec/0.1.0/download",
+        "readme_path": "/api/v1/crates/zx0dec/0.1.0/readme",
+        "updated_at": "2023-05-27T09:26:09.510334Z",
+        "created_at": "2023-05-27T09:26:09.510334Z",
+        "downloads": 1552,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zx0dec/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zx0dec/0.1.0/downloads",
+            "authors": "/api/v1/crates/zx0dec/0.1.0/authors"
+        },
+        "crate_size": 5715,
+        "published_by": {
+            "id": 155470,
+            "login": "vilcans",
+            "name": "Martin Vilcans",
+            "avatar": "https://avatars.githubusercontent.com/u/48641?v=4",
+            "url": "https://github.com/vilcans"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 155470,
+                    "login": "vilcans",
+                    "name": "Martin Vilcans",
+                    "avatar": "https://avatars.githubusercontent.com/u/48641?v=4",
+                    "url": "https://github.com/vilcans"
+                },
+                "time": "2023-05-27T09:26:09.510334Z"
+            }
+        ],
+        "checksum": "0bc6a92d4bc1dea5c32823a941a36b77cb1bbe4488fb6500a3599c0ea983ddc4",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zx0dec"
+        ],
+        "edition": "2021",
+        "description": "Command-line tool to decompress files in the ZX0 compression format commonly used on 8 bit platforms",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/vilcans/zx0decompress",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 29,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 29,
+            "total_comment_lines": 0
+        }
+    }
+}

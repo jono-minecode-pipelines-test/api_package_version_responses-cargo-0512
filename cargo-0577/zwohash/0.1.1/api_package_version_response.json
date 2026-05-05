@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 278255,
+        "crate": "zwohash",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zwohash/0.1.1/download",
+        "readme_path": "/api/v1/crates/zwohash/0.1.1/readme",
+        "updated_at": "2020-08-30T13:46:35.697613Z",
+        "created_at": "2020-08-30T13:46:35.697613Z",
+        "downloads": 1249,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zwohash/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwohash/0.1.1/downloads",
+            "authors": "/api/v1/crates/zwohash/0.1.1/authors"
+        },
+        "crate_size": 13959,
+        "published_by": {
+            "id": 21979,
+            "login": "jix",
+            "name": "Jannis Harder",
+            "avatar": "https://avatars.githubusercontent.com/u/128138?v=4",
+            "url": "https://github.com/jix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 21979,
+                    "login": "jix",
+                    "name": "Jannis Harder",
+                    "avatar": "https://avatars.githubusercontent.com/u/128138?v=4",
+                    "url": "https://github.com/jix"
+                },
+                "time": "2020-08-30T13:46:35.697613Z"
+            }
+        ],
+        "checksum": "117e3c7a18f765c1a22dd4f58e9836223e7a5f035ae828ffcbc60babb3929b4b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A fast, deterministic, non-cryptographic hash for use in hash tables",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/jix/zwohash/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Python": {
+                    "code_lines": 60,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 170,
+                    "comment_lines": 51,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 230,
+            "total_comment_lines": 51
+        }
+    }
+}

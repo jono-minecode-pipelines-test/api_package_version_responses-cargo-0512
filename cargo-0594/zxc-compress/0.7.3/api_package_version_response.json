@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 2039557,
+        "crate": "zxc-compress",
+        "num": "0.7.3",
+        "dl_path": "/api/v1/crates/zxc-compress/0.7.3/download",
+        "readme_path": "/api/v1/crates/zxc-compress/0.7.3/readme",
+        "updated_at": "2026-02-25T14:40:55.203299Z",
+        "created_at": "2026-02-18T09:17:23.179719Z",
+        "downloads": 19,
+        "features": {
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zxc-compress/0.7.3/dependencies",
+            "version_downloads": "/api/v1/crates/zxc-compress/0.7.3/downloads",
+            "authors": "/api/v1/crates/zxc-compress/0.7.3/authors"
+        },
+        "crate_size": 11339,
+        "published_by": {
+            "id": 387550,
+            "login": "hellobertrand",
+            "name": "Bertrand Lebonnois",
+            "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+            "url": "https://github.com/hellobertrand"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387550,
+                    "login": "hellobertrand",
+                    "name": "Bertrand Lebonnois",
+                    "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+                    "url": "https://github.com/hellobertrand"
+                },
+                "time": "2026-02-18T09:17:23.179719Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 387550,
+                    "login": "hellobertrand",
+                    "name": "Bertrand Lebonnois",
+                    "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+                    "url": "https://github.com/hellobertrand"
+                },
+                "time": "2026-02-25T14:40:53.946576Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 387550,
+                    "login": "hellobertrand",
+                    "name": "Bertrand Lebonnois",
+                    "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+                    "url": "https://github.com/hellobertrand"
+                },
+                "time": "2026-02-25T14:40:55.205536Z"
+            }
+        ],
+        "checksum": "a70b3ce5b7082fc958cf6cdd7928ac45a8d03cc665932d47f2d4230a4a3e2c85",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Safe Rust bindings to the ZXC compression library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/hellobertrand/zxc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 627,
+                    "comment_lines": 72,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 627,
+            "total_comment_lines": 72
+        }
+    }
+}
