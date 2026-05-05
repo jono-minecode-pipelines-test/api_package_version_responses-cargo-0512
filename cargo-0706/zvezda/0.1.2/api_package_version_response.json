@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 734141,
+        "crate": "zvezda",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zvezda/0.1.2/download",
+        "readme_path": "/api/v1/crates/zvezda/0.1.2/readme",
+        "updated_at": "2023-02-23T17:44:36.379977Z",
+        "created_at": "2023-02-23T17:44:36.379977Z",
+        "downloads": 1121,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause-Patent",
+        "links": {
+            "dependencies": "/api/v1/crates/zvezda/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zvezda/0.1.2/downloads",
+            "authors": "/api/v1/crates/zvezda/0.1.2/authors"
+        },
+        "crate_size": 3308,
+        "published_by": {
+            "id": 199749,
+            "login": "inzig0",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/47898043?v=4",
+            "url": "https://github.com/inzig0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 199749,
+                    "login": "inzig0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/47898043?v=4",
+                    "url": "https://github.com/inzig0"
+                },
+                "time": "2023-02-23T17:44:36.379977Z"
+            }
+        ],
+        "checksum": "18de372914964942e0bbcf06811f2a59ff977987e58170b02a52bb6b38095962",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Simple, fast, lightweight and non-intrusive web library",
+        "homepage": "https://gitlab.com/inzig0/zvezda",
+        "documentation": null,
+        "repository": "https://gitlab.com/inzig0/zvezda",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 110,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 110,
+            "total_comment_lines": 9
+        }
+    }
+}

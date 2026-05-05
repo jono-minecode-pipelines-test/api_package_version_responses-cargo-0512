@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2029965,
+        "crate": "zvault-cli",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zvault-cli/0.2.0/download",
+        "readme_path": "/api/v1/crates/zvault-cli/0.2.0/readme",
+        "updated_at": "2026-02-15T11:40:19.447457Z",
+        "created_at": "2026-02-15T11:40:19.447457Z",
+        "downloads": 21,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvault-cli/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvault-cli/0.2.0/downloads",
+            "authors": "/api/v1/crates/zvault-cli/0.2.0/authors"
+        },
+        "crate_size": 79769,
+        "published_by": {
+            "id": 389812,
+            "login": "VanitasCaesar1",
+            "name": "Vanitas Caesar",
+            "avatar": "https://avatars.githubusercontent.com/u/94681960?v=4",
+            "url": "https://github.com/VanitasCaesar1"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389812,
+                    "login": "VanitasCaesar1",
+                    "name": "Vanitas Caesar",
+                    "avatar": "https://avatars.githubusercontent.com/u/94681960?v=4",
+                    "url": "https://github.com/VanitasCaesar1"
+                },
+                "time": "2026-02-15T11:40:19.447457Z"
+            }
+        ],
+        "checksum": "6fc86e17f2487538d5b39ee985028124518fef62ff230029f019eb3345a651a6",
+        "rust_version": "1.85",
+        "has_lib": false,
+        "bin_names": [
+            "zvault"
+        ],
+        "edition": "2024",
+        "description": "ZVault CLI \u2014 AI-native secrets manager. Import .env files, inject secrets at runtime, MCP server for AI coding assistants",
+        "homepage": "https://zvault.cloud",
+        "documentation": "https://docs.zvault.cloud",
+        "repository": "https://github.com/VanitasCaesar1/zvault",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5138,
+                    "comment_lines": 231,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 5138,
+            "total_comment_lines": 231
+        }
+    }
+}
