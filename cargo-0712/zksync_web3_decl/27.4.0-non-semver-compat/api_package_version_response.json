@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1534153,
+        "crate": "zksync_web3_decl",
+        "num": "27.4.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_web3_decl/27.4.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_web3_decl/27.4.0-non-semver-compat/readme",
+        "updated_at": "2025-04-22T12:41:02.792019Z",
+        "created_at": "2025-04-22T12:41:02.792019Z",
+        "downloads": 523,
+        "features": {
+            "default": [],
+            "server": [
+                "jsonrpsee/server"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_web3_decl/27.4.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_web3_decl/27.4.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_web3_decl/27.4.0-non-semver-compat/authors"
+        },
+        "crate_size": 23235,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-04-22T12:41:02.792019Z"
+            }
+        ],
+        "checksum": "5eebb85ea8783603b882b7c73734d742e675333dff5ccf1b13ddaa2f386cbccc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync Web3 API abstractions and clients",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2425,
+                    "comment_lines": 41,
+                    "files": 20
+                }
+            },
+            "total_code_lines": 2425,
+            "total_comment_lines": 41
+        }
+    }
+}

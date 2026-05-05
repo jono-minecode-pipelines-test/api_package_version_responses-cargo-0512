@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1562634,
+        "crate": "zkvc",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zkvc/0.1.0/download",
+        "readme_path": "/api/v1/crates/zkvc/0.1.0/readme",
+        "updated_at": "2025-05-13T23:54:09.489181Z",
+        "created_at": "2025-05-13T23:54:09.489181Z",
+        "downloads": 593,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zkvc/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zkvc/0.1.0/downloads",
+            "authors": "/api/v1/crates/zkvc/0.1.0/authors"
+        },
+        "crate_size": 23348,
+        "published_by": {
+            "id": 333292,
+            "login": "Petr1Furious",
+            "name": "Petr Tsopa",
+            "avatar": "https://avatars.githubusercontent.com/u/35459417?v=4",
+            "url": "https://github.com/Petr1Furious"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 333292,
+                    "login": "Petr1Furious",
+                    "name": "Petr Tsopa",
+                    "avatar": "https://avatars.githubusercontent.com/u/35459417?v=4",
+                    "url": "https://github.com/Petr1Furious"
+                },
+                "time": "2025-05-13T23:54:09.489181Z"
+            }
+        ],
+        "checksum": "9abfb40e751944f2cb62c259059e38e04dfb038811c6e07605b7a1adf9bbccee",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A Rust crate for building zero-knowledge proof-based volunteer computing systems",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Petr1Furious/zkvc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 420,
+                    "comment_lines": 0,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 420,
+            "total_comment_lines": 0
+        }
+    }
+}

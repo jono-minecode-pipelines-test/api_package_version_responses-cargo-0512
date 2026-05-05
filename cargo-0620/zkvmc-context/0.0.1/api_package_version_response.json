@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1519763,
+        "crate": "zkvmc-context",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zkvmc-context/0.0.1/download",
+        "readme_path": "/api/v1/crates/zkvmc-context/0.0.1/readme",
+        "updated_at": "2025-04-11T08:14:05.042264Z",
+        "created_at": "2025-04-11T08:14:05.042264Z",
+        "downloads": 1625,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkvmc-context/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zkvmc-context/0.0.1/downloads",
+            "authors": "/api/v1/crates/zkvmc-context/0.0.1/authors"
+        },
+        "crate_size": 6181,
+        "published_by": {
+            "id": 321547,
+            "login": "johnxudev",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+            "url": "https://github.com/johnxudev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 321547,
+                    "login": "johnxudev",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+                    "url": "https://github.com/johnxudev"
+                },
+                "time": "2025-04-11T08:14:05.042264Z"
+            }
+        ],
+        "checksum": "1269207e3e9e405f622dc067059c062d7a79200f490a1ae4bf4ad5b4f50e0010",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zkVMc runtime context",
+        "homepage": "https://github.com/dyxushuai/zkvmc",
+        "documentation": null,
+        "repository": "https://github.com/dyxushuai/zkvmc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 165,
+                    "comment_lines": 8,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 165,
+            "total_comment_lines": 8
+        }
+    }
+}

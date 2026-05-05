@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1519773,
+        "crate": "zkvmc-test-util",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zkvmc-test-util/0.0.1/download",
+        "readme_path": "/api/v1/crates/zkvmc-test-util/0.0.1/readme",
+        "updated_at": "2025-04-11T08:24:53.503897Z",
+        "created_at": "2025-04-11T08:24:53.503897Z",
+        "downloads": 1038,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkvmc-test-util/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zkvmc-test-util/0.0.1/downloads",
+            "authors": "/api/v1/crates/zkvmc-test-util/0.0.1/authors"
+        },
+        "crate_size": 3195,
+        "published_by": {
+            "id": 321547,
+            "login": "johnxudev",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+            "url": "https://github.com/johnxudev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 321547,
+                    "login": "johnxudev",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+                    "url": "https://github.com/johnxudev"
+                },
+                "time": "2025-04-11T08:24:53.503897Z"
+            }
+        ],
+        "checksum": "aaa54e171f6c890419c90259691449ed4b158a796ffaee1ed94cdd09e0243886",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Utilities tests in zkVMc",
+        "homepage": "https://github.com/dyxushuai/zkvmc",
+        "documentation": null,
+        "repository": "https://github.com/dyxushuai/zkvmc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 11,
+            "total_comment_lines": 0
+        }
+    }
+}

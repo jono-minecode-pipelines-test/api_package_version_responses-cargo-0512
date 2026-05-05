@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 555100,
+        "crate": "zkwork_aleo_protocol",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zkwork_aleo_protocol/0.1.0/download",
+        "readme_path": "/api/v1/crates/zkwork_aleo_protocol/0.1.0/readme",
+        "updated_at": "2022-06-13T08:29:07.529646Z",
+        "created_at": "2022-05-25T01:40:40.628932Z",
+        "downloads": 1082,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkwork_aleo_protocol/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zkwork_aleo_protocol/0.1.0/downloads",
+            "authors": "/api/v1/crates/zkwork_aleo_protocol/0.1.0/authors"
+        },
+        "crate_size": 15195,
+        "published_by": {
+            "id": 161743,
+            "login": "Pegasus-starry",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/73818965?v=4",
+            "url": "https://github.com/Pegasus-starry"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 161743,
+                    "login": "Pegasus-starry",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/73818965?v=4",
+                    "url": "https://github.com/Pegasus-starry"
+                },
+                "time": "2022-05-25T01:40:40.628932Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 161743,
+                    "login": "Pegasus-starry",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/73818965?v=4",
+                    "url": "https://github.com/Pegasus-starry"
+                },
+                "time": "2022-06-13T08:29:07.533187Z"
+            }
+        ],
+        "checksum": "6be92c353b28ab71b4ae1d600f4e154bd30781d146c2a7bf3e2284711e6f0696",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A protocol lib for aleo pool",
+        "homepage": "https://aleo.org",
+        "documentation": null,
+        "repository": "https://github.com/6block/zkwork_aleo_protocol",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1460,
+                    "comment_lines": 212,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 1460,
+            "total_comment_lines": 212
+        }
+    }
+}

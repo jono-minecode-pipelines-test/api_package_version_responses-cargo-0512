@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 563067,
+        "crate": "zkwork_aleo_protocol",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zkwork_aleo_protocol/0.1.2/download",
+        "readme_path": "/api/v1/crates/zkwork_aleo_protocol/0.1.2/readme",
+        "updated_at": "2022-06-08T09:40:20.143951Z",
+        "created_at": "2022-06-08T09:40:20.143951Z",
+        "downloads": 1069,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkwork_aleo_protocol/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zkwork_aleo_protocol/0.1.2/downloads",
+            "authors": "/api/v1/crates/zkwork_aleo_protocol/0.1.2/authors"
+        },
+        "crate_size": 5302,
+        "published_by": {
+            "id": 161743,
+            "login": "Pegasus-starry",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/73818965?v=4",
+            "url": "https://github.com/Pegasus-starry"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 161743,
+                    "login": "Pegasus-starry",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/73818965?v=4",
+                    "url": "https://github.com/Pegasus-starry"
+                },
+                "time": "2022-06-08T09:40:20.143951Z"
+            }
+        ],
+        "checksum": "6fa4b7ddc0a90681b08ecc2f3bccf755b9fa6dead800fa2221c5eb219309deb6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A protocol lib for aleo pool",
+        "homepage": "https://zk.work/aleo/home",
+        "documentation": null,
+        "repository": "https://github.com/6block/zkwork_aleo_protocol",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 361,
+                    "comment_lines": 43,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 361,
+            "total_comment_lines": 43
+        }
+    }
+}
