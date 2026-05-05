@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2068217,
+        "crate": "zngur-autozng",
+        "num": "0.8.0",
+        "dl_path": "/api/v1/crates/zngur-autozng/0.8.0/download",
+        "readme_path": "/api/v1/crates/zngur-autozng/0.8.0/readme",
+        "updated_at": "2026-02-26T22:37:21.977658Z",
+        "created_at": "2026-02-26T22:37:21.977658Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zngur-autozng/0.8.0/dependencies",
+            "version_downloads": "/api/v1/crates/zngur-autozng/0.8.0/downloads",
+            "authors": "/api/v1/crates/zngur-autozng/0.8.0/authors"
+        },
+        "crate_size": 2831,
+        "published_by": {
+            "id": 139698,
+            "login": "HKalbasi",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+            "url": "https://github.com/HKalbasi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139698,
+                    "login": "HKalbasi",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+                    "url": "https://github.com/HKalbasi"
+                },
+                "time": "2026-02-26T22:37:21.977658Z"
+            }
+        ],
+        "checksum": "23cad4955a3d229aa253f6761fb2a3ac03274f48fbceeb68c8f27414b761e850",
+        "rust_version": "1.85",
+        "has_lib": false,
+        "bin_names": [
+            "zngur-autozng"
+        ],
+        "edition": "2024",
+        "description": "Generating Zngur zng files automatically for a Rust crate",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 165,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 165,
+            "total_comment_lines": 1
+        }
+    }
+}
