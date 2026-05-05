@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1914447,
+        "crate": "zrd-core",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zrd-core/0.1.2/download",
+        "readme_path": "/api/v1/crates/zrd-core/0.1.2/readme",
+        "updated_at": "2026-01-01T11:23:36.085578Z",
+        "created_at": "2026-01-01T11:23:36.085578Z",
+        "downloads": 149,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrd-core/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrd-core/0.1.2/downloads",
+            "authors": "/api/v1/crates/zrd-core/0.1.2/authors"
+        },
+        "crate_size": 7461,
+        "published_by": {
+            "id": 345253,
+            "login": "douglance",
+            "name": "doug",
+            "avatar": "https://avatars.githubusercontent.com/u/4741454?v=4",
+            "url": "https://github.com/douglance"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 345253,
+                    "login": "douglance",
+                    "name": "doug",
+                    "avatar": "https://avatars.githubusercontent.com/u/4741454?v=4",
+                    "url": "https://github.com/douglance"
+                },
+                "time": "2026-01-01T11:23:36.085578Z"
+            }
+        ],
+        "checksum": "1551425eb939af92df1db58a981df3bb44144082770f66013698c541cd389d3f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Core editing logic for Zrd text editor (platform-agnostic)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/douglance/zrd",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 731,
+                    "comment_lines": 13,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 731,
+            "total_comment_lines": 13
+        }
+    }
+}

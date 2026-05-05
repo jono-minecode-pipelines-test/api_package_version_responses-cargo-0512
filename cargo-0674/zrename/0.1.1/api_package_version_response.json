@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1610283,
+        "crate": "zrename",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zrename/0.1.1/download",
+        "readme_path": "/api/v1/crates/zrename/0.1.1/readme",
+        "updated_at": "2025-06-21T09:12:24.614620Z",
+        "created_at": "2025-06-21T09:01:32.332099Z",
+        "downloads": 357,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrename/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zrename/0.1.1/downloads",
+            "authors": "/api/v1/crates/zrename/0.1.1/authors"
+        },
+        "crate_size": 432618,
+        "published_by": {
+            "id": 242626,
+            "login": "student1304",
+            "name": "Bjoern",
+            "avatar": "https://avatars.githubusercontent.com/u/31954936?v=4",
+            "url": "https://github.com/student1304"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 242626,
+                    "login": "student1304",
+                    "name": "Bjoern",
+                    "avatar": "https://avatars.githubusercontent.com/u/31954936?v=4",
+                    "url": "https://github.com/student1304"
+                },
+                "time": "2025-06-21T09:01:32.332099Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 242626,
+                    "login": "student1304",
+                    "name": "Bjoern",
+                    "avatar": "https://avatars.githubusercontent.com/u/31954936?v=4",
+                    "url": "https://github.com/student1304"
+                },
+                "time": "2025-06-21T09:12:24.617176Z"
+            }
+        ],
+        "checksum": "007be5663c53a6490b01aa4ed0698c3e07635c431fbdcec21b72bed0c1d68a29",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zrename"
+        ],
+        "edition": "2024",
+        "description": "CLI tool to rename files by removing a specified substring.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://gitlab.com/student1304/zrename-files-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 38,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 38,
+            "total_comment_lines": 0
+        }
+    }
+}

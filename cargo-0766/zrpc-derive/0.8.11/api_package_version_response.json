@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1673424,
+        "crate": "zrpc-derive",
+        "num": "0.8.11",
+        "dl_path": "/api/v1/crates/zrpc-derive/0.8.11/download",
+        "readme_path": "/api/v1/crates/zrpc-derive/0.8.11/readme",
+        "updated_at": "2025-08-06T12:17:34.015162Z",
+        "created_at": "2025-08-06T12:17:34.015162Z",
+        "downloads": 401,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": " EPL-2.0 OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrpc-derive/0.8.11/dependencies",
+            "version_downloads": "/api/v1/crates/zrpc-derive/0.8.11/downloads",
+            "authors": "/api/v1/crates/zrpc-derive/0.8.11/authors"
+        },
+        "crate_size": 28801,
+        "published_by": {
+            "id": 257101,
+            "login": "zettascale-bot",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/161707711?v=4",
+            "url": "https://github.com/zettascale-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 257101,
+                    "login": "zettascale-bot",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/161707711?v=4",
+                    "url": "https://github.com/zettascale-bot"
+                },
+                "time": "2025-08-06T12:17:34.015162Z"
+            }
+        ],
+        "checksum": "ec6da119285013ddd6eb7d5d16cc957f7f76f0f29cea2a79b7ec309258eff03f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Framework for decentralized and distributed microservices over Zenoh.",
+        "homepage": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "documentation": null,
+        "repository": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 499,
+                    "comment_lines": 24,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 499,
+            "total_comment_lines": 24
+        }
+    }
+}

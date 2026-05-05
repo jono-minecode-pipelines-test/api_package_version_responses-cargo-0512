@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1610288,
+        "crate": "zrename",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zrename/0.1.2/download",
+        "readme_path": "/api/v1/crates/zrename/0.1.2/readme",
+        "updated_at": "2025-06-21T09:12:06.179393Z",
+        "created_at": "2025-06-21T09:12:06.179393Z",
+        "downloads": 499,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrename/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrename/0.1.2/downloads",
+            "authors": "/api/v1/crates/zrename/0.1.2/authors"
+        },
+        "crate_size": 432616,
+        "published_by": {
+            "id": 242626,
+            "login": "student1304",
+            "name": "Bjoern",
+            "avatar": "https://avatars.githubusercontent.com/u/31954936?v=4",
+            "url": "https://github.com/student1304"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 242626,
+                    "login": "student1304",
+                    "name": "Bjoern",
+                    "avatar": "https://avatars.githubusercontent.com/u/31954936?v=4",
+                    "url": "https://github.com/student1304"
+                },
+                "time": "2025-06-21T09:12:06.179393Z"
+            }
+        ],
+        "checksum": "f1e4c5d5d52bc15b471915ecab7ab79337bc66f6e7557087e2d0ec0f686fe600",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zrename"
+        ],
+        "edition": "2024",
+        "description": "CLI tool to rename files by removing a specified substring.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://gitlab.com/student1304/zrename-files-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 38,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 38,
+            "total_comment_lines": 0
+        }
+    }
+}

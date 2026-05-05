@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1628186,
+        "crate": "zrbecker-minigrep",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zrbecker-minigrep/0.1.0/download",
+        "readme_path": "/api/v1/crates/zrbecker-minigrep/0.1.0/readme",
+        "updated_at": "2025-07-05T03:31:43.198084Z",
+        "created_at": "2025-07-05T03:31:43.198084Z",
+        "downloads": 470,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrbecker-minigrep/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrbecker-minigrep/0.1.0/downloads",
+            "authors": "/api/v1/crates/zrbecker-minigrep/0.1.0/authors"
+        },
+        "crate_size": 2136,
+        "published_by": {
+            "id": 342450,
+            "login": "zrbecker",
+            "name": "Zachary Becker",
+            "avatar": "https://avatars.githubusercontent.com/u/142596?v=4",
+            "url": "https://github.com/zrbecker"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 342450,
+                    "login": "zrbecker",
+                    "name": "Zachary Becker",
+                    "avatar": "https://avatars.githubusercontent.com/u/142596?v=4",
+                    "url": "https://github.com/zrbecker"
+                },
+                "time": "2025-07-05T03:31:43.198084Z"
+            }
+        ],
+        "checksum": "66ac05ce0650fdadecd6febbbf3ce7370b4f31276fe5625597d955617fca683a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zrbecker-minigrep"
+        ],
+        "edition": "2024",
+        "description": "a mini version of the grep tool",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 126,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 126,
+            "total_comment_lines": 0
+        }
+    }
+}
