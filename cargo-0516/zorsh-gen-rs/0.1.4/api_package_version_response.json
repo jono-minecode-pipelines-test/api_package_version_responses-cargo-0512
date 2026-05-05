@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1456758,
+        "crate": "zorsh-gen-rs",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zorsh-gen-rs/0.1.4/download",
+        "readme_path": "/api/v1/crates/zorsh-gen-rs/0.1.4/readme",
+        "updated_at": "2025-02-23T02:04:16.725456Z",
+        "created_at": "2025-02-23T02:04:16.725456Z",
+        "downloads": 981,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorsh-gen-rs/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zorsh-gen-rs/0.1.4/downloads",
+            "authors": "/api/v1/crates/zorsh-gen-rs/0.1.4/authors"
+        },
+        "crate_size": 28066,
+        "published_by": {
+            "id": 317189,
+            "login": "r-near",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/163825889?v=4",
+            "url": "https://github.com/r-near"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 317189,
+                    "login": "r-near",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/163825889?v=4",
+                    "url": "https://github.com/r-near"
+                },
+                "time": "2025-02-23T02:04:16.725456Z"
+            }
+        ],
+        "checksum": "3022cfc7f95cd972b56da203d52af984649504a19bc125a0f0425e513327b4f0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zorsh-gen-rs"
+        ],
+        "edition": "2021",
+        "description": "Zorsh generator for Rust",
+        "homepage": "https://zorsh.dev",
+        "documentation": null,
+        "repository": "https://github.com/r-near/zorsh-gen-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 801,
+                    "comment_lines": 47,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 801,
+            "total_comment_lines": 47
+        }
+    }
+}
