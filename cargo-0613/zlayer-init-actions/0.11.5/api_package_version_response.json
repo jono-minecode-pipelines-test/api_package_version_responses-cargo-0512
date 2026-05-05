@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2317087,
+        "crate": "zlayer-init-actions",
+        "num": "0.11.5",
+        "dl_path": "/api/v1/crates/zlayer-init-actions/0.11.5/download",
+        "readme_path": "/api/v1/crates/zlayer-init-actions/0.11.5/readme",
+        "updated_at": "2026-04-27T21:25:06.603020Z",
+        "created_at": "2026-04-27T21:25:06.603020Z",
+        "downloads": 10,
+        "features": {
+            "default": [],
+            "s3": [
+                "dep:aws-sdk-s3",
+                "dep:aws-config"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-init-actions/0.11.5/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-init-actions/0.11.5/downloads",
+            "authors": "/api/v1/crates/zlayer-init-actions/0.11.5/authors"
+        },
+        "crate_size": 24801,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-27T21:25:06.603020Z"
+            }
+        ],
+        "checksum": "d96bd88cde22530d3b08cb7c9b420527c2c85a7f4b04e7f1b086954fcdcf5878",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Pre-start container lifecycle actions (TCP, HTTP, S3, commands)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 596,
+                    "comment_lines": 10,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 596,
+            "total_comment_lines": 10
+        }
+    }
+}
