@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 481,
+        "crate": "zookeeper",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zookeeper/0.0.3/download",
+        "readme_path": "/api/v1/crates/zookeeper/0.0.3/readme",
+        "updated_at": "2017-11-30T02:51:12.625471Z",
+        "created_at": "2014-11-22T11:28:34.617683Z",
+        "downloads": 1665,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper/0.0.3/downloads",
+            "authors": "/api/v1/crates/zookeeper/0.0.3/authors"
+        },
+        "crate_size": 7758,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "3cc349c1ad88557ec12a6d405c4ee946802dda59beb58565cae09134e6fa146a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A minimal ZooKeeper client, work in progress",
+        "homepage": "https://github.com/rust-lang/time",
+        "documentation": null,
+        "repository": "https://github.com/bonifaido/rust-zookeeper",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 692,
+                    "comment_lines": 6,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 692,
+            "total_comment_lines": 6
+        }
+    }
+}

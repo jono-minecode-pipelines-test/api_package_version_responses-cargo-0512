@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 92128,
+        "crate": "zoneq",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zoneq/0.1.1/download",
+        "readme_path": "/api/v1/crates/zoneq/0.1.1/readme",
+        "updated_at": "2018-05-09T22:31:48.107926Z",
+        "created_at": "2018-05-09T22:31:48.107926Z",
+        "downloads": 2023,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneq/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoneq/0.1.1/downloads",
+            "authors": "/api/v1/crates/zoneq/0.1.1/authors"
+        },
+        "crate_size": 3111,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "50c634de8eac438d0b6d52a44ad067c217d2a7b1bed2060a0a061862e0a85586",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zoneq"
+        ],
+        "edition": null,
+        "description": "Query zone files.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/sjparknson/zoneq",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 68,
+                    "comment_lines": 7,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 68,
+            "total_comment_lines": 7
+        }
+    }
+}

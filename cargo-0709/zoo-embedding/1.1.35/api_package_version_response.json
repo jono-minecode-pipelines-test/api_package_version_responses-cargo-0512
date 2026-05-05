@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1827536,
+        "crate": "zoo-embedding",
+        "num": "1.1.35",
+        "dl_path": "/api/v1/crates/zoo-embedding/1.1.35/download",
+        "readme_path": "/api/v1/crates/zoo-embedding/1.1.35/readme",
+        "updated_at": "2025-11-16T02:49:30.772570Z",
+        "created_at": "2025-11-16T02:49:30.772570Z",
+        "downloads": 32,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoo-embedding/1.1.35/dependencies",
+            "version_downloads": "/api/v1/crates/zoo-embedding/1.1.35/downloads",
+            "authors": "/api/v1/crates/zoo-embedding/1.1.35/authors"
+        },
+        "crate_size": 18617,
+        "published_by": {
+            "id": 354465,
+            "login": "zeekay",
+            "name": "z",
+            "avatar": "https://avatars.githubusercontent.com/u/285707?v=4",
+            "url": "https://github.com/zeekay"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 354465,
+                    "login": "zeekay",
+                    "name": "z",
+                    "avatar": "https://avatars.githubusercontent.com/u/285707?v=4",
+                    "url": "https://github.com/zeekay"
+                },
+                "time": "2025-11-16T02:49:30.772570Z"
+            }
+        ],
+        "checksum": "dd57d417f30060b4851964b2407bd53d6b2c419f32ae3bb61c0fe8612d41f7fb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Model Context Protocol implementation",
+        "homepage": "https://zoo.ai",
+        "documentation": null,
+        "repository": "https://github.com/zooai/node",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 614,
+                    "comment_lines": 33,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 614,
+            "total_comment_lines": 33
+        }
+    }
+}

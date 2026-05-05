@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 340369,
+        "crate": "zookeeper",
+        "num": "0.6.0",
+        "dl_path": "/api/v1/crates/zookeeper/0.6.0/download",
+        "readme_path": "/api/v1/crates/zookeeper/0.6.0/readme",
+        "updated_at": "2021-02-16T10:09:46.233459Z",
+        "created_at": "2021-02-16T10:09:46.233459Z",
+        "downloads": 63409,
+        "features": {
+            "unstable": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper/0.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper/0.6.0/downloads",
+            "authors": "/api/v1/crates/zookeeper/0.6.0/authors"
+        },
+        "crate_size": 38206,
+        "published_by": {
+            "id": 382,
+            "login": "bonifaido",
+            "name": "N\u00e1ndor Istv\u00e1n Kr\u00e1cser",
+            "avatar": "https://avatars.githubusercontent.com/u/23779?v=4",
+            "url": "https://github.com/bonifaido"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 382,
+                    "login": "bonifaido",
+                    "name": "N\u00e1ndor Istv\u00e1n Kr\u00e1cser",
+                    "avatar": "https://avatars.githubusercontent.com/u/23779?v=4",
+                    "url": "https://github.com/bonifaido"
+                },
+                "time": "2021-02-16T10:09:46.233459Z"
+            }
+        ],
+        "checksum": "3b6375cc666ebaa54bf55b37829762e3800684833afaf590f206728d64cfe7f0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A minimal ZooKeeper client",
+        "homepage": "https://github.com/bonifaido/rust-zookeeper",
+        "documentation": "http://bonifaido.github.io/rust-zookeeper",
+        "repository": "https://github.com/bonifaido/rust-zookeeper",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Kotlin": {
+                    "code_lines": 39,
+                    "comment_lines": 1,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 2435,
+                    "comment_lines": 75,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 2474,
+            "total_comment_lines": 76
+        }
+    }
+}

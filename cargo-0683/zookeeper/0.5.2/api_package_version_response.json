@@ -1,0 +1,53 @@
+{
+    "version": {
+        "id": 93045,
+        "crate": "zookeeper",
+        "num": "0.5.2",
+        "dl_path": "/api/v1/crates/zookeeper/0.5.2/download",
+        "readme_path": "/api/v1/crates/zookeeper/0.5.2/readme",
+        "updated_at": "2018-05-16T12:01:33.138717Z",
+        "created_at": "2018-05-16T12:01:33.138717Z",
+        "downloads": 2002,
+        "features": {
+            "unstable": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper/0.5.2/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper/0.5.2/downloads",
+            "authors": "/api/v1/crates/zookeeper/0.5.2/authors"
+        },
+        "crate_size": 30001,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "3b3094a0d1b8f916da597326a8ae816acb6853b6ec42cc0814cfd0a7ff935fc7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A minimal ZooKeeper client",
+        "homepage": "https://github.com/bonifaido/rust-zookeeper",
+        "documentation": "http://bonifaido.github.io/rust-zookeeper",
+        "repository": "https://github.com/bonifaido/rust-zookeeper",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Kotlin": {
+                    "code_lines": 37,
+                    "comment_lines": 1,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 2063,
+                    "comment_lines": 66,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 2100,
+            "total_comment_lines": 67
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1450181,
+        "crate": "zoo-endpoint",
+        "num": "0.1.3",
+        "dl_path": "/api/v1/crates/zoo-endpoint/0.1.3/download",
+        "readme_path": "/api/v1/crates/zoo-endpoint/0.1.3/readme",
+        "updated_at": "2025-02-17T21:17:24.567953Z",
+        "created_at": "2025-02-17T21:17:24.567953Z",
+        "downloads": 626,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoo-endpoint/0.1.3/dependencies",
+            "version_downloads": "/api/v1/crates/zoo-endpoint/0.1.3/downloads",
+            "authors": "/api/v1/crates/zoo-endpoint/0.1.3/authors"
+        },
+        "crate_size": 16032,
+        "published_by": {
+            "id": 95,
+            "login": "iterion",
+            "name": "Adam Sunderland",
+            "avatar": "https://avatars.githubusercontent.com/u/145272?v=4",
+            "url": "https://github.com/iterion"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 95,
+                    "login": "iterion",
+                    "name": "Adam Sunderland",
+                    "avatar": "https://avatars.githubusercontent.com/u/145272?v=4",
+                    "url": "https://github.com/iterion"
+                },
+                "time": "2025-02-17T21:17:24.567953Z"
+            }
+        ],
+        "checksum": "b149c48bc082f4ee51dda37bdd283d241e779d2a4ac8fdeb70bf189e0f8fa742",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Macro used by zoo consumers for registering handlers. This wraps dropshot's `Endpoint` and adds some extra functionality for tracing.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kittycad/common",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1055,
+                    "comment_lines": 50,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1055,
+            "total_comment_lines": 50
+        }
+    }
+}

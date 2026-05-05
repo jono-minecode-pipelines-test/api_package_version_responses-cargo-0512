@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 479,
+        "crate": "zookeeper",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zookeeper/0.0.1/download",
+        "readme_path": "/api/v1/crates/zookeeper/0.0.1/readme",
+        "updated_at": "2017-11-30T04:02:26.144225Z",
+        "created_at": "2014-11-22T11:12:02.501900Z",
+        "downloads": 1630,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": null,
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper/0.0.1/downloads",
+            "authors": "/api/v1/crates/zookeeper/0.0.1/authors"
+        },
+        "crate_size": 7704,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "7577891d18301196240a1a5fd20bbdcd140d8595a0e8c1d4ee3e4bc3240413a4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A minimal ZooKeeper client, work in progress",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 692,
+                    "comment_lines": 6,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 692,
+            "total_comment_lines": 6
+        }
+    }
+}
