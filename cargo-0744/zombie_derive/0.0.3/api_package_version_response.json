@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1898735,
+        "crate": "zombie_derive",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zombie_derive/0.0.3/download",
+        "readme_path": "/api/v1/crates/zombie_derive/0.0.3/readme",
+        "updated_at": "2025-12-23T11:06:03.061578Z",
+        "created_at": "2025-12-23T11:06:03.061578Z",
+        "downloads": 22,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie_derive/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zombie_derive/0.0.3/downloads",
+            "authors": "/api/v1/crates/zombie_derive/0.0.3/authors"
+        },
+        "crate_size": 3685,
+        "published_by": {
+            "id": 337376,
+            "login": "kawayww",
+            "name": "K.Y.",
+            "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+            "url": "https://github.com/kawayww"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 337376,
+                    "login": "kawayww",
+                    "name": "K.Y.",
+                    "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+                    "url": "https://github.com/kawayww"
+                },
+                "time": "2025-12-23T11:06:03.061578Z"
+            }
+        ],
+        "checksum": "066b9c72c0e771f7f7430a3e97fd407dc8f7d34d15f3b9bb952f91cd7ec700a8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Derive macros for zombie-rs (ZombieOps)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kawayww/zombie-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 110,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 110,
+            "total_comment_lines": 9
+        }
+    }
+}

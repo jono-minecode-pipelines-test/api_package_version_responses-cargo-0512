@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 606846,
+        "crate": "zombienet",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zombienet/0.0.0/download",
+        "readme_path": "/api/v1/crates/zombienet/0.0.0/readme",
+        "updated_at": "2022-08-22T09:35:47.251484Z",
+        "created_at": "2022-08-22T09:35:47.251484Z",
+        "downloads": 1565,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet/0.0.0/downloads",
+            "authors": "/api/v1/crates/zombienet/0.0.0/authors"
+        },
+        "crate_size": 991,
+        "published_by": {
+            "id": 6840,
+            "login": "drahnr",
+            "name": "Bernhard Schuster",
+            "avatar": "https://avatars.githubusercontent.com/u/667047?v=4",
+            "url": "https://github.com/drahnr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6840,
+                    "login": "drahnr",
+                    "name": "Bernhard Schuster",
+                    "avatar": "https://avatars.githubusercontent.com/u/667047?v=4",
+                    "url": "https://github.com/drahnr"
+                },
+                "time": "2022-08-22T09:35:47.251484Z"
+            }
+        ],
+        "checksum": "bd73307032f220b51c5963e1bdaf855b0841d77e63d4db44f3bf984d0dd05571",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zombienet"
+        ],
+        "edition": "2021",
+        "description": "Integration test for Polkadot based repos, binary",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/drahnr/zombienet.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

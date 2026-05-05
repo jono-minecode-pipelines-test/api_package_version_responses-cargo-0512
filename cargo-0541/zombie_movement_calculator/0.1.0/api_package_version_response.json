@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 877490,
+        "crate": "zombie_movement_calculator",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zombie_movement_calculator/0.1.0/download",
+        "readme_path": "/api/v1/crates/zombie_movement_calculator/0.1.0/readme",
+        "updated_at": "2023-08-22T05:09:45.646915Z",
+        "created_at": "2023-08-22T05:09:45.646915Z",
+        "downloads": 1575,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie_movement_calculator/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombie_movement_calculator/0.1.0/downloads",
+            "authors": "/api/v1/crates/zombie_movement_calculator/0.1.0/authors"
+        },
+        "crate_size": 13160,
+        "published_by": {
+            "id": 227164,
+            "login": "alumkal",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/87984349?v=4",
+            "url": "https://github.com/alumkal"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 227164,
+                    "login": "alumkal",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/87984349?v=4",
+                    "url": "https://github.com/alumkal"
+                },
+                "time": "2023-08-22T05:09:45.646915Z"
+            }
+        ],
+        "checksum": "3b3e9136bbb5e3e1a285bc862abedf0249eac5c4f5b26bdda5f55479c7cd2c21",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Precisely calculate zombies' movement in PvZ",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/alumkal/zombie-movement-calculator-lib/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 622,
+                    "comment_lines": 12,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 622,
+            "total_comment_lines": 12
+        }
+    }
+}
