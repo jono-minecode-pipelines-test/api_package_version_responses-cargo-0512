@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1139568,
+        "crate": "zombienet-configuration",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zombienet-configuration/0.2.1/download",
+        "readme_path": "/api/v1/crates/zombienet-configuration/0.2.1/readme",
+        "updated_at": "2024-05-09T06:20:35.152706Z",
+        "created_at": "2024-05-09T06:20:35.152706Z",
+        "downloads": 1173,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-configuration/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-configuration/0.2.1/downloads",
+            "authors": "/api/v1/crates/zombienet-configuration/0.2.1/authors"
+        },
+        "crate_size": 31790,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2024-05-09T06:20:35.152706Z"
+            }
+        ],
+        "checksum": "3cf53e3e280fe8034ac0aeb7c1a8422314c8a017532854f108d05e9e468f022a",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet sdk config builder, allow to build a network configuration",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5214,
+                    "comment_lines": 42,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 5214,
+            "total_comment_lines": 42
+        }
+    }
+}

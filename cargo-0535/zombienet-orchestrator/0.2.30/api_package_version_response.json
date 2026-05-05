@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1499899,
+        "crate": "zombienet-orchestrator",
+        "num": "0.2.30",
+        "dl_path": "/api/v1/crates/zombienet-orchestrator/0.2.30/download",
+        "readme_path": "/api/v1/crates/zombienet-orchestrator/0.2.30/readme",
+        "updated_at": "2025-03-28T09:59:31.453625Z",
+        "created_at": "2025-03-28T09:59:31.453625Z",
+        "downloads": 32048,
+        "features": {
+            "pjs": [
+                "dep:pjs-rs"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-orchestrator/0.2.30/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-orchestrator/0.2.30/downloads",
+            "authors": "/api/v1/crates/zombienet-orchestrator/0.2.30/authors"
+        },
+        "crate_size": 115230,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2025-03-28T09:59:31.453625Z"
+            }
+        ],
+        "checksum": "6b882fa555eddda618be464ea2ce47de4e4e9142581eced19de4b12d0ace3198",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet Orchestrator, drive network spwan through providers",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5424,
+                    "comment_lines": 360,
+                    "files": 36
+                }
+            },
+            "total_code_lines": 5424,
+            "total_comment_lines": 360
+        }
+    }
+}

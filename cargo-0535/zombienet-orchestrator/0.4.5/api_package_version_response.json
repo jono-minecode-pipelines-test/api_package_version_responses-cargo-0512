@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1977781,
+        "crate": "zombienet-orchestrator",
+        "num": "0.4.5",
+        "dl_path": "/api/v1/crates/zombienet-orchestrator/0.4.5/download",
+        "readme_path": "/api/v1/crates/zombienet-orchestrator/0.4.5/readme",
+        "updated_at": "2026-01-27T18:00:06.029914Z",
+        "created_at": "2026-01-27T18:00:06.029914Z",
+        "downloads": 60495,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-orchestrator/0.4.5/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-orchestrator/0.4.5/downloads",
+            "authors": "/api/v1/crates/zombienet-orchestrator/0.4.5/authors"
+        },
+        "crate_size": 2106088,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2026-01-27T18:00:06.029914Z"
+            }
+        ],
+        "checksum": "56b30135f9f983d90b0f201210acb6693a2a06a12dcb452fa5698f1a52c92028",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet Orchestrator, drive network spwan through providers",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8910,
+                    "comment_lines": 475,
+                    "files": 38
+                }
+            },
+            "total_code_lines": 8910,
+            "total_comment_lines": 475
+        }
+    }
+}
