@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1662184,
+        "crate": "zksync_tee_prover_interface",
+        "num": "29.0.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_tee_prover_interface/29.0.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_tee_prover_interface/29.0.0-non-semver-compat/readme",
+        "updated_at": "2025-07-29T17:45:05.747858Z",
+        "created_at": "2025-07-29T17:45:05.747858Z",
+        "downloads": 379,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_tee_prover_interface/29.0.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_tee_prover_interface/29.0.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_tee_prover_interface/29.0.0-non-semver-compat/authors"
+        },
+        "crate_size": 38040,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-07-29T17:45:05.747858Z"
+            }
+        ],
+        "checksum": "2e676b833243582d75cf1d028c0f19f6a6cb4b1214e20dade5169c637f1e7fef",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Interfaces for interaction with ZKsync TEE prover subsystem",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 121,
+                    "comment_lines": 12,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 121,
+            "total_comment_lines": 12
+        }
+    }
+}
