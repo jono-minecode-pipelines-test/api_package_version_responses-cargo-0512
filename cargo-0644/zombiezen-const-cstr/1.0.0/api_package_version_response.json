@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 239867,
+        "crate": "zombiezen-const-cstr",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zombiezen-const-cstr/1.0.0/download",
+        "readme_path": "/api/v1/crates/zombiezen-const-cstr/1.0.0/readme",
+        "updated_at": "2020-05-10T22:09:11.742855Z",
+        "created_at": "2020-05-10T22:09:11.742855Z",
+        "downloads": 5822,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombiezen-const-cstr/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombiezen-const-cstr/1.0.0/downloads",
+            "authors": "/api/v1/crates/zombiezen-const-cstr/1.0.0/authors"
+        },
+        "crate_size": 7371,
+        "published_by": {
+            "id": 1493,
+            "login": "zombiezen",
+            "name": "Ross Light",
+            "avatar": "https://avatars.githubusercontent.com/u/181535?v=4",
+            "url": "https://github.com/zombiezen"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1493,
+                    "login": "zombiezen",
+                    "name": "Ross Light",
+                    "avatar": "https://avatars.githubusercontent.com/u/181535?v=4",
+                    "url": "https://github.com/zombiezen"
+                },
+                "time": "2020-05-10T22:09:11.742855Z"
+            }
+        ],
+        "checksum": "8fda64a47df5826acaa2d7772b3057dae4cab5bb0807737a8b477f3b2f4ee7cd",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Create static C-compatible strings from Rust string literals.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zombiezen/const-cstr",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 104,
+                    "comment_lines": 8,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 104,
+            "total_comment_lines": 8
+        }
+    }
+}

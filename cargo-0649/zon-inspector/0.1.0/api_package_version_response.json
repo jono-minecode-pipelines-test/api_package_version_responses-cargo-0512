@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2004100,
+        "crate": "zon-inspector",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zon-inspector/0.1.0/download",
+        "readme_path": "/api/v1/crates/zon-inspector/0.1.0/readme",
+        "updated_at": "2026-02-06T12:08:35.733127Z",
+        "created_at": "2026-02-06T12:08:35.733127Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zon-inspector/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zon-inspector/0.1.0/downloads",
+            "authors": "/api/v1/crates/zon-inspector/0.1.0/authors"
+        },
+        "crate_size": 2650,
+        "published_by": {
+            "id": 387388,
+            "login": "zaim-abbasi",
+            "name": "zka",
+            "avatar": "https://avatars.githubusercontent.com/u/125147306?v=4",
+            "url": "https://github.com/zaim-abbasi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387388,
+                    "login": "zaim-abbasi",
+                    "name": "zka",
+                    "avatar": "https://avatars.githubusercontent.com/u/125147306?v=4",
+                    "url": "https://github.com/zaim-abbasi"
+                },
+                "time": "2026-02-06T12:08:35.733127Z"
+            }
+        ],
+        "checksum": "3592bf07c144ad51ef2340fd4af2f49dcef52f74a44dd61b418c758d66f2abef",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zon-inspector"
+        ],
+        "edition": "2021",
+        "description": "CLI tool to inspect and convert ZON files to JSON.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zaim-abbasi/zon",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 56,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 56,
+            "total_comment_lines": 3
+        }
+    }
+}

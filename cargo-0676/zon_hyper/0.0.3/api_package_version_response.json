@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1283789,
+        "crate": "zon_hyper",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zon_hyper/0.0.3/download",
+        "readme_path": "/api/v1/crates/zon_hyper/0.0.3/readme",
+        "updated_at": "2024-09-27T23:25:58.475550Z",
+        "created_at": "2024-09-27T23:25:58.475550Z",
+        "downloads": 1344,
+        "features": {
+            "default": [
+                "serve"
+            ],
+            "serve": [
+                "dep:hyper-util"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zon_hyper/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zon_hyper/0.0.3/downloads",
+            "authors": "/api/v1/crates/zon_hyper/0.0.3/authors"
+        },
+        "crate_size": 2261,
+        "published_by": {
+            "id": 6913,
+            "login": "jplatte",
+            "name": "Jonas Platte",
+            "avatar": "https://avatars.githubusercontent.com/u/951129?v=4",
+            "url": "https://github.com/jplatte"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6913,
+                    "login": "jplatte",
+                    "name": "Jonas Platte",
+                    "avatar": "https://avatars.githubusercontent.com/u/951129?v=4",
+                    "url": "https://github.com/jplatte"
+                },
+                "time": "2024-09-27T23:25:58.475550Z"
+            }
+        ],
+        "checksum": "bf3e9a7198ec466edddaa0e230226c9ca323dfb07b86a47e84ed04261a9f0fb6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "part of a new WIP, very incomplete async http service stack",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 62,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 62,
+            "total_comment_lines": 0
+        }
+    }
+}

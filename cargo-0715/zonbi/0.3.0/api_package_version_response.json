@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1139944,
+        "crate": "zonbi",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zonbi/0.3.0/download",
+        "readme_path": "/api/v1/crates/zonbi/0.3.0/readme",
+        "updated_at": "2024-05-09T17:22:02.044532Z",
+        "created_at": "2024-05-09T17:22:02.044532Z",
+        "downloads": 1080,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zonbi/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonbi/0.3.0/downloads",
+            "authors": "/api/v1/crates/zonbi/0.3.0/authors"
+        },
+        "crate_size": 7943,
+        "published_by": {
+            "id": 189731,
+            "login": "DasLixou",
+            "name": "Lixou",
+            "avatar": "https://avatars.githubusercontent.com/u/82600264?v=4",
+            "url": "https://github.com/DasLixou"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 189731,
+                    "login": "DasLixou",
+                    "name": "Lixou",
+                    "avatar": "https://avatars.githubusercontent.com/u/82600264?v=4",
+                    "url": "https://github.com/DasLixou"
+                },
+                "time": "2024-05-09T17:22:02.044532Z"
+            }
+        ],
+        "checksum": "11a7f3f5744775b4ead4ce3e3cf171a6174ecbd2fec10aa0d8fe94814bb06164",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Type-Erase tools for non-`'static` types",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/DasLixou/zonbi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 84,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 84,
+            "total_comment_lines": 2
+        }
+    }
+}
