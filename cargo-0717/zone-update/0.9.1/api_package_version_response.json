@@ -1,0 +1,102 @@
+{
+    "version": {
+        "id": 1928976,
+        "crate": "zone-update",
+        "num": "0.9.1",
+        "dl_path": "/api/v1/crates/zone-update/0.9.1/download",
+        "readme_path": "/api/v1/crates/zone-update/0.9.1/readme",
+        "updated_at": "2026-01-08T06:45:31.306639Z",
+        "created_at": "2026-01-08T06:45:31.306639Z",
+        "downloads": 20,
+        "features": {
+            "all-providers": [
+                "cloudflare",
+                "gandi",
+                "dnsmadeeasy",
+                "dnsimple",
+                "porkbun"
+            ],
+            "async": [
+                "dep:blocking"
+            ],
+            "cloudflare": [],
+            "default": [
+                "all-providers"
+            ],
+            "dnsimple": [],
+            "dnsmadeeasy": [
+                "dep:hmac",
+                "dep:sha1",
+                "dep:hex"
+            ],
+            "gandi": [],
+            "hex": [
+                "dep:hex"
+            ],
+            "hmac": [
+                "dep:hmac"
+            ],
+            "porkbun": [],
+            "test_cloudflare": [
+                "cloudflare"
+            ],
+            "test_dnsimple": [
+                "dnsimple"
+            ],
+            "test_dnsmadeeasy": [
+                "dnsmadeeasy"
+            ],
+            "test_gandi": [
+                "gandi"
+            ],
+            "test_offline": [],
+            "test_porkbun": [
+                "porkbun"
+            ],
+            "test_smol": [
+                "async"
+            ],
+            "test_tokio": [
+                "async"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-update/0.9.1/dependencies",
+            "version_downloads": "/api/v1/crates/zone-update/0.9.1/downloads",
+            "authors": "/api/v1/crates/zone-update/0.9.1/authors"
+        },
+        "crate_size": 48807,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "7d7f39a8517460488a3d1aed79eb9f837586ec1a62907e72ca81833e772f83bb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A minimal library of DNS provider utilities",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/tarka/zone-update",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "tarka/zone-update",
+            "run_id": "20808154419",
+            "sha": "6677b1472aab7e695b746e3402900a571da4af50"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1881,
+                    "comment_lines": 204,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 1881,
+            "total_comment_lines": 204
+        }
+    }
+}

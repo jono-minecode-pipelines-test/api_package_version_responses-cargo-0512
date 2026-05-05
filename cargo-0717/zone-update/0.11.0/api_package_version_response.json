@@ -1,0 +1,128 @@
+{
+    "version": {
+        "id": 1948844,
+        "crate": "zone-update",
+        "num": "0.11.0",
+        "dl_path": "/api/v1/crates/zone-update/0.11.0/download",
+        "readme_path": "/api/v1/crates/zone-update/0.11.0/readme",
+        "updated_at": "2026-01-16T06:37:07.978567Z",
+        "created_at": "2026-01-16T06:37:07.978567Z",
+        "downloads": 214,
+        "features": {
+            "all-providers": [
+                "bunny",
+                "cloudflare",
+                "desec",
+                "digitalocean",
+                "dnsimple",
+                "dnsmadeeasy",
+                "gandi",
+                "linode",
+                "porkbun"
+            ],
+            "async": [
+                "dep:blocking"
+            ],
+            "bunny": [],
+            "cloudflare": [],
+            "default": [
+                "all-providers"
+            ],
+            "desec": [],
+            "digitalocean": [],
+            "dnsimple": [],
+            "dnsmadeeasy": [
+                "dep:hmac",
+                "dep:sha1",
+                "dep:hex"
+            ],
+            "gandi": [],
+            "linode": [],
+            "porkbun": [],
+            "test_bunny": [
+                "bunny"
+            ],
+            "test_cloudflare": [
+                "cloudflare"
+            ],
+            "test_compio": [
+                "async",
+                "dep:compio"
+            ],
+            "test_desec": [
+                "desec"
+            ],
+            "test_digitalocean": [
+                "digitalocean"
+            ],
+            "test_dnsimple": [
+                "dnsimple"
+            ],
+            "test_dnsmadeeasy": [
+                "dnsmadeeasy"
+            ],
+            "test_gandi": [
+                "gandi"
+            ],
+            "test_glommio": [
+                "async",
+                "dep:glommio"
+            ],
+            "test_linode": [
+                "linode"
+            ],
+            "test_monoio": [
+                "async",
+                "dep:monoio"
+            ],
+            "test_offline": [],
+            "test_porkbun": [
+                "porkbun"
+            ],
+            "test_smol": [
+                "async"
+            ],
+            "test_tokio": [
+                "async"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-update/0.11.0/dependencies",
+            "version_downloads": "/api/v1/crates/zone-update/0.11.0/downloads",
+            "authors": "/api/v1/crates/zone-update/0.11.0/authors"
+        },
+        "crate_size": 64251,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "7e4493a52c03f17804b97569073b938ce76cfcfdd27093256e1ccd8d2615ac5c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A library of CRUD-like operations on DNS zones for multiple providers",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/tarka/zone-update",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "tarka/zone-update",
+            "run_id": "21057983443",
+            "sha": "10226b1276b8eca30888f76ae95b78dc6333def5"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3049,
+                    "comment_lines": 377,
+                    "files": 31
+                }
+            },
+            "total_code_lines": 3049,
+            "total_comment_lines": 377
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 36543,
+        "crate": "zoneinfo_parse",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zoneinfo_parse/0.1.4/download",
+        "readme_path": "/api/v1/crates/zoneinfo_parse/0.1.4/readme",
+        "updated_at": "2017-11-30T03:52:44.506996Z",
+        "created_at": "2016-10-23T11:17:09.353742Z",
+        "downloads": 6059,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo_parse/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo_parse/0.1.4/downloads",
+            "authors": "/api/v1/crates/zoneinfo_parse/0.1.4/authors"
+        },
+        "crate_size": 23299,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "d5eceb1890eabb18cbfe5c09adc06ddaabac793269b90356fbda809c4bfe65de",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Library for parsing zoneinfo time zone files",
+        "homepage": "https://github.com/rust-datetime/zoneinfo-compiled",
+        "documentation": "https://docs.rs/zoneinfo_parse",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1150,
+                    "comment_lines": 34,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1150,
+            "total_comment_lines": 34
+        }
+    }
+}

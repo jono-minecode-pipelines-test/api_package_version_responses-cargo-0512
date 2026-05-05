@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1626377,
+        "crate": "zone-detect",
+        "num": "1.1.0",
+        "dl_path": "/api/v1/crates/zone-detect/1.1.0/download",
+        "readme_path": "/api/v1/crates/zone-detect/1.1.0/readme",
+        "updated_at": "2025-07-03T20:18:07.442971Z",
+        "created_at": "2025-07-03T20:18:07.442971Z",
+        "downloads": 674,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-detect/1.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zone-detect/1.1.0/downloads",
+            "authors": "/api/v1/crates/zone-detect/1.1.0/authors"
+        },
+        "crate_size": 4045993,
+        "published_by": {
+            "id": 1238,
+            "login": "nicholasbishop",
+            "name": "Nicholas Bishop",
+            "avatar": "https://avatars.githubusercontent.com/u/1023208?v=4",
+            "url": "https://github.com/nicholasbishop"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1238,
+                    "login": "nicholasbishop",
+                    "name": "Nicholas Bishop",
+                    "avatar": "https://avatars.githubusercontent.com/u/1023208?v=4",
+                    "url": "https://github.com/nicholasbishop"
+                },
+                "time": "2025-07-03T20:18:07.442971Z"
+            }
+        ],
+        "checksum": "7bbe251c9550fa7647c320e85b2d8563e90c08a13ec20d1aa7197bfaa592e959",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Rust version of the ZoneDetect C library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/nicholasbishop/zone-detect-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 941,
+                    "comment_lines": 73,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 941,
+            "total_comment_lines": 73
+        }
+    }
+}

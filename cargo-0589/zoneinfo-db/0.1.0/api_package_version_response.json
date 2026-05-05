@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1489434,
+        "crate": "zoneinfo-db",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoneinfo-db/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoneinfo-db/0.1.0/readme",
+        "updated_at": "2025-03-20T05:14:40.826689Z",
+        "created_at": "2025-03-20T05:14:40.826689Z",
+        "downloads": 714,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo-db/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo-db/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoneinfo-db/0.1.0/authors"
+        },
+        "crate_size": 189829,
+        "published_by": {
+            "id": 92064,
+            "login": "ldm0",
+            "name": "Donough Liu",
+            "avatar": "https://avatars.githubusercontent.com/u/31354274?v=4",
+            "url": "https://github.com/ldm0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 92064,
+                    "login": "ldm0",
+                    "name": "Donough Liu",
+                    "avatar": "https://avatars.githubusercontent.com/u/31354274?v=4",
+                    "url": "https://github.com/ldm0"
+                },
+                "time": "2025-03-20T05:14:40.826689Z"
+            }
+        ],
+        "checksum": "c3ad5a4e4d7f1000496f2195b608f84e85aedb94710049a5b2909ddb91ebf541",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Parser of ZoneInfoDb(`tzdata`) on Android and HarmonyOS NEXT",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 225,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 225,
+            "total_comment_lines": 3
+        }
+    }
+}

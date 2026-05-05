@@ -1,0 +1,99 @@
+{
+    "version": {
+        "id": 206621,
+        "crate": "zone-detect",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zone-detect/0.1.0/download",
+        "readme_path": "/api/v1/crates/zone-detect/0.1.0/readme",
+        "updated_at": "2020-01-25T00:35:04.793639Z",
+        "created_at": "2020-01-25T00:35:04.793639Z",
+        "downloads": 1411,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-detect/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zone-detect/0.1.0/downloads",
+            "authors": "/api/v1/crates/zone-detect/0.1.0/authors"
+        },
+        "crate_size": 177628,
+        "published_by": {
+            "id": 1238,
+            "login": "nicholasbishop",
+            "name": "Nicholas Bishop",
+            "avatar": "https://avatars.githubusercontent.com/u/1023208?v=4",
+            "url": "https://github.com/nicholasbishop"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1238,
+                    "login": "nicholasbishop",
+                    "name": "Nicholas Bishop",
+                    "avatar": "https://avatars.githubusercontent.com/u/1023208?v=4",
+                    "url": "https://github.com/nicholasbishop"
+                },
+                "time": "2020-01-25T00:35:04.793639Z"
+            }
+        ],
+        "checksum": "111fc5e13d1bf7bc514878aa8d15c9a06f8d66ab5e5f507e9a0c33a43180dbcf",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Simple wrapper for the ZoneDetect C library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/nicholasbishop/zone-detect-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 989,
+                    "comment_lines": 87,
+                    "files": 2
+                },
+                "C Header": {
+                    "code_lines": 476,
+                    "comment_lines": 27,
+                    "files": 3
+                },
+                "C++": {
+                    "code_lines": 702,
+                    "comment_lines": 61,
+                    "files": 2
+                },
+                "C++ Header": {
+                    "code_lines": 12700,
+                    "comment_lines": 7919,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 139,
+                    "comment_lines": 3,
+                    "files": 3
+                },
+                "Shell": {
+                    "code_lines": 30,
+                    "comment_lines": 1,
+                    "files": 1
+                },
+                "Visual Studio Project": {
+                    "code_lines": 288,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 44,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 15368,
+            "total_comment_lines": 8098
+        }
+    }
+}
