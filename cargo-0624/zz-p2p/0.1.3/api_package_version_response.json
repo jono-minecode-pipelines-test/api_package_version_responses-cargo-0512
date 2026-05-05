@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1954585,
+        "crate": "zz-p2p",
+        "num": "0.1.3",
+        "dl_path": "/api/v1/crates/zz-p2p/0.1.3/download",
+        "readme_path": "/api/v1/crates/zz-p2p/0.1.3/readme",
+        "updated_at": "2026-01-18T18:38:47.959166Z",
+        "created_at": "2026-01-18T18:38:47.959166Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zz-p2p/0.1.3/dependencies",
+            "version_downloads": "/api/v1/crates/zz-p2p/0.1.3/downloads",
+            "authors": "/api/v1/crates/zz-p2p/0.1.3/authors"
+        },
+        "crate_size": 64193,
+        "published_by": {
+            "id": 39663,
+            "login": "calidion",
+            "name": "Eric",
+            "avatar": "https://avatars.githubusercontent.com/u/131776?v=4",
+            "url": "https://github.com/calidion"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 39663,
+                    "login": "calidion",
+                    "name": "Eric",
+                    "avatar": "https://avatars.githubusercontent.com/u/131776?v=4",
+                    "url": "https://github.com/calidion"
+                },
+                "time": "2026-01-18T18:38:47.959166Z"
+            }
+        ],
+        "checksum": "68ad7bdb84c27ca60f94cf1bcc2c8da77e7f3ac9eff9af466629fffe09a8f9bb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zzp2p"
+        ],
+        "edition": "2024",
+        "description": "A Rust library for managing cryptocurrency p2p network.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Free-Web-Movement/zz-rust-mod-p2p",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3545,
+                    "comment_lines": 246,
+                    "files": 38
+                },
+                "Shell": {
+                    "code_lines": 26,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3571,
+            "total_comment_lines": 255
+        }
+    }
+}
