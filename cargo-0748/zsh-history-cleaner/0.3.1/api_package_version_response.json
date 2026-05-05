@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1760537,
+        "crate": "zsh-history-cleaner",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zsh-history-cleaner/0.3.1/download",
+        "readme_path": "/api/v1/crates/zsh-history-cleaner/0.3.1/readme",
+        "updated_at": "2025-10-05T18:34:33.233957Z",
+        "created_at": "2025-10-05T18:34:33.233957Z",
+        "downloads": 226,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-history-cleaner/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-history-cleaner/0.3.1/downloads",
+            "authors": "/api/v1/crates/zsh-history-cleaner/0.3.1/authors"
+        },
+        "crate_size": 20081,
+        "published_by": {
+            "id": 305130,
+            "login": "haidaraM",
+            "name": "Mohamed El Mouctar Haidara",
+            "avatar": "https://avatars.githubusercontent.com/u/9849996?v=4",
+            "url": "https://github.com/haidaraM"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 305130,
+                    "login": "haidaraM",
+                    "name": "Mohamed El Mouctar Haidara",
+                    "avatar": "https://avatars.githubusercontent.com/u/9849996?v=4",
+                    "url": "https://github.com/haidaraM"
+                },
+                "time": "2025-10-05T18:34:33.233957Z"
+            }
+        ],
+        "checksum": "5305e5637931a361a80461f97c5924ceca55b592b8badf29cc1dd96d3d58618d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zhc"
+        ],
+        "edition": "2024",
+        "description": "Clean your commands history by removing duplicate commands, commands between dates, etc...",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/haidaraM/zsh-history-cleaner",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 667,
+                    "comment_lines": 44,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 667,
+            "total_comment_lines": 44
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1506512,
+        "crate": "zsgf-client",
+        "num": "1.0.22",
+        "dl_path": "/api/v1/crates/zsgf-client/1.0.22/download",
+        "readme_path": "/api/v1/crates/zsgf-client/1.0.22/readme",
+        "updated_at": "2025-04-02T07:04:32.830837Z",
+        "created_at": "2025-04-02T06:46:13.706393Z",
+        "downloads": 517,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsgf-client/1.0.22/dependencies",
+            "version_downloads": "/api/v1/crates/zsgf-client/1.0.22/downloads",
+            "authors": "/api/v1/crates/zsgf-client/1.0.22/authors"
+        },
+        "crate_size": 107372,
+        "published_by": {
+            "id": 324172,
+            "login": "wz101010",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+            "url": "https://github.com/wz101010"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T06:46:13.706393Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T07:04:32.832913Z"
+            }
+        ],
+        "checksum": "32e9aa36a18816d7ad8d2a7e153d13bf1c9910f1e5b0c3b5e4cffdfc64703133",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zsgf \u5ba2\u6237\u7aef\u5e93\u3002",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 13513,
+                    "comment_lines": 2175,
+                    "files": 224
+                }
+            },
+            "total_code_lines": 13513,
+            "total_comment_lines": 2175
+        }
+    }
+}

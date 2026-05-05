@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 1760562,
+        "crate": "zsh-history-cleaner",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/zsh-history-cleaner/0.3.2/download",
+        "readme_path": "/api/v1/crates/zsh-history-cleaner/0.3.2/readme",
+        "updated_at": "2025-10-05T19:20:51.007948Z",
+        "created_at": "2025-10-05T19:17:55.995924Z",
+        "downloads": 229,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-history-cleaner/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-history-cleaner/0.3.2/downloads",
+            "authors": "/api/v1/crates/zsh-history-cleaner/0.3.2/authors"
+        },
+        "crate_size": 20148,
+        "published_by": null,
+        "audit_actions": [
+            {
+                "action": "yank",
+                "user": {
+                    "id": 305130,
+                    "login": "haidaraM",
+                    "name": "Mohamed El Mouctar Haidara",
+                    "avatar": "https://avatars.githubusercontent.com/u/9849996?v=4",
+                    "url": "https://github.com/haidaraM"
+                },
+                "time": "2025-10-05T19:20:34.611139Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 305130,
+                    "login": "haidaraM",
+                    "name": "Mohamed El Mouctar Haidara",
+                    "avatar": "https://avatars.githubusercontent.com/u/9849996?v=4",
+                    "url": "https://github.com/haidaraM"
+                },
+                "time": "2025-10-05T19:20:51.009803Z"
+            }
+        ],
+        "checksum": "08e6d4988b5f04b5e1ee23025f70ceabb2f10f54f394b3219f2a1d65da92d492",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zhc"
+        ],
+        "edition": "2024",
+        "description": "Clean your commands history by removing duplicate commands, commands between dates, etc...",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/haidaraM/zsh-history-cleaner",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "haidaraM/zsh-history-cleaner",
+            "run_id": "18263196561",
+            "sha": "6dd8583372b6ef65116fc94dd09552414db2289e"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 667,
+                    "comment_lines": 44,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 667,
+            "total_comment_lines": 44
+        }
+    }
+}

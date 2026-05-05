@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2032248,
+        "crate": "zserv",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zserv/0.1.0/download",
+        "readme_path": "/api/v1/crates/zserv/0.1.0/readme",
+        "updated_at": "2026-02-16T07:38:09.143057Z",
+        "created_at": "2026-02-16T07:38:09.143057Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zserv/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zserv/0.1.0/downloads",
+            "authors": "/api/v1/crates/zserv/0.1.0/authors"
+        },
+        "crate_size": 21610,
+        "published_by": {
+            "id": 390077,
+            "login": "rinx-dev",
+            "name": "Rindog",
+            "avatar": "https://avatars.githubusercontent.com/u/137909079?v=4",
+            "url": "https://github.com/rinx-dev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 390077,
+                    "login": "rinx-dev",
+                    "name": "Rindog",
+                    "avatar": "https://avatars.githubusercontent.com/u/137909079?v=4",
+                    "url": "https://github.com/rinx-dev"
+                },
+                "time": "2026-02-16T07:38:09.143057Z"
+            }
+        ],
+        "checksum": "8bfa7371c40ad7f6a468e80e6ac790f4304491b086de574a541820e0f114e34b",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zserv"
+        ],
+        "edition": "2024",
+        "description": "A simple, lightweight, and modern HTTP file server.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/rinx-dev/zserve",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 378,
+                    "comment_lines": 49,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 378,
+            "total_comment_lines": 49
+        }
+    }
+}

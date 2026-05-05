@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 1506492,
+        "crate": "zsgf-client",
+        "num": "1.0.21",
+        "dl_path": "/api/v1/crates/zsgf-client/1.0.21/download",
+        "readme_path": "/api/v1/crates/zsgf-client/1.0.21/readme",
+        "updated_at": "2025-04-02T06:47:36.039389Z",
+        "created_at": "2025-04-02T06:15:19.577836Z",
+        "downloads": 520,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsgf-client/1.0.21/dependencies",
+            "version_downloads": "/api/v1/crates/zsgf-client/1.0.21/downloads",
+            "authors": "/api/v1/crates/zsgf-client/1.0.21/authors"
+        },
+        "crate_size": 107376,
+        "published_by": {
+            "id": 324172,
+            "login": "wz101010",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+            "url": "https://github.com/wz101010"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T06:15:19.577836Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T06:16:00.967651Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T06:16:03.483955Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T06:47:36.041177Z"
+            }
+        ],
+        "checksum": "17dd8a3e54e6db05c43012cb751b740a33f3c878c0e673a01c3d4cf573d464c3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "zsgf \u5ba2\u6237\u7aef\u5e93\u3002",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 13513,
+                    "comment_lines": 2175,
+                    "files": 224
+                }
+            },
+            "total_code_lines": 13513,
+            "total_comment_lines": 2175
+        }
+    }
+}

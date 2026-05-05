@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 669722,
+        "crate": "zscript",
+        "num": "0.100.0",
+        "dl_path": "/api/v1/crates/zscript/0.100.0/download",
+        "readme_path": "/api/v1/crates/zscript/0.100.0/readme",
+        "updated_at": "2022-11-23T23:42:43.694281Z",
+        "created_at": "2022-11-23T23:42:43.694281Z",
+        "downloads": 1652,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zscript/0.100.0/dependencies",
+            "version_downloads": "/api/v1/crates/zscript/0.100.0/downloads",
+            "authors": "/api/v1/crates/zscript/0.100.0/authors"
+        },
+        "crate_size": 629,
+        "published_by": {
+            "id": 129701,
+            "login": "resona7726",
+            "name": "\u9e23\u97f3",
+            "avatar": "https://avatars.githubusercontent.com/u/22655114?v=4",
+            "url": "https://github.com/resona7726"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 129701,
+                    "login": "resona7726",
+                    "name": "\u9e23\u97f3",
+                    "avatar": "https://avatars.githubusercontent.com/u/22655114?v=4",
+                    "url": "https://github.com/resona7726"
+                },
+                "time": "2022-11-23T23:42:43.694281Z"
+            }
+        ],
+        "checksum": "defc62521b855cf47df14272a1c208a2c73d57de1863dab0c58520fbd0ed3dd1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "WIP",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/crepub/crelang",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 0,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 0,
+            "total_comment_lines": 0
+        }
+    }
+}

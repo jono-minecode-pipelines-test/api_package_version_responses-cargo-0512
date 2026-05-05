@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1506614,
+        "crate": "zsgf-client",
+        "num": "1.0.24",
+        "dl_path": "/api/v1/crates/zsgf-client/1.0.24/download",
+        "readme_path": "/api/v1/crates/zsgf-client/1.0.24/readme",
+        "updated_at": "2025-04-02T08:41:42.517041Z",
+        "created_at": "2025-04-02T08:41:42.517041Z",
+        "downloads": 747,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsgf-client/1.0.24/dependencies",
+            "version_downloads": "/api/v1/crates/zsgf-client/1.0.24/downloads",
+            "authors": "/api/v1/crates/zsgf-client/1.0.24/authors"
+        },
+        "crate_size": 107368,
+        "published_by": {
+            "id": 324172,
+            "login": "wz101010",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+            "url": "https://github.com/wz101010"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 324172,
+                    "login": "wz101010",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/179553375?v=4",
+                    "url": "https://github.com/wz101010"
+                },
+                "time": "2025-04-02T08:41:42.517041Z"
+            }
+        ],
+        "checksum": "867f3cf3a5b5daa9ad3d9c040d14e2698fb6cafbe485b7b3c0c7cf8f5def3ba8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zsgf \u5ba2\u6237\u7aef\u5e93\u3002",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 13513,
+                    "comment_lines": 2175,
+                    "files": 224
+                }
+            },
+            "total_code_lines": 13513,
+            "total_comment_lines": 2175
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1061274,
+        "crate": "zsee",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zsee/0.0.2/download",
+        "readme_path": "/api/v1/crates/zsee/0.0.2/readme",
+        "updated_at": "2024-02-23T08:01:18.625502Z",
+        "created_at": "2024-02-23T08:01:18.625502Z",
+        "downloads": 1535,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsee/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zsee/0.0.2/downloads",
+            "authors": "/api/v1/crates/zsee/0.0.2/authors"
+        },
+        "crate_size": 9657,
+        "published_by": {
+            "id": 255973,
+            "login": "nekayooh",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/6755548?v=4",
+            "url": "https://github.com/nekayooh"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 255973,
+                    "login": "nekayooh",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/6755548?v=4",
+                    "url": "https://github.com/nekayooh"
+                },
+                "time": "2024-02-23T08:01:18.625502Z"
+            }
+        ],
+        "checksum": "7c50d81ff0583d953d402c0b7a7c252e43b46c1fb0a267f4750c80ff98eeaeef",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A dioxus component library based on tailwind and table-icons.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/nekayooh/zsee",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1262,
+                    "comment_lines": 132,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 1262,
+            "total_comment_lines": 132
+        }
+    }
+}

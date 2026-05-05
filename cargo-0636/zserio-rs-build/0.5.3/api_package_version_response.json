@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2032010,
+        "crate": "zserio-rs-build",
+        "num": "0.5.3",
+        "dl_path": "/api/v1/crates/zserio-rs-build/0.5.3/download",
+        "readme_path": "/api/v1/crates/zserio-rs-build/0.5.3/readme",
+        "updated_at": "2026-02-16T04:47:50.445539Z",
+        "created_at": "2026-02-16T04:47:50.445539Z",
+        "downloads": 23,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zserio-rs-build/0.5.3/dependencies",
+            "version_downloads": "/api/v1/crates/zserio-rs-build/0.5.3/downloads",
+            "authors": "/api/v1/crates/zserio-rs-build/0.5.3/authors"
+        },
+        "crate_size": 2272926,
+        "published_by": {
+            "id": 230030,
+            "login": "Danaozhong",
+            "name": "Clemens",
+            "avatar": "https://avatars.githubusercontent.com/u/45435790?v=4",
+            "url": "https://github.com/Danaozhong"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 230030,
+                    "login": "Danaozhong",
+                    "name": "Clemens",
+                    "avatar": "https://avatars.githubusercontent.com/u/45435790?v=4",
+                    "url": "https://github.com/Danaozhong"
+                },
+                "time": "2026-02-16T04:47:50.445539Z"
+            }
+        ],
+        "checksum": "c203e4b6dedd77bf5290e80e9d3c40df81e0dc2e2eff885e410decf7d4625d02",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zserio-rs-build"
+        ],
+        "edition": "2021",
+        "description": "zserio compiler",
+        "homepage": "https://github.com/Danaozhong/rust-zserio",
+        "documentation": "https://docs.rs/rust-zserio",
+        "repository": "https://github.com/Danaozhong/rust-zserio",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 23603,
+                    "comment_lines": 2592,
+                    "files": 57
+                },
+                "Shell": {
+                    "code_lines": 30,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 23633,
+            "total_comment_lines": 2593
+        }
+    }
+}

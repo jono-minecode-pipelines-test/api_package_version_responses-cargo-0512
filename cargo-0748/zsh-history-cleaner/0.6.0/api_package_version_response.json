@@ -1,0 +1,53 @@
+{
+    "version": {
+        "id": 2139470,
+        "crate": "zsh-history-cleaner",
+        "num": "0.6.0",
+        "dl_path": "/api/v1/crates/zsh-history-cleaner/0.6.0/download",
+        "readme_path": "/api/v1/crates/zsh-history-cleaner/0.6.0/readme",
+        "updated_at": "2026-03-18T23:15:39.752365Z",
+        "created_at": "2026-03-18T23:15:39.752365Z",
+        "downloads": 30,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-history-cleaner/0.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-history-cleaner/0.6.0/downloads",
+            "authors": "/api/v1/crates/zsh-history-cleaner/0.6.0/authors"
+        },
+        "crate_size": 318375,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "9c47345ffc257dcea9353cae999a325b442ad6844fd49805c7c5fef4f4947cc6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zhc"
+        ],
+        "edition": "2024",
+        "description": "Clean your commands history by removing duplicate commands, commands between dates, etc...",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/haidaraM/zsh-history-cleaner",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "haidaraM/zsh-history-cleaner",
+            "run_id": "23271595860",
+            "sha": "3389c485a71bba166efea6ba3d2d9dbfc9348a84"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1045,
+                    "comment_lines": 79,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 1045,
+            "total_comment_lines": 79
+        }
+    }
+}

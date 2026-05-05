@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2019117,
+        "crate": "zsdk",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsdk/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsdk/0.1.0/readme",
+        "updated_at": "2026-02-11T18:05:59.391834Z",
+        "created_at": "2026-02-11T18:05:59.391834Z",
+        "downloads": 22,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsdk/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsdk/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsdk/0.1.0/authors"
+        },
+        "crate_size": 910,
+        "published_by": {
+            "id": 388921,
+            "login": "judah-caruso",
+            "name": "Judah Caruso",
+            "avatar": "https://avatars.githubusercontent.com/u/12457438?v=4",
+            "url": "https://github.com/judah-caruso"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 388921,
+                    "login": "judah-caruso",
+                    "name": "Judah Caruso",
+                    "avatar": "https://avatars.githubusercontent.com/u/12457438?v=4",
+                    "url": "https://github.com/judah-caruso"
+                },
+                "time": "2026-02-11T18:05:59.391834Z"
+            }
+        ],
+        "checksum": "c4c860deef26f8340121bd1ff7195c8b522c3cd6eb64a3d69a7fda76eb073d31",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Not for production use.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 0,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 0,
+            "total_comment_lines": 0
+        }
+    }
+}

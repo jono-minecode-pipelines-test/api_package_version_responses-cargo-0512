@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 48615,
+        "crate": "zsession",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zsession/0.0.0/download",
+        "readme_path": "/api/v1/crates/zsession/0.0.0/readme",
+        "updated_at": "2017-11-30T04:06:28.882906Z",
+        "created_at": "2017-03-24T07:27:57.030309Z",
+        "downloads": 2272,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsession/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsession/0.0.0/downloads",
+            "authors": "/api/v1/crates/zsession/0.0.0/authors"
+        },
+        "crate_size": 603,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "e945f185fdb8968a6031f54369550d1ce2a7c18876193ee3c6fd203f25360b90",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Lightweight implementation of zcreds providing advanced session tokens",
+        "homepage": "https://www.zcred.org",
+        "documentation": null,
+        "repository": "https://github.com/zcred/zsession",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 5,
+            "total_comment_lines": 0
+        }
+    }
+}
