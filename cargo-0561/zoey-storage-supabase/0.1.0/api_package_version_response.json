@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 1932755,
+        "crate": "zoey-storage-supabase",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoey-storage-supabase/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoey-storage-supabase/0.1.0/readme",
+        "updated_at": "2026-01-09T23:40:12.151405Z",
+        "created_at": "2026-01-09T23:40:12.151405Z",
+        "downloads": 17,
+        "features": {
+            "default": [],
+            "hipaa": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoey-storage-supabase/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoey-storage-supabase/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoey-storage-supabase/0.1.0/authors"
+        },
+        "crate_size": 44772,
+        "published_by": {
+            "id": 379967,
+            "login": "Freytes",
+            "name": "Christopher Freytes",
+            "avatar": "https://avatars.githubusercontent.com/u/4147278?v=4",
+            "url": "https://github.com/Freytes"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 379967,
+                    "login": "Freytes",
+                    "name": "Christopher Freytes",
+                    "avatar": "https://avatars.githubusercontent.com/u/4147278?v=4",
+                    "url": "https://github.com/Freytes"
+                },
+                "time": "2026-01-09T23:40:12.151405Z"
+            }
+        ],
+        "checksum": "e8f1eb85ef2102999dea573520a41625bf88417d8b022cfbc5c8a68897c76c65",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Supabase database adapter for ZoeyAI",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Agent-Zoey/Zoey.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1535,
+                    "comment_lines": 24,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 1535,
+            "total_comment_lines": 24
+        }
+    }
+}

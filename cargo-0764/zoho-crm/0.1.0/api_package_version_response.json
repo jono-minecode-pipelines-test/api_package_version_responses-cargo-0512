@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 191337,
+        "crate": "zoho-crm",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoho-crm/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoho-crm/0.1.0/readme",
+        "updated_at": "2019-11-21T19:18:42.749436Z",
+        "created_at": "2019-11-21T19:18:42.749436Z",
+        "downloads": 1389,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoho-crm/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoho-crm/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoho-crm/0.1.0/authors"
+        },
+        "crate_size": 5556,
+        "published_by": {
+            "id": 67882,
+            "login": "rideron89",
+            "name": "Ron Rider",
+            "avatar": "https://avatars.githubusercontent.com/u/1480914?v=4",
+            "url": "https://github.com/rideron89"
+        },
+        "audit_actions": [],
+        "checksum": "122fe18eb658bb98dedc3596522534083b76c8bdc578101b2f33faf0c5148329",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Zoho CRM client built in Rust.",
+        "homepage": "https://github.com/rideron89/zoho-crm",
+        "documentation": "https://github.com/rideron89/zoho-crm",
+        "repository": "https://github.com/rideron89/zoho-crm",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 413,
+                    "comment_lines": 4,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 413,
+            "total_comment_lines": 4
+        }
+    }
+}

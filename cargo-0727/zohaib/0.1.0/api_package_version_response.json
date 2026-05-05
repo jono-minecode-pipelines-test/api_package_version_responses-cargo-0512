@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 207721,
+        "crate": "zohaib",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zohaib/0.1.0/download",
+        "readme_path": "/api/v1/crates/zohaib/0.1.0/readme",
+        "updated_at": "2020-01-29T08:28:53.082327Z",
+        "created_at": "2020-01-29T08:28:53.082327Z",
+        "downloads": 1808,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zohaib/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zohaib/0.1.0/downloads",
+            "authors": "/api/v1/crates/zohaib/0.1.0/authors"
+        },
+        "crate_size": 880,
+        "published_by": {
+            "id": 76478,
+            "login": "Zohaibshah19",
+            "name": null,
+            "avatar": "https://avatars1.githubusercontent.com/u/58567708?v=4",
+            "url": "https://github.com/Zohaibshah19"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 76478,
+                    "login": "Zohaibshah19",
+                    "name": null,
+                    "avatar": "https://avatars1.githubusercontent.com/u/58567708?v=4",
+                    "url": "https://github.com/Zohaibshah19"
+                },
+                "time": "2020-01-29T08:28:53.082327Z"
+            }
+        ],
+        "checksum": "80605ded98703b85b567e8144ec8e3fe29237560b2cda5decb1a29e5371512b2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "my first library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Zohaibshah19/rust_library",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 5,
+            "total_comment_lines": 0
+        }
+    }
+}

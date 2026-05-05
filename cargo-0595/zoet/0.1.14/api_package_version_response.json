@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 1219192,
+        "crate": "zoet",
+        "num": "0.1.14",
+        "dl_path": "/api/v1/crates/zoet/0.1.14/download",
+        "readme_path": "/api/v1/crates/zoet/0.1.14/readme",
+        "updated_at": "2024-07-30T18:28:16.506397Z",
+        "created_at": "2024-07-30T18:28:16.506397Z",
+        "downloads": 1921,
+        "features": {
+            "alloc": [
+                "zoet-macro/alloc"
+            ],
+            "clippy-insane": [
+                "zoet-macro/clippy-insane"
+            ],
+            "default": [
+                "alloc"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoet/0.1.14/dependencies",
+            "version_downloads": "/api/v1/crates/zoet/0.1.14/downloads",
+            "authors": "/api/v1/crates/zoet/0.1.14/authors"
+        },
+        "crate_size": 8165,
+        "published_by": {
+            "id": 49601,
+            "login": "mooli",
+            "name": "Peter Corlett",
+            "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+            "url": "https://github.com/mooli"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49601,
+                    "login": "mooli",
+                    "name": "Peter Corlett",
+                    "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+                    "url": "https://github.com/mooli"
+                },
+                "time": "2024-07-30T18:28:16.506397Z"
+            }
+        ],
+        "checksum": "3e35bd98beb53f34fe74c3cef9bbd6d897b97b47b1a499812d02e6e210fb9a4c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Adds `#[zoet]` macro to reduce boilerplate when implementing common traits.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 7,
+            "total_comment_lines": 0
+        }
+    }
+}

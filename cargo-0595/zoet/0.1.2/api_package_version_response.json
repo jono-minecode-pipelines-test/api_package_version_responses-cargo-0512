@@ -1,0 +1,55 @@
+{
+    "version": {
+        "id": 171961,
+        "crate": "zoet",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zoet/0.1.2/download",
+        "readme_path": "/api/v1/crates/zoet/0.1.2/readme",
+        "updated_at": "2019-08-26T12:50:15.753677Z",
+        "created_at": "2019-08-26T12:50:15.753677Z",
+        "downloads": 1386,
+        "features": {
+            "clippy-insane": [],
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoet/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zoet/0.1.2/downloads",
+            "authors": "/api/v1/crates/zoet/0.1.2/authors"
+        },
+        "crate_size": 18194,
+        "published_by": {
+            "id": 49601,
+            "login": "mooli",
+            "name": "Peter Corlett",
+            "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+            "url": "https://github.com/mooli"
+        },
+        "audit_actions": [],
+        "checksum": "fff7077c3501528b96835874b14eae5cabccd725a3c5918efc7a7adf21d86c15",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Adds `#[zoet]` macro to reduce boilerplate when implementing common traits.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/mooli/zoet-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1194,
+                    "comment_lines": 262,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 1194,
+            "total_comment_lines": 262
+        }
+    }
+}

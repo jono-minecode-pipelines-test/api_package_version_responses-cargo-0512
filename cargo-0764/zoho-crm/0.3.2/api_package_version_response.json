@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 231172,
+        "crate": "zoho-crm",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/zoho-crm/0.3.2/download",
+        "readme_path": "/api/v1/crates/zoho-crm/0.3.2/readme",
+        "updated_at": "2020-04-14T15:22:20.989740Z",
+        "created_at": "2020-04-14T15:22:20.989740Z",
+        "downloads": 1901,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoho-crm/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zoho-crm/0.3.2/downloads",
+            "authors": "/api/v1/crates/zoho-crm/0.3.2/authors"
+        },
+        "crate_size": 9297,
+        "published_by": {
+            "id": 67882,
+            "login": "rideron89",
+            "name": "Ron Rider",
+            "avatar": "https://avatars.githubusercontent.com/u/1480914?v=4",
+            "url": "https://github.com/rideron89"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 67882,
+                    "login": "rideron89",
+                    "name": "Ron Rider",
+                    "avatar": "https://avatars.githubusercontent.com/u/1480914?v=4",
+                    "url": "https://github.com/rideron89"
+                },
+                "time": "2020-04-14T15:22:20.989740Z"
+            }
+        ],
+        "checksum": "e2091537ed63a907c7694d84ab78488eb8aff5b50aac890f8df19a2583a21be1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Library to help interact with v2 of the Zoho CRM API.",
+        "homepage": "https://github.com/rideron89/zoho-crm",
+        "documentation": "https://docs.rs/zoho-crm/0.3.1/zoho_crm",
+        "repository": "https://github.com/rideron89/zoho-crm",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 754,
+                    "comment_lines": 9,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 754,
+            "total_comment_lines": 9
+        }
+    }
+}

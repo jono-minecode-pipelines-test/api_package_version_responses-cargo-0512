@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 515049,
+        "crate": "zoet",
+        "num": "0.1.9",
+        "dl_path": "/api/v1/crates/zoet/0.1.9/download",
+        "readme_path": "/api/v1/crates/zoet/0.1.9/readme",
+        "updated_at": "2022-03-12T10:46:08.896280Z",
+        "created_at": "2022-03-12T10:46:08.896280Z",
+        "downloads": 1330,
+        "features": {
+            "alloc": [
+                "zoet-macro/alloc"
+            ],
+            "clippy-insane": [
+                "zoet-macro/clippy-insane"
+            ],
+            "default": [
+                "alloc"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoet/0.1.9/dependencies",
+            "version_downloads": "/api/v1/crates/zoet/0.1.9/downloads",
+            "authors": "/api/v1/crates/zoet/0.1.9/authors"
+        },
+        "crate_size": 7444,
+        "published_by": {
+            "id": 49601,
+            "login": "mooli",
+            "name": "Peter Corlett",
+            "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+            "url": "https://github.com/mooli"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49601,
+                    "login": "mooli",
+                    "name": "Peter Corlett",
+                    "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+                    "url": "https://github.com/mooli"
+                },
+                "time": "2022-03-12T10:46:08.896280Z"
+            }
+        ],
+        "checksum": "c54f08d472cb4b52decbaa617f4138fe9800bbb4ff10e2b07be1abb4dbf58f27",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Adds `#[zoet]` macro to reduce boilerplate when implementing common traits.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/mooli/zoet-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 7,
+            "total_comment_lines": 0
+        }
+    }
+}
