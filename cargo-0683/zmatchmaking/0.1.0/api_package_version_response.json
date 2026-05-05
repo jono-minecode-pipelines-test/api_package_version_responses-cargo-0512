@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1063974,
+        "crate": "zmatchmaking",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zmatchmaking/0.1.0/download",
+        "readme_path": "/api/v1/crates/zmatchmaking/0.1.0/readme",
+        "updated_at": "2024-02-26T09:02:19.911555Z",
+        "created_at": "2024-02-26T09:02:19.911555Z",
+        "downloads": 1310,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zmatchmaking/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmatchmaking/0.1.0/downloads",
+            "authors": "/api/v1/crates/zmatchmaking/0.1.0/authors"
+        },
+        "crate_size": 13348,
+        "published_by": {
+            "id": 44187,
+            "login": "sunhuachuang",
+            "name": "Neo Sun",
+            "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+            "url": "https://github.com/sunhuachuang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 44187,
+                    "login": "sunhuachuang",
+                    "name": "Neo Sun",
+                    "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+                    "url": "https://github.com/sunhuachuang"
+                },
+                "time": "2024-02-26T09:02:19.911555Z"
+            }
+        ],
+        "checksum": "231d02410d5c9bd2da3693bb61da2f665e644212d2614209d957ebe2d4548627",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Mathmaking for PvP games with provable fairness and randomness",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zypher-game/uzkge",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 0
+        }
+    }
+}

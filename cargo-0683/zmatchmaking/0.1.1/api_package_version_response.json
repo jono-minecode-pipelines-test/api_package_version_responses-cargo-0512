@@ -1,0 +1,89 @@
+{
+    "version": {
+        "id": 1156618,
+        "crate": "zmatchmaking",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zmatchmaking/0.1.1/download",
+        "readme_path": "/api/v1/crates/zmatchmaking/0.1.1/readme",
+        "updated_at": "2024-05-27T05:16:31.645347Z",
+        "created_at": "2024-05-27T05:16:31.645347Z",
+        "downloads": 1143,
+        "features": {
+            "default": [
+                "std",
+                "parallel"
+            ],
+            "gen": [
+                "uzkge/gen",
+                "parallel",
+                "structopt"
+            ],
+            "no_vk": [],
+            "parallel": [
+                "rayon",
+                "ark-std/parallel",
+                "ark-ff/parallel",
+                "uzkge/parallel"
+            ],
+            "std": [
+                "ark-std/std",
+                "ark-ff/std",
+                "ark-bn254/std",
+                "uzkge/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zmatchmaking/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmatchmaking/0.1.1/downloads",
+            "authors": "/api/v1/crates/zmatchmaking/0.1.1/authors"
+        },
+        "crate_size": 21378,
+        "published_by": {
+            "id": 44187,
+            "login": "sunhuachuang",
+            "name": "Neo Sun",
+            "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+            "url": "https://github.com/sunhuachuang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 44187,
+                    "login": "sunhuachuang",
+                    "name": "Neo Sun",
+                    "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+                    "url": "https://github.com/sunhuachuang"
+                },
+                "time": "2024-05-27T05:16:31.645347Z"
+            }
+        ],
+        "checksum": "f1d50f333327077c9e9116d4ea6ecc13616abe8537e4b0e78b8ada00783e8fbe",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "gen-params"
+        ],
+        "edition": "2021",
+        "description": "Mathmaking for PvP games with provable fairness and randomness",
+        "homepage": "https://zypher.network",
+        "documentation": null,
+        "repository": "https://github.com/zypher-game/uzkge",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 450,
+                    "comment_lines": 4,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 450,
+            "total_comment_lines": 4
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1226189,
+        "crate": "zman",
+        "num": "3.1.0",
+        "dl_path": "/api/v1/crates/zman/3.1.0/download",
+        "readme_path": "/api/v1/crates/zman/3.1.0/readme",
+        "updated_at": "2024-08-06T23:51:02.475540Z",
+        "created_at": "2024-08-06T23:51:02.475540Z",
+        "downloads": 943,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zman/3.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zman/3.1.0/downloads",
+            "authors": "/api/v1/crates/zman/3.1.0/authors"
+        },
+        "crate_size": 156633,
+        "published_by": {
+            "id": 118109,
+            "login": "azzamsa",
+            "name": "Azzam S.A",
+            "avatar": "https://avatars.githubusercontent.com/u/17734314?v=4",
+            "url": "https://github.com/azzamsa"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 118109,
+                    "login": "azzamsa",
+                    "name": "Azzam S.A",
+                    "avatar": "https://avatars.githubusercontent.com/u/17734314?v=4",
+                    "url": "https://github.com/azzamsa"
+                },
+                "time": "2024-08-06T23:51:02.475540Z"
+            }
+        ],
+        "checksum": "8cb92e9762e323283bc3f8d78187cbbcd39c66503a25db5e1d8891a991ec601d",
+        "rust_version": "1.80.0",
+        "has_lib": true,
+        "bin_names": [
+            "zman"
+        ],
+        "edition": "2021",
+        "description": "a CLI year progress",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/azzamsa/zman",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 383,
+                    "comment_lines": 33,
+                    "files": 9
+                },
+                "Shell": {
+                    "code_lines": 8,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 391,
+            "total_comment_lines": 36
+        }
+    }
+}

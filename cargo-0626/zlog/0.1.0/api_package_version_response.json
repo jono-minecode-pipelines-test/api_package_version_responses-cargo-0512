@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 27345,
+        "crate": "zlog",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlog/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlog/0.1.0/readme",
+        "updated_at": "2017-11-30T04:14:12.859732Z",
+        "created_at": "2016-05-19T04:54:27.710466Z",
+        "downloads": 2710,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": null,
+        "links": {
+            "dependencies": "/api/v1/crates/zlog/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlog/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlog/0.1.0/authors"
+        },
+        "crate_size": 1472,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "78425c606ce73f7c044fae31386af2368445ef6a623d5b5628f837ae5a9dc143",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A tiny-teeny logging facade, writing to stdout on a separate thread",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 68,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 68,
+            "total_comment_lines": 2
+        }
+    }
+}

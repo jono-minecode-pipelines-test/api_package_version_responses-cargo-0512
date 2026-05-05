@@ -1,0 +1,54 @@
+{
+    "version": {
+        "id": 169320,
+        "crate": "zmanf",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zmanf/0.1.0/download",
+        "readme_path": "/api/v1/crates/zmanf/0.1.0/readme",
+        "updated_at": "2019-08-14T02:25:43.967259Z",
+        "created_at": "2019-08-14T02:25:43.967259Z",
+        "downloads": 2030,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT-0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmanf/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmanf/0.1.0/downloads",
+            "authors": "/api/v1/crates/zmanf/0.1.0/authors"
+        },
+        "crate_size": 894,
+        "published_by": {
+            "id": 57371,
+            "login": "Zmanf",
+            "name": null,
+            "avatar": "https://avatars2.githubusercontent.com/u/43481361?v=4",
+            "url": "https://github.com/Zmanf"
+        },
+        "audit_actions": [],
+        "checksum": "6c92892abc0fc81350f3bdafc57527d5ebb5c54bb8a44854e642f528b68d63e2",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zmanf"
+        ],
+        "edition": "2018",
+        "description": "a simple utility program in rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 25,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 25,
+            "total_comment_lines": 0
+        }
+    }
+}
