@@ -1,0 +1,144 @@
+{
+    "version": {
+        "id": 1969949,
+        "crate": "zune-image",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zune-image/0.5.0/download",
+        "readme_path": "/api/v1/crates/zune-image/0.5.0/readme",
+        "updated_at": "2026-01-24T18:28:16.285481Z",
+        "created_at": "2026-01-24T18:28:16.285481Z",
+        "downloads": 4615,
+        "features": {
+            "all": [
+                "image_formats",
+                "serde-support",
+                "metadata",
+                "threads",
+                "simd",
+                "log"
+            ],
+            "avx2": [],
+            "benchmarks": [],
+            "bmp": [
+                "zune-bmp"
+            ],
+            "default": [
+                "all"
+            ],
+            "docs": [],
+            "farbfeld": [
+                "zune-farbfeld"
+            ],
+            "hdr": [
+                "zune-hdr"
+            ],
+            "image_formats": [
+                "jpeg",
+                "ppm",
+                "png",
+                "psd",
+                "farbfeld",
+                "qoi",
+                "jpeg-xl",
+                "hdr",
+                "bmp",
+                "webp"
+            ],
+            "jpeg": [
+                "zune-jpeg",
+                "jpeg-encoder"
+            ],
+            "jpeg-xl": [
+                "zune-jpegxl",
+                "jxl-oxide"
+            ],
+            "log": [
+                "zune-core/log"
+            ],
+            "metadata": [
+                "kamadak-exif"
+            ],
+            "png": [
+                "zune-png"
+            ],
+            "ppm": [
+                "zune-ppm"
+            ],
+            "psd": [
+                "zune-psd"
+            ],
+            "qoi": [
+                "zune-qoi"
+            ],
+            "serde-support": [
+                "zune-core/serde",
+                "serde"
+            ],
+            "simd": [
+                "zune-jpeg?/x86",
+                "zune-png?/sse",
+                "avx2",
+                "sse41"
+            ],
+            "sse41": [],
+            "threads": [
+                "zune-jpegxl?/threads",
+                "jxl-oxide?/rayon"
+            ],
+            "webp": [
+                "image-webp"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-image/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zune-image/0.5.0/downloads",
+            "authors": "/api/v1/crates/zune-image/0.5.0/authors"
+        },
+        "crate_size": 483376,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2026-01-24T18:28:16.285481Z"
+            }
+        ],
+        "checksum": "d67f66717c2ca4f5fe18894e4724c7d22076dea8f245ea5386a05a4b6b8f4a53",
+        "rust_version": "1.87.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "An image library, contiaining necessary capabilities to decode, manipulate and encode images",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-image",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6005,
+                    "comment_lines": 1046,
+                    "files": 44
+                }
+            },
+            "total_code_lines": 6005,
+            "total_comment_lines": 1046
+        }
+    }
+}

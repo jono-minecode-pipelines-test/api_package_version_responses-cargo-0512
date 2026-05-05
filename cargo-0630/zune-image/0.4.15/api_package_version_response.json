@@ -1,0 +1,133 @@
+{
+    "version": {
+        "id": 1055064,
+        "crate": "zune-image",
+        "num": "0.4.15",
+        "dl_path": "/api/v1/crates/zune-image/0.4.15/download",
+        "readme_path": "/api/v1/crates/zune-image/0.4.15/readme",
+        "updated_at": "2024-02-17T20:56:43.167691Z",
+        "created_at": "2024-02-17T20:56:43.167691Z",
+        "downloads": 35305,
+        "features": {
+            "all": [
+                "image_formats",
+                "serde-support",
+                "metadata",
+                "threads",
+                "simd",
+                "log"
+            ],
+            "bmp": [
+                "zune-bmp"
+            ],
+            "default": [
+                "all"
+            ],
+            "farbfeld": [
+                "zune-farbfeld"
+            ],
+            "hdr": [
+                "zune-hdr"
+            ],
+            "image_formats": [
+                "jpeg",
+                "ppm",
+                "png",
+                "psd",
+                "farbfeld",
+                "qoi",
+                "jpeg-xl",
+                "hdr",
+                "bmp"
+            ],
+            "jpeg": [
+                "zune-jpeg",
+                "jpeg-encoder"
+            ],
+            "jpeg-xl": [
+                "zune-jpegxl",
+                "jxl-oxide"
+            ],
+            "log": [
+                "zune-core/log"
+            ],
+            "metadata": [
+                "kamadak-exif"
+            ],
+            "png": [
+                "zune-png"
+            ],
+            "ppm": [
+                "zune-ppm"
+            ],
+            "psd": [
+                "zune-psd"
+            ],
+            "qoi": [
+                "zune-qoi"
+            ],
+            "serde-support": [
+                "zune-core/serde",
+                "serde"
+            ],
+            "simd": [
+                "zune-jpeg/x86",
+                "zune-png/sse"
+            ],
+            "threads": [
+                "zune-jpegxl/threads"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-image/0.4.15/dependencies",
+            "version_downloads": "/api/v1/crates/zune-image/0.4.15/downloads",
+            "authors": "/api/v1/crates/zune-image/0.4.15/authors"
+        },
+        "crate_size": 64974,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2024-02-17T20:56:43.167691Z"
+            }
+        ],
+        "checksum": "3d6b98ac0fc8c650406e88f7b33f264798b85b7eff88cc09a8f86688c24d0261",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "An image library, contiaining necessary capabilities to decode, manipulate and encode images",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-image",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5450,
+                    "comment_lines": 1039,
+                    "files": 44
+                }
+            },
+            "total_code_lines": 5450,
+            "total_comment_lines": 1039
+        }
+    }
+}

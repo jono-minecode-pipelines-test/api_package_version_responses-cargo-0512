@@ -1,0 +1,85 @@
+{
+    "version": {
+        "id": 982920,
+        "crate": "zune-imageprocs",
+        "num": "0.4.13",
+        "dl_path": "/api/v1/crates/zune-imageprocs/0.4.13/download",
+        "readme_path": "/api/v1/crates/zune-imageprocs/0.4.13/readme",
+        "updated_at": "2023-12-12T08:02:23.703453Z",
+        "created_at": "2023-12-12T08:02:23.703453Z",
+        "downloads": 1219,
+        "features": {
+            "avx2": [],
+            "benchmarks": [],
+            "default": [
+                "avx2",
+                "sse2",
+                "sse3",
+                "sse41",
+                "threads"
+            ],
+            "exif": [
+                "zune-image/metadata",
+                "kamadak-exif"
+            ],
+            "log": [
+                "zune-core/log"
+            ],
+            "sse2": [],
+            "sse3": [],
+            "sse41": [],
+            "threads": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-imageprocs/0.4.13/dependencies",
+            "version_downloads": "/api/v1/crates/zune-imageprocs/0.4.13/downloads",
+            "authors": "/api/v1/crates/zune-imageprocs/0.4.13/authors"
+        },
+        "crate_size": 45592,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2023-12-12T08:02:23.703453Z"
+            }
+        ],
+        "checksum": "571c43ea4a5d833fce38be53c55725c596853458a1e76aa688954243575d48d2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Common image processing routines for zune-image",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-imageprocs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4957,
+                    "comment_lines": 679,
+                    "files": 39
+                }
+            },
+            "total_code_lines": 4957,
+            "total_comment_lines": 679
+        }
+    }
+}
