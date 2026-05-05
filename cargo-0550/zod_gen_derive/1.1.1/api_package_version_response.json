@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1663619,
+        "crate": "zod_gen_derive",
+        "num": "1.1.1",
+        "dl_path": "/api/v1/crates/zod_gen_derive/1.1.1/download",
+        "readme_path": "/api/v1/crates/zod_gen_derive/1.1.1/readme",
+        "updated_at": "2025-07-30T20:14:36.328230Z",
+        "created_at": "2025-07-30T20:14:36.328230Z",
+        "downloads": 343,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zod_gen_derive/1.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zod_gen_derive/1.1.1/downloads",
+            "authors": "/api/v1/crates/zod_gen_derive/1.1.1/authors"
+        },
+        "crate_size": 3373,
+        "published_by": {
+            "id": 669,
+            "login": "kamilchm",
+            "name": "Kamil Chmielewski",
+            "avatar": "https://avatars.githubusercontent.com/u/1621930?v=4",
+            "url": "https://github.com/kamilchm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 669,
+                    "login": "kamilchm",
+                    "name": "Kamil Chmielewski",
+                    "avatar": "https://avatars.githubusercontent.com/u/1621930?v=4",
+                    "url": "https://github.com/kamilchm"
+                },
+                "time": "2025-07-30T20:14:36.328230Z"
+            }
+        ],
+        "checksum": "878dd1b353fc31a31c6921a6768001635e1baf89624298d56872a743433afd96",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Derive macro for zod_gen - automatically generate Zod schemas from Rust types with serde rename support",
+        "homepage": "https://github.com/cimatic/zod_gen",
+        "documentation": "https://docs.rs/zod_gen",
+        "repository": "https://github.com/cimatic/zod_gen",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 63,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 63,
+            "total_comment_lines": 3
+        }
+    }
+}

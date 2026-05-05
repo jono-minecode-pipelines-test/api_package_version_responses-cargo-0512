@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1661524,
+        "crate": "zod_gen_derive",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zod_gen_derive/1.0.0/download",
+        "readme_path": "/api/v1/crates/zod_gen_derive/1.0.0/readme",
+        "updated_at": "2025-07-29T05:49:00.485929Z",
+        "created_at": "2025-07-29T05:49:00.485929Z",
+        "downloads": 366,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zod_gen_derive/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zod_gen_derive/1.0.0/downloads",
+            "authors": "/api/v1/crates/zod_gen_derive/1.0.0/authors"
+        },
+        "crate_size": 2950,
+        "published_by": {
+            "id": 669,
+            "login": "kamilchm",
+            "name": "Kamil Chmielewski",
+            "avatar": "https://avatars.githubusercontent.com/u/1621930?v=4",
+            "url": "https://github.com/kamilchm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 669,
+                    "login": "kamilchm",
+                    "name": "Kamil Chmielewski",
+                    "avatar": "https://avatars.githubusercontent.com/u/1621930?v=4",
+                    "url": "https://github.com/kamilchm"
+                },
+                "time": "2025-07-29T05:49:00.485929Z"
+            }
+        ],
+        "checksum": "ff2368eff97511ea664b08d06604928f86d74d3e464dd274d9b94f1475071d4f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Derive macro for zod_gen - automatically generate Zod schemas from Rust types",
+        "homepage": "https://github.com/cimatic/zod_gen",
+        "documentation": "https://docs.rs/zod_gen",
+        "repository": "https://github.com/cimatic/zod_gen",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 44,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 44,
+            "total_comment_lines": 0
+        }
+    }
+}
