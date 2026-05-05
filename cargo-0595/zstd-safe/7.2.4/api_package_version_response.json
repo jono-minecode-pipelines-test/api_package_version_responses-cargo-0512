@@ -1,0 +1,111 @@
+{
+    "version": {
+        "id": 1489785,
+        "crate": "zstd-safe",
+        "num": "7.2.4",
+        "dl_path": "/api/v1/crates/zstd-safe/7.2.4/download",
+        "readme_path": "/api/v1/crates/zstd-safe/7.2.4/readme",
+        "updated_at": "2025-03-20T14:47:49.625660Z",
+        "created_at": "2025-03-20T14:47:49.625660Z",
+        "downloads": 82007082,
+        "features": {
+            "arrays": [],
+            "bindgen": [
+                "zstd-sys/bindgen"
+            ],
+            "debug": [
+                "zstd-sys/debug"
+            ],
+            "default": [
+                "legacy",
+                "arrays",
+                "zdict_builder"
+            ],
+            "doc-cfg": [],
+            "experimental": [
+                "zstd-sys/experimental"
+            ],
+            "fat-lto": [
+                "zstd-sys/fat-lto"
+            ],
+            "legacy": [
+                "zstd-sys/legacy"
+            ],
+            "no_asm": [
+                "zstd-sys/no_asm"
+            ],
+            "pkg-config": [
+                "zstd-sys/pkg-config"
+            ],
+            "seekable": [
+                "zstd-sys/seekable"
+            ],
+            "std": [
+                "zstd-sys/std"
+            ],
+            "thin": [
+                "zstd-sys/thin"
+            ],
+            "thin-lto": [
+                "zstd-sys/thin-lto"
+            ],
+            "zdict_builder": [
+                "zstd-sys/zdict_builder"
+            ],
+            "zstdmt": [
+                "zstd-sys/zstdmt"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-safe/7.2.4/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-safe/7.2.4/downloads",
+            "authors": "/api/v1/crates/zstd-safe/7.2.4/authors"
+        },
+        "crate_size": 29350,
+        "published_by": {
+            "id": 3203,
+            "login": "gyscos",
+            "name": "Alexandre Bury",
+            "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+            "url": "https://github.com/gyscos"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3203,
+                    "login": "gyscos",
+                    "name": "Alexandre Bury",
+                    "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+                    "url": "https://github.com/gyscos"
+                },
+                "time": "2025-03-20T14:47:49.625660Z"
+            }
+        ],
+        "checksum": "8f49c4d5f0abb602a93fb8736af2a4f4dd9512e36f7f570d66e65ff867ed3b9d",
+        "rust_version": "1.64",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Safe low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2261,
+                    "comment_lines": 154,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 2261,
+            "total_comment_lines": 154
+        }
+    }
+}
