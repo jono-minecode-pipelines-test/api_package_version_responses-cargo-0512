@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 582029,
+        "crate": "zookeeper-client",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zookeeper-client/0.2.0/download",
+        "readme_path": "/api/v1/crates/zookeeper-client/0.2.0/readme",
+        "updated_at": "2022-07-10T10:59:12.321025Z",
+        "created_at": "2022-07-10T10:59:12.321025Z",
+        "downloads": 1308,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper-client/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper-client/0.2.0/downloads",
+            "authors": "/api/v1/crates/zookeeper-client/0.2.0/authors"
+        },
+        "crate_size": 38240,
+        "published_by": {
+            "id": 91539,
+            "login": "kezhuw",
+            "name": "Kezhu Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/541734?v=4",
+            "url": "https://github.com/kezhuw"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 91539,
+                    "login": "kezhuw",
+                    "name": "Kezhu Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/541734?v=4",
+                    "url": "https://github.com/kezhuw"
+                },
+                "time": "2022-07-10T10:59:12.321025Z"
+            }
+        ],
+        "checksum": "d8c9e56ed483d531526d87ed027551f7ded4b8b99721c1803fc4f3c023429db5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZooKeeper async client",
+        "homepage": "https://github.com/kezhuw/zookeeper-client-rust/",
+        "documentation": "https://docs.rs/zookeeper-client/",
+        "repository": "https://github.com/kezhuw/zookeeper-client-rust/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3885,
+                    "comment_lines": 7,
+                    "files": 27
+                }
+            },
+            "total_code_lines": 3885,
+            "total_comment_lines": 7
+        }
+    }
+}

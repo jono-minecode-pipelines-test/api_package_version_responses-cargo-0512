@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1351307,
+        "crate": "zoom-sync",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoom-sync/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoom-sync/0.1.0/readme",
+        "updated_at": "2024-11-24T21:01:15.943343Z",
+        "created_at": "2024-11-24T21:01:15.943343Z",
+        "downloads": 782,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-sync/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-sync/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoom-sync/0.1.0/authors"
+        },
+        "crate_size": 34240,
+        "published_by": {
+            "id": 169561,
+            "login": "ozwaldorf",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/8976745?v=4",
+            "url": "https://github.com/ozwaldorf"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169561,
+                    "login": "ozwaldorf",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/8976745?v=4",
+                    "url": "https://github.com/ozwaldorf"
+                },
+                "time": "2024-11-24T21:01:15.943343Z"
+            }
+        ],
+        "checksum": "bb9fea0bf5c70e43111e15ad87b02c7d4c21c657eb5caea5774c8cc1b8be299f",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoom-sync"
+        ],
+        "edition": "2021",
+        "description": "Cross-platform utility for syncing zoom65v3 screen modules",
+        "homepage": "https://github.com/ozwaldorf/zoom-sync",
+        "documentation": null,
+        "repository": "https://github.com/ozwaldorf/zoom-sync",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 764,
+                    "comment_lines": 19,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 764,
+            "total_comment_lines": 19
+        }
+    }
+}

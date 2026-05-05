@@ -1,0 +1,94 @@
+{
+    "version": {
+        "id": 1653818,
+        "crate": "zookeeper-client",
+        "num": "0.9.2",
+        "dl_path": "/api/v1/crates/zookeeper-client/0.9.2/download",
+        "readme_path": "/api/v1/crates/zookeeper-client/0.9.2/readme",
+        "updated_at": "2025-07-23T06:09:32.225414Z",
+        "created_at": "2025-07-23T06:09:32.225414Z",
+        "downloads": 371,
+        "features": {
+            "async-global-executor": [
+                "asyncs/async-global-executor"
+            ],
+            "default": [],
+            "sasl": [
+                "sasl-gssapi",
+                "sasl-digest-md5"
+            ],
+            "sasl-digest-md5": [
+                "rsasl/unstable_custom_mechanism",
+                "md5",
+                "linkme",
+                "hex"
+            ],
+            "sasl-gssapi": [
+                "rsasl/gssapi"
+            ],
+            "smol": [
+                "asyncs/smol"
+            ],
+            "tls": [
+                "rustls",
+                "rustls-pemfile",
+                "webpki-roots",
+                "futures-rustls"
+            ],
+            "tokio": [
+                "asyncs/tokio"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper-client/0.9.2/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper-client/0.9.2/downloads",
+            "authors": "/api/v1/crates/zookeeper-client/0.9.2/authors"
+        },
+        "crate_size": 100597,
+        "published_by": {
+            "id": 91539,
+            "login": "kezhuw",
+            "name": "Kezhu Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/541734?v=4",
+            "url": "https://github.com/kezhuw"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 91539,
+                    "login": "kezhuw",
+                    "name": "Kezhu Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/541734?v=4",
+                    "url": "https://github.com/kezhuw"
+                },
+                "time": "2025-07-23T06:09:32.225414Z"
+            }
+        ],
+        "checksum": "d3ac4d6e589254388db71a0d2cd845009cdf04cf1adf2ab6e60f2f2c13c5c91e",
+        "rust_version": "1.76",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZooKeeper async client",
+        "homepage": "https://github.com/kezhuw/zookeeper-client-rust/",
+        "documentation": "https://docs.rs/zookeeper-client/",
+        "repository": "https://github.com/kezhuw/zookeeper-client-rust/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7292,
+                    "comment_lines": 46,
+                    "files": 38
+                }
+            },
+            "total_code_lines": 7292,
+            "total_comment_lines": 46
+        }
+    }
+}

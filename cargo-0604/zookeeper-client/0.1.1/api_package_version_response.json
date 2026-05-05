@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 499454,
+        "crate": "zookeeper-client",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zookeeper-client/0.1.1/download",
+        "readme_path": "/api/v1/crates/zookeeper-client/0.1.1/readme",
+        "updated_at": "2022-02-13T15:35:46.329243Z",
+        "created_at": "2022-02-13T15:35:46.329243Z",
+        "downloads": 1137,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper-client/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper-client/0.1.1/downloads",
+            "authors": "/api/v1/crates/zookeeper-client/0.1.1/authors"
+        },
+        "crate_size": 31895,
+        "published_by": {
+            "id": 91539,
+            "login": "kezhuw",
+            "name": "Kezhu Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/541734?v=4",
+            "url": "https://github.com/kezhuw"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 91539,
+                    "login": "kezhuw",
+                    "name": "Kezhu Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/541734?v=4",
+                    "url": "https://github.com/kezhuw"
+                },
+                "time": "2022-02-13T15:35:46.329243Z"
+            }
+        ],
+        "checksum": "485cc598d38f176ad3cd5a7f06225281ab8606b395f6e68ad73eb362f4b7885f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZooKeeper async client",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kezhuw/zookeeper-client-rust/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3275,
+                    "comment_lines": 5,
+                    "files": 24
+                }
+            },
+            "total_code_lines": 3275,
+            "total_comment_lines": 5
+        }
+    }
+}

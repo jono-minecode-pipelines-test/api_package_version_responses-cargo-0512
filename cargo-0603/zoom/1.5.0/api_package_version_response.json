@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 39473,
+        "crate": "zoom",
+        "num": "1.5.0",
+        "dl_path": "/api/v1/crates/zoom/1.5.0/download",
+        "readme_path": "/api/v1/crates/zoom/1.5.0/readme",
+        "updated_at": "2017-11-30T03:26:35.996523Z",
+        "created_at": "2016-12-12T15:02:52.059661Z",
+        "downloads": 2599,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom/1.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom/1.5.0/downloads",
+            "authors": "/api/v1/crates/zoom/1.5.0/authors"
+        },
+        "crate_size": 7395,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "e0ac24ea586704925b1ff6be71fb2f101ec4f005b1cc160507552ce030b2c851",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A particle physics library with extensive generics",
+        "homepage": null,
+        "documentation": "https://vadixidav.github.io/zoom/zoom/",
+        "repository": "https://github.com/vadixidav/zoom",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 967,
+                    "comment_lines": 38,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 967,
+            "total_comment_lines": 38
+        }
+    }
+}

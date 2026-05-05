@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 2205572,
+        "crate": "zoom-cli",
+        "num": "0.2.3",
+        "dl_path": "/api/v1/crates/zoom-cli/0.2.3/download",
+        "readme_path": "/api/v1/crates/zoom-cli/0.2.3/readme",
+        "updated_at": "2026-04-03T07:22:18.339656Z",
+        "created_at": "2026-04-03T07:22:18.339656Z",
+        "downloads": 15,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom-cli/0.2.3/dependencies",
+            "version_downloads": "/api/v1/crates/zoom-cli/0.2.3/downloads",
+            "authors": "/api/v1/crates/zoom-cli/0.2.3/authors"
+        },
+        "crate_size": 61802,
+        "published_by": {
+            "id": 318489,
+            "login": "rvben",
+            "name": "Ruben J. Jongejan",
+            "avatar": "https://avatars.githubusercontent.com/u/5196381?v=4",
+            "url": "https://github.com/rvben"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 318489,
+                    "login": "rvben",
+                    "name": "Ruben J. Jongejan",
+                    "avatar": "https://avatars.githubusercontent.com/u/5196381?v=4",
+                    "url": "https://github.com/rvben"
+                },
+                "time": "2026-04-03T07:22:18.339656Z"
+            }
+        ],
+        "checksum": "3ef1a123f9e82776d2314522ff16bfacaf1be6355a89d715e78e79927288aec9",
+        "rust_version": "1.90",
+        "has_lib": true,
+        "bin_names": [
+            "zoom"
+        ],
+        "edition": "2024",
+        "description": "Agent-friendly Zoom CLI with JSON output, structured exit codes, and schema introspection",
+        "homepage": "https://github.com/rvben/zoom-cli",
+        "documentation": null,
+        "repository": "https://github.com/rvben/zoom-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Python": {
+                    "code_lines": 44,
+                    "comment_lines": 6,
+                    "files": 2
+                },
+                "Ruby": {
+                    "code_lines": 28,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 5612,
+                    "comment_lines": 87,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 5684,
+            "total_comment_lines": 93
+        }
+    }
+}
