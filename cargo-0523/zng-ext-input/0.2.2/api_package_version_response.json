@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1108284,
+        "crate": "zng-ext-input",
+        "num": "0.2.2",
+        "dl_path": "/api/v1/crates/zng-ext-input/0.2.2/download",
+        "readme_path": "/api/v1/crates/zng-ext-input/0.2.2/readme",
+        "updated_at": "2024-04-08T20:48:18.534051Z",
+        "created_at": "2024-04-08T20:48:18.534051Z",
+        "downloads": 1143,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-input/0.2.2/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-input/0.2.2/downloads",
+            "authors": "/api/v1/crates/zng-ext-input/0.2.2/authors"
+        },
+        "crate_size": 68305,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-08T20:48:18.534051Z"
+            }
+        ],
+        "checksum": "7957a7606541038a70d19d833e8f79fe45f42bc32c10e7319cdc3f23f84b4c72",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_input",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7331,
+                    "comment_lines": 167,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 7331,
+            "total_comment_lines": 167
+        }
+    }
+}
