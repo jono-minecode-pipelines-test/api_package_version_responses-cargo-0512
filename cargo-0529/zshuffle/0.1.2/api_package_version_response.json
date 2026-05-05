@@ -1,0 +1,93 @@
+{
+    "version": {
+        "id": 1163056,
+        "crate": "zshuffle",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zshuffle/0.1.2/download",
+        "readme_path": "/api/v1/crates/zshuffle/0.1.2/readme",
+        "updated_at": "2024-06-03T11:26:56.603662Z",
+        "created_at": "2024-06-03T11:26:56.603662Z",
+        "downloads": 1984,
+        "features": {
+            "default": [
+                "std",
+                "parallel"
+            ],
+            "gen": [
+                "uzkge/gen",
+                "parallel",
+                "structopt"
+            ],
+            "no_vk": [],
+            "parallel": [
+                "rayon",
+                "ark-std/parallel",
+                "ark-ff/parallel",
+                "ark-ec/parallel",
+                "uzkge/parallel",
+                "ark-groth16/parallel"
+            ],
+            "std": [
+                "ark-ec/std",
+                "ark-std/std",
+                "ark-ff/std",
+                "ark-bn254/std",
+                "uzkge/std",
+                "ark-groth16/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zshuffle/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zshuffle/0.1.2/downloads",
+            "authors": "/api/v1/crates/zshuffle/0.1.2/authors"
+        },
+        "crate_size": 909469,
+        "published_by": {
+            "id": 44187,
+            "login": "sunhuachuang",
+            "name": "Neo Sun",
+            "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+            "url": "https://github.com/sunhuachuang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 44187,
+                    "login": "sunhuachuang",
+                    "name": "Neo Sun",
+                    "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+                    "url": "https://github.com/sunhuachuang"
+                },
+                "time": "2024-06-03T11:26:56.603662Z"
+            }
+        ],
+        "checksum": "50820eb861f65daadbfb1e5a30de4334ab844d6df133812e5a6bca5af1518c20",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "gen-params"
+        ],
+        "edition": "2021",
+        "description": "Encrypt and shuffle cards, resulting in a randomly ordered deck",
+        "homepage": "https://zypher.network",
+        "documentation": null,
+        "repository": "https://github.com/zypher-game/uzkge",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 908,
+                    "comment_lines": 24,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 908,
+            "total_comment_lines": 24
+        }
+    }
+}

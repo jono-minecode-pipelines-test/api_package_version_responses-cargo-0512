@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1063973,
+        "crate": "zshuffle",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zshuffle/0.1.0/download",
+        "readme_path": "/api/v1/crates/zshuffle/0.1.0/readme",
+        "updated_at": "2024-02-26T09:02:11.544115Z",
+        "created_at": "2024-02-26T09:02:11.544115Z",
+        "downloads": 1321,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zshuffle/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zshuffle/0.1.0/downloads",
+            "authors": "/api/v1/crates/zshuffle/0.1.0/authors"
+        },
+        "crate_size": 13631,
+        "published_by": {
+            "id": 44187,
+            "login": "sunhuachuang",
+            "name": "Neo Sun",
+            "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+            "url": "https://github.com/sunhuachuang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 44187,
+                    "login": "sunhuachuang",
+                    "name": "Neo Sun",
+                    "avatar": "https://avatars.githubusercontent.com/u/12514343?v=4",
+                    "url": "https://github.com/sunhuachuang"
+                },
+                "time": "2024-02-26T09:02:11.544115Z"
+            }
+        ],
+        "checksum": "d67c464561b55c97f2146d0660a7af72f79bd1c64b095a2938b6499715607b95",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Encrypt and shuffle cards, resulting in a randomly ordered deck",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zypher-game/uzkge",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 0
+        }
+    }
+}

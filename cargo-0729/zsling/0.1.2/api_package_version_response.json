@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 730962,
+        "crate": "zsling",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zsling/0.1.2/download",
+        "readme_path": "/api/v1/crates/zsling/0.1.2/readme",
+        "updated_at": "2023-02-19T21:05:28.311384Z",
+        "created_at": "2023-02-19T21:05:28.311384Z",
+        "downloads": 1558,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsling/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zsling/0.1.2/downloads",
+            "authors": "/api/v1/crates/zsling/0.1.2/authors"
+        },
+        "crate_size": 9736,
+        "published_by": {
+            "id": 169608,
+            "login": "emilHof",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/95590295?v=4",
+            "url": "https://github.com/emilHof"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169608,
+                    "login": "emilHof",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/95590295?v=4",
+                    "url": "https://github.com/emilHof"
+                },
+                "time": "2023-02-19T21:05:28.311384Z"
+            }
+        ],
+        "checksum": "3a01f7917f269d8a3338a3df399307e087e43532dd6a9749f26c6ba356f17e8c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust Wrapper around a Sequentially lockign (SeqLock) Ring Buffer written in Zig",
+        "homepage": "https://docs.rs/zsling",
+        "documentation": "https://docs.rs/zsling",
+        "repository": "https://github.com/emilHof/zsling",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 136,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Zig": {
+                    "code_lines": 496,
+                    "comment_lines": 73,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 632,
+            "total_comment_lines": 73
+        }
+    }
+}

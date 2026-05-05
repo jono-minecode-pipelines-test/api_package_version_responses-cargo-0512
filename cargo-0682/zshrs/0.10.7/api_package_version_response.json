@@ -1,0 +1,111 @@
+{
+    "version": {
+        "id": 2337744,
+        "crate": "zshrs",
+        "num": "0.10.7",
+        "dl_path": "/api/v1/crates/zshrs/0.10.7/download",
+        "readme_path": "/api/v1/crates/zshrs/0.10.7/readme",
+        "updated_at": "2026-05-02T04:26:16.999105Z",
+        "created_at": "2026-05-02T04:26:16.999105Z",
+        "downloads": 192,
+        "features": {
+            "daemon": [
+                "zshrs-daemon"
+            ],
+            "default": [
+                "daemon"
+            ],
+            "flamegraph": [
+                "tracing-flame"
+            ],
+            "profiling": [],
+            "prometheus": [
+                "metrics",
+                "metrics-exporter-prometheus"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zshrs/0.10.7/dependencies",
+            "version_downloads": "/api/v1/crates/zshrs/0.10.7/downloads",
+            "authors": "/api/v1/crates/zshrs/0.10.7/authors"
+        },
+        "crate_size": 3830236,
+        "published_by": {
+            "id": 139708,
+            "login": "MenkeTechnologies",
+            "name": "MenkeTechnologies",
+            "avatar": "https://avatars.githubusercontent.com/u/18195247?v=4",
+            "url": "https://github.com/MenkeTechnologies"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139708,
+                    "login": "MenkeTechnologies",
+                    "name": "MenkeTechnologies",
+                    "avatar": "https://avatars.githubusercontent.com/u/18195247?v=4",
+                    "url": "https://github.com/MenkeTechnologies"
+                },
+                "time": "2026-05-02T04:26:16.999105Z"
+            }
+        ],
+        "checksum": "ccfd7d36d798b9fcc9e9c84a3e12463144b15f0937916ce936aaa644d164c5f4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zshrs"
+        ],
+        "edition": "2021",
+        "description": "The first compiled Unix shell \u2014 bytecode VM, worker pool, AOP intercept, SQLite caching",
+        "homepage": null,
+        "documentation": "https://menketechnologies.github.io/strykelang/zshrs.html",
+        "repository": "https://github.com/MenkeTechnologies/zshrs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "CSS": {
+                    "code_lines": 1187,
+                    "comment_lines": 16,
+                    "files": 2
+                },
+                "D": {
+                    "code_lines": 34,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "HTML": {
+                    "code_lines": 4377,
+                    "comment_lines": 37,
+                    "files": 4
+                },
+                "JavaScript": {
+                    "code_lines": 274,
+                    "comment_lines": 5,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 173708,
+                    "comment_lines": 15161,
+                    "files": 263
+                },
+                "Shell": {
+                    "code_lines": 286,
+                    "comment_lines": 43,
+                    "files": 3
+                },
+                "Zsh": {
+                    "code_lines": 2964,
+                    "comment_lines": 592,
+                    "files": 28
+                }
+            },
+            "total_code_lines": 182830,
+            "total_comment_lines": 15854
+        }
+    }
+}
