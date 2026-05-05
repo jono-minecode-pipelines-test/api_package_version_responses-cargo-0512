@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 628348,
+        "crate": "zuffer",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zuffer/0.1.1/download",
+        "readme_path": "/api/v1/crates/zuffer/0.1.1/readme",
+        "updated_at": "2022-09-25T05:59:03.228697Z",
+        "created_at": "2022-09-25T05:59:03.228697Z",
+        "downloads": 1605,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuffer/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zuffer/0.1.1/downloads",
+            "authors": "/api/v1/crates/zuffer/0.1.1/authors"
+        },
+        "crate_size": 22776,
+        "published_by": {
+            "id": 119762,
+            "login": "al8n",
+            "name": "Al Liu",
+            "avatar": "https://avatars.githubusercontent.com/u/42351146?v=4",
+            "url": "https://github.com/al8n"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 119762,
+                    "login": "al8n",
+                    "name": "Al Liu",
+                    "avatar": "https://avatars.githubusercontent.com/u/42351146?v=4",
+                    "url": "https://github.com/al8n"
+                },
+                "time": "2022-09-25T05:59:03.228697Z"
+            }
+        ],
+        "checksum": "5e0487854ec18cdf3bdccbb79593b00a5eebbc35b94711f169cf9e3c32ee9c4b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A mmap file based buffer implementation.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/al8n/veladb/tree/main/zuffer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 770,
+                    "comment_lines": 21,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 770,
+            "total_comment_lines": 21
+        }
+    }
+}

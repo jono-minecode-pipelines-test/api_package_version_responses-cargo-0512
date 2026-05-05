@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2297617,
+        "crate": "ztracing-macro-gpui-unofficial",
+        "num": "0.233.8",
+        "dl_path": "/api/v1/crates/ztracing-macro-gpui-unofficial/0.233.8/download",
+        "readme_path": "/api/v1/crates/ztracing-macro-gpui-unofficial/0.233.8/readme",
+        "updated_at": "2026-04-23T20:01:20.881809Z",
+        "created_at": "2026-04-23T20:01:20.881809Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/ztracing-macro-gpui-unofficial/0.233.8/dependencies",
+            "version_downloads": "/api/v1/crates/ztracing-macro-gpui-unofficial/0.233.8/downloads",
+            "authors": "/api/v1/crates/ztracing-macro-gpui-unofficial/0.233.8/authors"
+        },
+        "crate_size": 26759,
+        "published_by": {
+            "id": 233347,
+            "login": "iamnbutler",
+            "name": "Nate Butler",
+            "avatar": "https://avatars.githubusercontent.com/u/1714999?v=4",
+            "url": "https://github.com/iamnbutler"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 233347,
+                    "login": "iamnbutler",
+                    "name": "Nate Butler",
+                    "avatar": "https://avatars.githubusercontent.com/u/1714999?v=4",
+                    "url": "https://github.com/iamnbutler"
+                },
+                "time": "2026-04-23T20:01:20.881809Z"
+            }
+        ],
+        "checksum": "cbf77fdccf163eb31b6ebb7b4c04f10791a4955d6c66dc0038b9bad49e8f65d5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Unofficial release of Zed's ztracing_macro crate",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/iamnbutler/gpui-unofficial",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 7,
+            "total_comment_lines": 0
+        }
+    }
+}

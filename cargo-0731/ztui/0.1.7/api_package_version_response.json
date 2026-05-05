@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 802967,
+        "crate": "ztui",
+        "num": "0.1.7",
+        "dl_path": "/api/v1/crates/ztui/0.1.7/download",
+        "readme_path": "/api/v1/crates/ztui/0.1.7/readme",
+        "updated_at": "2023-05-18T17:13:47.781678Z",
+        "created_at": "2023-05-18T17:13:47.781678Z",
+        "downloads": 1563,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/ztui/0.1.7/dependencies",
+            "version_downloads": "/api/v1/crates/ztui/0.1.7/downloads",
+            "authors": "/api/v1/crates/ztui/0.1.7/authors"
+        },
+        "crate_size": 241784,
+        "published_by": {
+            "id": 106977,
+            "login": "erikh",
+            "name": "Erik Hollensbe",
+            "avatar": "https://avatars.githubusercontent.com/u/18923?v=4",
+            "url": "https://github.com/erikh"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 106977,
+                    "login": "erikh",
+                    "name": "Erik Hollensbe",
+                    "avatar": "https://avatars.githubusercontent.com/u/18923?v=4",
+                    "url": "https://github.com/erikh"
+                },
+                "time": "2023-05-18T17:13:47.781678Z"
+            }
+        ],
+        "checksum": "53a68ec5741db4f07bd9a837c52d81573b52cebfca49c620747921fb50688d1b",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztui"
+        ],
+        "edition": "2021",
+        "description": "ztui is a terminal UI for zerotier",
+        "homepage": "https://github.com/erikh/ztui",
+        "documentation": null,
+        "repository": "https://github.com/erikh/ztui",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1785,
+                    "comment_lines": 18,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 1785,
+            "total_comment_lines": 18
+        }
+    }
+}

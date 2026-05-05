@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 2281587,
+        "crate": "zugriff",
+        "num": "1.2.3",
+        "dl_path": "/api/v1/crates/zugriff/1.2.3/download",
+        "readme_path": "/api/v1/crates/zugriff/1.2.3/readme",
+        "updated_at": "2026-04-20T14:22:24.610650Z",
+        "created_at": "2026-04-20T14:22:24.610650Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "EUPL-1.2",
+        "links": {
+            "dependencies": "/api/v1/crates/zugriff/1.2.3/dependencies",
+            "version_downloads": "/api/v1/crates/zugriff/1.2.3/downloads",
+            "authors": "/api/v1/crates/zugriff/1.2.3/authors"
+        },
+        "crate_size": 57591,
+        "published_by": {
+            "id": 236171,
+            "login": "lucagoslar",
+            "name": "Luca Goslar",
+            "avatar": "https://avatars.githubusercontent.com/u/47827429?v=4",
+            "url": "https://github.com/lucagoslar"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 236171,
+                    "login": "lucagoslar",
+                    "name": "Luca Goslar",
+                    "avatar": "https://avatars.githubusercontent.com/u/47827429?v=4",
+                    "url": "https://github.com/lucagoslar"
+                },
+                "time": "2026-04-20T14:22:24.610650Z"
+            }
+        ],
+        "checksum": "514364d5fcbedc7007ca764dd96552b1d424800eb1dd5959ee55582ba6e04193",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zugriff"
+        ],
+        "edition": "2024",
+        "description": "zugriff CLI",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zugriffcloud/os",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "JavaScript": {
+                    "code_lines": 167,
+                    "comment_lines": 496,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 2757,
+                    "comment_lines": 13,
+                    "files": 17
+                },
+                "TypeScript": {
+                    "code_lines": 10,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 2934,
+            "total_comment_lines": 509
+        }
+    }
+}

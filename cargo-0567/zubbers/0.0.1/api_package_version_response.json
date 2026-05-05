@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 701992,
+        "crate": "zubbers",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zubbers/0.0.1/download",
+        "readme_path": "/api/v1/crates/zubbers/0.0.1/readme",
+        "updated_at": "2023-01-12T18:39:30.815850Z",
+        "created_at": "2023-01-12T18:39:30.815850Z",
+        "downloads": 1654,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zubbers/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zubbers/0.0.1/downloads",
+            "authors": "/api/v1/crates/zubbers/0.0.1/authors"
+        },
+        "crate_size": 31887,
+        "published_by": {
+            "id": 193297,
+            "login": "sawcce",
+            "name": "Sawcce",
+            "avatar": "https://avatars.githubusercontent.com/u/45178251?v=4",
+            "url": "https://github.com/sawcce"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 193297,
+                    "login": "sawcce",
+                    "name": "Sawcce",
+                    "avatar": "https://avatars.githubusercontent.com/u/45178251?v=4",
+                    "url": "https://github.com/sawcce"
+                },
+                "time": "2023-01-12T18:39:30.815850Z"
+            }
+        ],
+        "checksum": "3e6b5f6e292b48c8dc7094d8c239c657bce13be004973b774f07515172421b69",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A fast, stack-based virtual machine for dynamic languages, with an intuitive IR-builder, garbage collection and NaN-tagging.",
+        "homepage": "https://github.com/sawcce/zubbers",
+        "documentation": null,
+        "repository": "https://github.com/sawcce/zubbers",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3120,
+                    "comment_lines": 43,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 3120,
+            "total_comment_lines": 43
+        }
+    }
+}

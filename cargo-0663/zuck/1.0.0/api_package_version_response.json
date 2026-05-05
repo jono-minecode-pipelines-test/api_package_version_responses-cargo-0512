@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1342203,
+        "crate": "zuck",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zuck/1.0.0/download",
+        "readme_path": "/api/v1/crates/zuck/1.0.0/readme",
+        "updated_at": "2025-06-23T17:51:13.945125Z",
+        "created_at": "2024-11-16T14:03:15.106576Z",
+        "downloads": 778,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuck/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuck/1.0.0/downloads",
+            "authors": "/api/v1/crates/zuck/1.0.0/authors"
+        },
+        "crate_size": 14046,
+        "published_by": {
+            "id": 300452,
+            "login": "LennyLizowzskiy",
+            "name": "l.liz",
+            "avatar": "https://avatars.githubusercontent.com/u/46971551?v=4",
+            "url": "https://github.com/LennyLizowzskiy"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 300452,
+                    "login": "LennyLizowzskiy",
+                    "name": "l.liz",
+                    "avatar": "https://avatars.githubusercontent.com/u/46971551?v=4",
+                    "url": "https://github.com/LennyLizowzskiy"
+                },
+                "time": "2024-11-16T14:03:15.106576Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 300452,
+                    "login": "LennyLizowzskiy",
+                    "name": "l.liz",
+                    "avatar": "https://avatars.githubusercontent.com/u/46971551?v=4",
+                    "url": "https://github.com/LennyLizowzskiy"
+                },
+                "time": "2025-06-23T17:51:13.947577Z"
+            }
+        ],
+        "checksum": "abf6719bb2cc7e1aaaacf212eabc5d22c9a6480b0e05ff44491a56ffc2b3fb00",
+        "rust_version": "1.82",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Human-readable time parser and formatter",
+        "homepage": "https://github.com/LennyLizowzskiy/zuck",
+        "documentation": "https://docs.rs/zuck",
+        "repository": "https://github.com/LennyLizowzskiy/zuck",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 912,
+                    "comment_lines": 13,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 912,
+            "total_comment_lines": 13
+        }
+    }
+}

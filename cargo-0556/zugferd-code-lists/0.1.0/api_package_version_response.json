@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1468665,
+        "crate": "zugferd-code-lists",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zugferd-code-lists/0.1.0/download",
+        "readme_path": "/api/v1/crates/zugferd-code-lists/0.1.0/readme",
+        "updated_at": "2025-03-05T01:02:18.342303Z",
+        "created_at": "2025-03-05T01:02:18.342303Z",
+        "downloads": 657,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zugferd-code-lists/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zugferd-code-lists/0.1.0/downloads",
+            "authors": "/api/v1/crates/zugferd-code-lists/0.1.0/authors"
+        },
+        "crate_size": 244725,
+        "published_by": {
+            "id": 198506,
+            "login": "hydrogen602",
+            "name": "Jonathan Rotter",
+            "avatar": "https://avatars.githubusercontent.com/u/32135041?v=4",
+            "url": "https://github.com/hydrogen602"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 198506,
+                    "login": "hydrogen602",
+                    "name": "Jonathan Rotter",
+                    "avatar": "https://avatars.githubusercontent.com/u/32135041?v=4",
+                    "url": "https://github.com/hydrogen602"
+                },
+                "time": "2025-03-05T01:02:18.342303Z"
+            }
+        ],
+        "checksum": "90b82f335a80fd7f3364d7f5ffae5b48025fcc0256214bc1ffdb22ad84d3c3b4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZUGFeRD code lists, e.g. languages enum, currencies enum, countries enum, etc.",
+        "homepage": "https://github.com/hydrogen602/zugferd-code-lists",
+        "documentation": null,
+        "repository": "https://github.com/hydrogen602/zugferd-code-lists",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 24401,
+                    "comment_lines": 1,
+                    "files": 28
+                }
+            },
+            "total_code_lines": 24401,
+            "total_comment_lines": 1
+        }
+    }
+}

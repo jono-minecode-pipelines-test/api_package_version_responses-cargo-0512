@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1242621,
+        "crate": "zugferd",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zugferd/0.1.1/download",
+        "readme_path": "/api/v1/crates/zugferd/0.1.1/readme",
+        "updated_at": "2024-08-20T15:22:23.015261Z",
+        "created_at": "2024-08-20T15:22:23.015261Z",
+        "downloads": 962,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zugferd/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zugferd/0.1.1/downloads",
+            "authors": "/api/v1/crates/zugferd/0.1.1/authors"
+        },
+        "crate_size": 24824,
+        "published_by": {
+            "id": 282298,
+            "login": "FaultierSP",
+            "name": "Alex",
+            "avatar": "https://avatars.githubusercontent.com/u/65611002?v=4",
+            "url": "https://github.com/FaultierSP"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 282298,
+                    "login": "FaultierSP",
+                    "name": "Alex",
+                    "avatar": "https://avatars.githubusercontent.com/u/65611002?v=4",
+                    "url": "https://github.com/FaultierSP"
+                },
+                "time": "2024-08-20T15:22:23.015261Z"
+            }
+        ],
+        "checksum": "70cf709f9bc20937ae760bbcb11dd9d5827e5ab7dd9d362b3c0c928435aaa3aa",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zugferd"
+        ],
+        "edition": "2021",
+        "description": "Generate a ZUGFeRD XML for European e-invoices.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/FaultierSP/zugferd_rust",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1060,
+                    "comment_lines": 36,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 1060,
+            "total_comment_lines": 36
+        }
+    }
+}
