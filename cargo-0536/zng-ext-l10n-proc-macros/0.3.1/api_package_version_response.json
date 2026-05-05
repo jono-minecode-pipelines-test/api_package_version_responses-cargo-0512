@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1623993,
+        "crate": "zng-ext-l10n-proc-macros",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zng-ext-l10n-proc-macros/0.3.1/download",
+        "readme_path": "/api/v1/crates/zng-ext-l10n-proc-macros/0.3.1/readme",
+        "updated_at": "2025-07-02T05:50:23.952742Z",
+        "created_at": "2025-07-02T05:50:23.952742Z",
+        "downloads": 1324,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-l10n-proc-macros/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-l10n-proc-macros/0.3.1/downloads",
+            "authors": "/api/v1/crates/zng-ext-l10n-proc-macros/0.3.1/authors"
+        },
+        "crate_size": 6135,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-07-02T05:50:23.952742Z"
+            }
+        ],
+        "checksum": "7e7d24495c2259912c3c9bd6780559f10317298e9e3758c5dc6b1364067dbca2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_l10n_proc_macros",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 405,
+                    "comment_lines": 5,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 405,
+            "total_comment_lines": 5
+        }
+    }
+}
