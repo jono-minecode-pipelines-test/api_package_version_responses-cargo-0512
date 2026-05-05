@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 2198681,
+        "crate": "zng-ext-undo",
+        "num": "0.11.11",
+        "dl_path": "/api/v1/crates/zng-ext-undo/0.11.11/download",
+        "readme_path": "/api/v1/crates/zng-ext-undo/0.11.11/readme",
+        "updated_at": "2026-04-01T19:28:17.263869Z",
+        "created_at": "2026-04-01T19:28:17.263869Z",
+        "downloads": 109,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-undo/0.11.11/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-undo/0.11.11/downloads",
+            "authors": "/api/v1/crates/zng-ext-undo/0.11.11/authors"
+        },
+        "crate_size": 28528,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-04-01T19:28:17.263869Z"
+            }
+        ],
+        "checksum": "03d516f831e7cd346f6afbcf40201781c013e6566d4cc2696c4ed9a51f5fabb4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_undo",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 347,
+                    "comment_lines": 0,
+                    "files": 44
+                },
+                "Rust": {
+                    "code_lines": 1181,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1528,
+            "total_comment_lines": 3
+        }
+    }
+}
