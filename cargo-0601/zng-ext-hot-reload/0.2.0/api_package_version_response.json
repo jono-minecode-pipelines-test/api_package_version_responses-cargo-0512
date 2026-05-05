@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1366164,
+        "crate": "zng-ext-hot-reload",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zng-ext-hot-reload/0.2.0/download",
+        "readme_path": "/api/v1/crates/zng-ext-hot-reload/0.2.0/readme",
+        "updated_at": "2024-12-06T19:47:47.220761Z",
+        "created_at": "2024-12-06T19:47:47.220761Z",
+        "downloads": 782,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-hot-reload/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-hot-reload/0.2.0/downloads",
+            "authors": "/api/v1/crates/zng-ext-hot-reload/0.2.0/authors"
+        },
+        "crate_size": 12951,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-12-06T19:47:47.220761Z"
+            }
+        ],
+        "checksum": "d281dfb0672bf55f092a58e627f8868bb5d78f8d243b9e9bc14de88448e6e432",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_hot_reload",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1133,
+                    "comment_lines": 25,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1133,
+            "total_comment_lines": 25
+        }
+    }
+}

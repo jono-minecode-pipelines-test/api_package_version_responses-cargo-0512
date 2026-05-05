@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1807388,
+        "crate": "zng-ext-image",
+        "num": "0.9.1",
+        "dl_path": "/api/v1/crates/zng-ext-image/0.9.1/download",
+        "readme_path": "/api/v1/crates/zng-ext-image/0.9.1/readme",
+        "updated_at": "2025-11-03T23:25:30.764415Z",
+        "created_at": "2025-11-03T23:25:30.764415Z",
+        "downloads": 158,
+        "features": {
+            "http": [
+                "zng-task/http"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-image/0.9.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-image/0.9.1/downloads",
+            "authors": "/api/v1/crates/zng-ext-image/0.9.1/authors"
+        },
+        "crate_size": 41494,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-11-03T23:25:30.764415Z"
+            }
+        ],
+        "checksum": "6cf7c156afadff64c69e6035ab0abaa0541518ea3c34a0f176c90347d4dda60c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_image",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2102,
+                    "comment_lines": 37,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 2102,
+            "total_comment_lines": 37
+        }
+    }
+}
