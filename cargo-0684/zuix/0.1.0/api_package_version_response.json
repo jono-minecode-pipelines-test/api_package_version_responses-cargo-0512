@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2345465,
+        "crate": "zuix",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zuix/0.1.0/download",
+        "readme_path": "/api/v1/crates/zuix/0.1.0/readme",
+        "updated_at": "2026-05-03T22:37:21.742466Z",
+        "created_at": "2026-05-03T22:37:21.742466Z",
+        "downloads": 7,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuix/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuix/0.1.0/downloads",
+            "authors": "/api/v1/crates/zuix/0.1.0/authors"
+        },
+        "crate_size": 835,
+        "published_by": {
+            "id": 257052,
+            "login": "miaomiao1992",
+            "name": "\u6768\u5b66\u8005",
+            "avatar": "https://avatars.githubusercontent.com/u/59018630?v=4",
+            "url": "https://github.com/miaomiao1992"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 257052,
+                    "login": "miaomiao1992",
+                    "name": "\u6768\u5b66\u8005",
+                    "avatar": "https://avatars.githubusercontent.com/u/59018630?v=4",
+                    "url": "https://github.com/miaomiao1992"
+                },
+                "time": "2026-05-03T22:37:21.742466Z"
+            }
+        ],
+        "checksum": "01738686fcbb2a51493b9f1a5a869ab53a93552f8c4ff66711ae05fc24b45260",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zuix"
+        ],
+        "edition": "2021",
+        "description": "comming soon !!!\n",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/miaomiao1992",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

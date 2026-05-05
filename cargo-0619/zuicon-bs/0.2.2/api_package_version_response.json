@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1325813,
+        "crate": "zuicon-bs",
+        "num": "0.2.2",
+        "dl_path": "/api/v1/crates/zuicon-bs/0.2.2/download",
+        "readme_path": "/api/v1/crates/zuicon-bs/0.2.2/readme",
+        "updated_at": "2024-11-03T15:07:17.055940Z",
+        "created_at": "2024-11-03T15:07:17.055940Z",
+        "downloads": 860,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "LGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuicon-bs/0.2.2/dependencies",
+            "version_downloads": "/api/v1/crates/zuicon-bs/0.2.2/downloads",
+            "authors": "/api/v1/crates/zuicon-bs/0.2.2/authors"
+        },
+        "crate_size": 351865,
+        "published_by": {
+            "id": 49033,
+            "login": "XuShaohua",
+            "name": "Xu Shaohua",
+            "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+            "url": "https://github.com/XuShaohua"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49033,
+                    "login": "XuShaohua",
+                    "name": "Xu Shaohua",
+                    "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+                    "url": "https://github.com/XuShaohua"
+                },
+                "time": "2024-11-03T15:07:17.055940Z"
+            }
+        ],
+        "checksum": "3085f0e9e9d56d39be18da35f60ac3b83e6cc932e89ccaccbfc22d06d5c795d6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Wrapper of bootstrap icons for yew framework",
+        "homepage": "https://github.com/RustVis/zu",
+        "documentation": "https://docs.rs/zuicon-bs",
+        "repository": "https://github.com/RustVis/zu",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 103630,
+                    "comment_lines": 10256,
+                    "files": 2052
+                }
+            },
+            "total_code_lines": 103630,
+            "total_comment_lines": 10256
+        }
+    }
+}
