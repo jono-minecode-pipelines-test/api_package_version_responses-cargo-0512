@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1324974,
+        "crate": "zmove",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zmove/0.1.1/download",
+        "readme_path": "/api/v1/crates/zmove/0.1.1/readme",
+        "updated_at": "2024-11-02T16:28:24.073556Z",
+        "created_at": "2024-11-02T16:28:24.073556Z",
+        "downloads": 783,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmove/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmove/0.1.1/downloads",
+            "authors": "/api/v1/crates/zmove/0.1.1/authors"
+        },
+        "crate_size": 2034,
+        "published_by": {
+            "id": 297928,
+            "login": "korkie9",
+            "name": "Justin Korkie",
+            "avatar": "https://avatars.githubusercontent.com/u/58596574?v=4",
+            "url": "https://github.com/korkie9"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297928,
+                    "login": "korkie9",
+                    "name": "Justin Korkie",
+                    "avatar": "https://avatars.githubusercontent.com/u/58596574?v=4",
+                    "url": "https://github.com/korkie9"
+                },
+                "time": "2024-11-02T16:28:24.073556Z"
+            }
+        ],
+        "checksum": "4d0184941e4f18231e55b137a42e91c5208504c803c9d96920bf0d764ee497b5",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zmv"
+        ],
+        "edition": "2021",
+        "description": "Move files in the command line with ease",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 66,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 66,
+            "total_comment_lines": 3
+        }
+    }
+}

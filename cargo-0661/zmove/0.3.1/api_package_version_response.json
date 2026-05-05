@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1329096,
+        "crate": "zmove",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zmove/0.3.1/download",
+        "readme_path": "/api/v1/crates/zmove/0.3.1/readme",
+        "updated_at": "2024-11-05T21:01:19.570366Z",
+        "created_at": "2024-11-05T21:01:19.570366Z",
+        "downloads": 784,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmove/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmove/0.3.1/downloads",
+            "authors": "/api/v1/crates/zmove/0.3.1/authors"
+        },
+        "crate_size": 3674,
+        "published_by": {
+            "id": 297928,
+            "login": "korkie9",
+            "name": "Justin Korkie",
+            "avatar": "https://avatars.githubusercontent.com/u/58596574?v=4",
+            "url": "https://github.com/korkie9"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297928,
+                    "login": "korkie9",
+                    "name": "Justin Korkie",
+                    "avatar": "https://avatars.githubusercontent.com/u/58596574?v=4",
+                    "url": "https://github.com/korkie9"
+                },
+                "time": "2024-11-05T21:01:19.570366Z"
+            }
+        ],
+        "checksum": "42b0ad9393b7786bb1010fd6961ff1ec2ede8190c4bc7657ba508f9feff0b467",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zmv"
+        ],
+        "edition": "2021",
+        "description": "Move files in the command line with ease",
+        "homepage": null,
+        "documentation": "https://docs.rs/crate/zmove/latest",
+        "repository": "https://github.com/korkie9/zmove",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 183,
+                    "comment_lines": 7,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 183,
+            "total_comment_lines": 7
+        }
+    }
+}
