@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 697603,
+        "crate": "zp-kvdb-web",
+        "num": "0.12.0",
+        "dl_path": "/api/v1/crates/zp-kvdb-web/0.12.0/download",
+        "readme_path": "/api/v1/crates/zp-kvdb-web/0.12.0/readme",
+        "updated_at": "2023-01-06T19:38:23.204651Z",
+        "created_at": "2023-01-06T19:38:23.204651Z",
+        "downloads": 2063,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zp-kvdb-web/0.12.0/dependencies",
+            "version_downloads": "/api/v1/crates/zp-kvdb-web/0.12.0/downloads",
+            "authors": "/api/v1/crates/zp-kvdb-web/0.12.0/authors"
+        },
+        "crate_size": 6632,
+        "published_by": {
+            "id": 5045,
+            "login": "voidxnull",
+            "name": "Dmitry Vdovin",
+            "avatar": "https://avatars.githubusercontent.com/u/3047416?v=4",
+            "url": "https://github.com/voidxnull"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 5045,
+                    "login": "voidxnull",
+                    "name": "Dmitry Vdovin",
+                    "avatar": "https://avatars.githubusercontent.com/u/3047416?v=4",
+                    "url": "https://github.com/voidxnull"
+                },
+                "time": "2023-01-06T19:38:23.204651Z"
+            }
+        ],
+        "checksum": "28ea9bb41b1a590f263af821f6d1e384da32bba0f757f19cc3ab9075d2fd9391",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A key-value database for use in browsers",
+        "homepage": null,
+        "documentation": "https://docs.rs/kvdb-web/",
+        "repository": "https://github.com/paritytech/parity-common",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 319,
+                    "comment_lines": 47,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 319,
+            "total_comment_lines": 47
+        }
+    }
+}
