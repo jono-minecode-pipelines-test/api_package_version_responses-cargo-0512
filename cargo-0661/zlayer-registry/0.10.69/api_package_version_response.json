@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 2233999,
+        "crate": "zlayer-registry",
+        "num": "0.10.69",
+        "dl_path": "/api/v1/crates/zlayer-registry/0.10.69/download",
+        "readme_path": "/api/v1/crates/zlayer-registry/0.10.69/readme",
+        "updated_at": "2026-04-09T19:53:22.534243Z",
+        "created_at": "2026-04-09T19:53:22.534243Z",
+        "downloads": 16,
+        "features": {
+            "local": [],
+            "persistent": [
+                "dep:sqlx"
+            ],
+            "s3": [
+                "dep:aws-sdk-s3",
+                "dep:aws-config"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-registry/0.10.69/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-registry/0.10.69/downloads",
+            "authors": "/api/v1/crates/zlayer-registry/0.10.69/authors"
+        },
+        "crate_size": 88647,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-09T19:53:22.534243Z"
+            }
+        ],
+        "checksum": "ce1c57035e9d26f393835ea71ad382eeddf2ed68c8f540a2babe5fa6eb7f0b7d",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "OCI container registry client with blob caching",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7141,
+                    "comment_lines": 553,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 7141,
+            "total_comment_lines": 553
+        }
+    }
+}
