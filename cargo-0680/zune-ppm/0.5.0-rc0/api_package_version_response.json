@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1106428,
+        "crate": "zune-ppm",
+        "num": "0.5.0-rc0",
+        "dl_path": "/api/v1/crates/zune-ppm/0.5.0-rc0/download",
+        "readme_path": "/api/v1/crates/zune-ppm/0.5.0-rc0/readme",
+        "updated_at": "2024-04-07T16:08:49.307486Z",
+        "created_at": "2024-04-07T16:08:49.307486Z",
+        "downloads": 7899,
+        "features": {
+            "log": [
+                "zune-core/log"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-ppm/0.5.0-rc0/dependencies",
+            "version_downloads": "/api/v1/crates/zune-ppm/0.5.0-rc0/downloads",
+            "authors": "/api/v1/crates/zune-ppm/0.5.0-rc0/authors"
+        },
+        "crate_size": 9266,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2024-04-07T16:08:49.307486Z"
+            }
+        ],
+        "checksum": "d96c83382086052d04a7c477971a4e49ce0753c77be06e8323c67364ebfc80eb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Portable Pixmap and Portable Floatmap Format Decoder and Encoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-ppm",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 573,
+                    "comment_lines": 70,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 573,
+            "total_comment_lines": 70
+        }
+    }
+}

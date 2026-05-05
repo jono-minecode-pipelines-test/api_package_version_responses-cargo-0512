@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1285551,
+        "crate": "zung_mini",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zung_mini/0.1.2/download",
+        "readme_path": "/api/v1/crates/zung_mini/0.1.2/readme",
+        "updated_at": "2024-09-30T08:24:17.154607Z",
+        "created_at": "2024-09-30T08:24:17.154607Z",
+        "downloads": 913,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zung_mini/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zung_mini/0.1.2/downloads",
+            "authors": "/api/v1/crates/zung_mini/0.1.2/authors"
+        },
+        "crate_size": 5201,
+        "published_by": {
+            "id": 292267,
+            "login": "ishaan26",
+            "name": "Ishaan Goel",
+            "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+            "url": "https://github.com/ishaan26"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 292267,
+                    "login": "ishaan26",
+                    "name": "Ishaan Goel",
+                    "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+                    "url": "https://github.com/ishaan26"
+                },
+                "time": "2024-09-30T08:24:17.154607Z"
+            }
+        ],
+        "checksum": "098d9ba2a191d1a1be9f6f50bdf16f82aa5d083e99376807122664f87ec61c4c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Mini rust projects that target specific features of rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ishaan26/zung",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 240,
+                    "comment_lines": 6,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 240,
+            "total_comment_lines": 6
+        }
+    }
+}

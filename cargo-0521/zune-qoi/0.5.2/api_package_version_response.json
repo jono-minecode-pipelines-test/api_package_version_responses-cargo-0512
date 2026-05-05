@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1969947,
+        "crate": "zune-qoi",
+        "num": "0.5.2",
+        "dl_path": "/api/v1/crates/zune-qoi/0.5.2/download",
+        "readme_path": "/api/v1/crates/zune-qoi/0.5.2/readme",
+        "updated_at": "2026-01-24T18:27:52.277620Z",
+        "created_at": "2026-01-24T18:27:52.277620Z",
+        "downloads": 1175,
+        "features": {
+            "default": [
+                "std",
+                "log"
+            ],
+            "log": [
+                "zune-core/log"
+            ],
+            "std": [
+                "zune-core/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-qoi/0.5.2/dependencies",
+            "version_downloads": "/api/v1/crates/zune-qoi/0.5.2/downloads",
+            "authors": "/api/v1/crates/zune-qoi/0.5.2/authors"
+        },
+        "crate_size": 13535,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2026-01-24T18:27:52.277620Z"
+            }
+        ],
+        "checksum": "cdfb703f475bc1190ebece625c1ddf162214933188a3572af8e8f697ad043d5a",
+        "rust_version": "1.87.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Quite Ok Image (QOI) decoder and encoder part of the zune-image family",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-qoi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 524,
+                    "comment_lines": 48,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 524,
+            "total_comment_lines": 48
+        }
+    }
+}
