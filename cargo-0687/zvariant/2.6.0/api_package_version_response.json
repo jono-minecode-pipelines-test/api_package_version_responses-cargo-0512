@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 351746,
+        "crate": "zvariant",
+        "num": "2.6.0",
+        "dl_path": "/api/v1/crates/zvariant/2.6.0/download",
+        "readme_path": "/api/v1/crates/zvariant/2.6.0/readme",
+        "updated_at": "2021-03-13T19:14:13.806400Z",
+        "created_at": "2021-03-13T19:14:13.806400Z",
+        "downloads": 788367,
+        "features": {
+            "default": [
+                "gvariant"
+            ],
+            "gvariant": [],
+            "ostree-tests": [
+                "gvariant"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant/2.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant/2.6.0/downloads",
+            "authors": "/api/v1/crates/zvariant/2.6.0/authors"
+        },
+        "crate_size": 58688,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2021-03-13T19:14:13.806400Z"
+            }
+        ],
+        "checksum": "678e7262502a135f49b1ece65010526649be7ee68acb80e1fc5377fc71fef878",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "D-Bus & GVariant encoding & decoding",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://gitlab.freedesktop.org/dbus/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7313,
+                    "comment_lines": 299,
+                    "files": 31
+                }
+            },
+            "total_code_lines": 7313,
+            "total_comment_lines": 299
+        }
+    }
+}

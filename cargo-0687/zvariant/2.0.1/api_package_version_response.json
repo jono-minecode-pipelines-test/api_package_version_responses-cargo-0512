@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 267194,
+        "crate": "zvariant",
+        "num": "2.0.1",
+        "dl_path": "/api/v1/crates/zvariant/2.0.1/download",
+        "readme_path": "/api/v1/crates/zvariant/2.0.1/readme",
+        "updated_at": "2020-07-28T17:27:23.450855Z",
+        "created_at": "2020-07-28T17:27:23.450855Z",
+        "downloads": 7387,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant/2.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant/2.0.1/downloads",
+            "authors": "/api/v1/crates/zvariant/2.0.1/authors"
+        },
+        "crate_size": 35532,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2020-07-28T17:27:23.450855Z"
+            }
+        ],
+        "checksum": "f0bf85e67d1a3780cb1c56c80227532354f21907cba14805a773eb507b444580",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "API for D-Bus wire format encoding & decoding",
+        "homepage": null,
+        "documentation": "http://docs.rs/zvariant/",
+        "repository": "https://gitlab.freedesktop.org/zeenix/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4025,
+                    "comment_lines": 165,
+                    "files": 20
+                }
+            },
+            "total_code_lines": 4025,
+            "total_comment_lines": 165
+        }
+    }
+}

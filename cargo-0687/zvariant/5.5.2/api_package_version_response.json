@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1561765,
+        "crate": "zvariant",
+        "num": "5.5.2",
+        "dl_path": "/api/v1/crates/zvariant/5.5.2/download",
+        "readme_path": "/api/v1/crates/zvariant/5.5.2/readme",
+        "updated_at": "2025-05-13T11:37:24.815492Z",
+        "created_at": "2025-05-13T11:37:24.815492Z",
+        "downloads": 53851,
+        "features": {
+            "camino": [
+                "dep:camino"
+            ],
+            "default": [],
+            "gvariant": [
+                "zvariant_derive/gvariant",
+                "zvariant_utils/gvariant"
+            ],
+            "option-as-array": [],
+            "ostree-tests": [
+                "gvariant"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant/5.5.2/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant/5.5.2/downloads",
+            "authors": "/api/v1/crates/zvariant/5.5.2/authors"
+        },
+        "crate_size": 88019,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-05-13T11:37:24.815492Z"
+            }
+        ],
+        "checksum": "e34d60a2cff1bfddd0d4a73791fd0a4255a59e349aa0cec437cb0df7776f2450",
+        "rust_version": "1.77",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "D-Bus & GVariant encoding & decoding",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dbus2/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8233,
+                    "comment_lines": 213,
+                    "files": 46
+                }
+            },
+            "total_code_lines": 8233,
+            "total_comment_lines": 213
+        }
+    }
+}

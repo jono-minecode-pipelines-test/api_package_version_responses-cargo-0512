@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 1549184,
+        "crate": "zvariant",
+        "num": "5.5.0",
+        "dl_path": "/api/v1/crates/zvariant/5.5.0/download",
+        "readme_path": "/api/v1/crates/zvariant/5.5.0/readme",
+        "updated_at": "2025-05-03T21:07:39.757941Z",
+        "created_at": "2025-05-03T19:37:32.768529Z",
+        "downloads": 789,
+        "features": {
+            "camino": [
+                "dep:camino"
+            ],
+            "default": [],
+            "gvariant": [
+                "zvariant_derive/gvariant",
+                "zvariant_utils/gvariant"
+            ],
+            "option-as-array": [],
+            "ostree-tests": [
+                "gvariant"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant/5.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant/5.5.0/downloads",
+            "authors": "/api/v1/crates/zvariant/5.5.0/authors"
+        },
+        "crate_size": 87151,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-05-03T19:37:32.768529Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-05-03T21:07:39.769127Z"
+            }
+        ],
+        "checksum": "a26b71edc73858eeb6aa6a84c81233555a5a51e888ec35b2142006dbd5a577f8",
+        "rust_version": "1.77",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "D-Bus & GVariant encoding & decoding",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dbus2/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 9778,
+                    "comment_lines": 322,
+                    "files": 46
+                }
+            },
+            "total_code_lines": 9778,
+            "total_comment_lines": 322
+        }
+    }
+}
