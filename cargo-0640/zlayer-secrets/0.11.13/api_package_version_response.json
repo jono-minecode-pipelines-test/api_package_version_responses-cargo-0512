@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 2353645,
+        "crate": "zlayer-secrets",
+        "num": "0.11.13",
+        "dl_path": "/api/v1/crates/zlayer-secrets/0.11.13/download",
+        "readme_path": "/api/v1/crates/zlayer-secrets/0.11.13/readme",
+        "updated_at": "2026-05-05T18:44:15.878913Z",
+        "created_at": "2026-05-05T18:44:15.878913Z",
+        "downloads": 0,
+        "features": {
+            "default": [
+                "persistent"
+            ],
+            "persistent": [
+                "sqlx"
+            ],
+            "vault": [
+                "vaultrs"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-secrets/0.11.13/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-secrets/0.11.13/downloads",
+            "authors": "/api/v1/crates/zlayer-secrets/0.11.13/authors"
+        },
+        "crate_size": 55688,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-05-05T18:44:15.878913Z"
+            }
+        ],
+        "checksum": "4363317aab94b406a29dac232e5644cb655002f0fbf3eb0292afbfead71827f8",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Secure secrets management for ZLayer container workloads",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2998,
+                    "comment_lines": 173,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 2998,
+            "total_comment_lines": 173
+        }
+    }
+}
