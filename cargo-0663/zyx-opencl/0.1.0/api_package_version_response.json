@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 1077402,
+        "crate": "zyx-opencl",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyx-opencl/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyx-opencl/0.1.0/readme",
+        "updated_at": "2024-03-09T16:36:59.701458Z",
+        "created_at": "2024-03-09T16:36:59.701458Z",
+        "downloads": 1318,
+        "features": {
+            "CL_VERSION_1_1": [
+                "opencl-sys/CL_VERSION_1_1"
+            ],
+            "CL_VERSION_1_2": [
+                "opencl-sys/CL_VERSION_1_2"
+            ],
+            "CL_VERSION_2_1": [
+                "opencl-sys/CL_VERSION_2_1"
+            ],
+            "debug1": [],
+            "default": [
+                "std",
+                "CL_VERSION_1_1",
+                "CL_VERSION_1_2"
+            ],
+            "std": [
+                "zyx-core/std",
+                "zyx-compiler/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx-opencl/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyx-opencl/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyx-opencl/0.1.0/authors"
+        },
+        "crate_size": 10928,
+        "published_by": {
+            "id": 177851,
+            "login": "zk4x",
+            "name": "zk4x",
+            "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+            "url": "https://github.com/zk4x"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 177851,
+                    "login": "zk4x",
+                    "name": "zk4x",
+                    "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+                    "url": "https://github.com/zk4x"
+                },
+                "time": "2024-03-09T16:36:59.701458Z"
+            }
+        ],
+        "checksum": "dbe3208504f9d8988ee8431c925e7f71a4df7a92112315921c279462f80566e6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zyx OpenCL backend",
+        "homepage": "https://github.com/zk4x/zyx",
+        "documentation": "https://docs.rs/zyx-opencl",
+        "repository": "https://github.com/zk4x/zyx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1120,
+                    "comment_lines": 138,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1120,
+            "total_comment_lines": 138
+        }
+    }
+}

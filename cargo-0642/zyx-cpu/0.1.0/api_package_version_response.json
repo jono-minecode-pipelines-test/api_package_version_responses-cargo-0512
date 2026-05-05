@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 1077404,
+        "crate": "zyx-cpu",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyx-cpu/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyx-cpu/0.1.0/readme",
+        "updated_at": "2024-03-09T16:37:49.205013Z",
+        "created_at": "2024-03-09T16:37:49.205013Z",
+        "downloads": 1236,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": [
+                "zyx-core/std",
+                "rayon"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx-cpu/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyx-cpu/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyx-cpu/0.1.0/authors"
+        },
+        "crate_size": 6270,
+        "published_by": {
+            "id": 177851,
+            "login": "zk4x",
+            "name": "zk4x",
+            "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+            "url": "https://github.com/zk4x"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 177851,
+                    "login": "zk4x",
+                    "name": "zk4x",
+                    "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+                    "url": "https://github.com/zk4x"
+                },
+                "time": "2024-03-09T16:37:49.205013Z"
+            }
+        ],
+        "checksum": "ad3261674bdbdbb198328af5a2ba413fff1a0ca9c735dc49aab96167a80f6c11",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zyx cpu backend",
+        "homepage": "https://github.com/zk4x/zyx",
+        "documentation": "https://docs.rs/zyx-cpu",
+        "repository": "https://github.com/zk4x/zyx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 491,
+                    "comment_lines": 117,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 491,
+            "total_comment_lines": 117
+        }
+    }
+}

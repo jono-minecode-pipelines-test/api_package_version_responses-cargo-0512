@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1765981,
+        "crate": "zynq7000-mmu",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zynq7000-mmu/0.1.0/download",
+        "readme_path": "/api/v1/crates/zynq7000-mmu/0.1.0/readme",
+        "updated_at": "2025-10-08T22:47:40.361462Z",
+        "created_at": "2025-10-08T22:47:40.361462Z",
+        "downloads": 296,
+        "features": {
+            "tools": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zynq7000-mmu/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zynq7000-mmu/0.1.0/downloads",
+            "authors": "/api/v1/crates/zynq7000-mmu/0.1.0/authors"
+        },
+        "crate_size": 8011,
+        "published_by": {
+            "id": 124403,
+            "login": "robamu",
+            "name": "Robin Mueller",
+            "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+            "url": "https://github.com/robamu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 124403,
+                    "login": "robamu",
+                    "name": "Robin Mueller",
+                    "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+                    "url": "https://github.com/robamu"
+                },
+                "time": "2025-10-08T22:47:40.361462Z"
+            }
+        ],
+        "checksum": "20a34e0c81e5f0e653a1a59cc34ebb86eb8d89758cf1e600efa492d34e8b7456",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Zynq7000 MMU structures",
+        "homepage": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "documentation": null,
+        "repository": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 70,
+                    "comment_lines": 4,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 70,
+            "total_comment_lines": 4
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "version": {
+        "id": 180227,
+        "crate": "zypo-parser",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zypo-parser/0.0.1/download",
+        "readme_path": "/api/v1/crates/zypo-parser/0.0.1/readme",
+        "updated_at": "2019-10-03T23:45:44.829580Z",
+        "created_at": "2019-10-03T23:45:44.829580Z",
+        "downloads": 1892,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zypo-parser/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zypo-parser/0.0.1/downloads",
+            "authors": "/api/v1/crates/zypo-parser/0.0.1/authors"
+        },
+        "crate_size": 4284,
+        "published_by": {
+            "id": 54984,
+            "login": "Owez",
+            "name": "Owen Griffiths",
+            "avatar": "https://avatars.githubusercontent.com/u/30081702?v=4",
+            "url": "https://github.com/Owez"
+        },
+        "audit_actions": [],
+        "checksum": "f04a0673844c2606ecc70f54f6a0a1c05ce1040ec5937168705b347f8d707089",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "The reference parser for zypo-rs, make with LALRPOP using LR(1)",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "LALRPOP": {
+                    "code_lines": 102,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 101,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 203,
+            "total_comment_lines": 0
+        }
+    }
+}

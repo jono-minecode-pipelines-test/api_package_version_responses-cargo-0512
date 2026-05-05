@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1077407,
+        "crate": "zyx-nn",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyx-nn/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyx-nn/0.1.0/readme",
+        "updated_at": "2024-03-09T16:41:09.256049Z",
+        "created_at": "2024-03-09T16:41:09.256049Z",
+        "downloads": 1230,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": [
+                "zyx-core/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx-nn/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyx-nn/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyx-nn/0.1.0/authors"
+        },
+        "crate_size": 3359,
+        "published_by": {
+            "id": 177851,
+            "login": "zk4x",
+            "name": "zk4x",
+            "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+            "url": "https://github.com/zk4x"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 177851,
+                    "login": "zk4x",
+                    "name": "zk4x",
+                    "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+                    "url": "https://github.com/zk4x"
+                },
+                "time": "2024-03-09T16:41:09.256049Z"
+            }
+        ],
+        "checksum": "da32abd4e2d623cca0aa8e768ae2333b85c4b0d875294f89407cfbcd15c2904d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zyx nn modules",
+        "homepage": "https://github.com/zk4x/zyx",
+        "documentation": "https://docs.rs/zyx-nn",
+        "repository": "https://github.com/zk4x/zyx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 231,
+                    "comment_lines": 1,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 231,
+            "total_comment_lines": 1
+        }
+    }
+}

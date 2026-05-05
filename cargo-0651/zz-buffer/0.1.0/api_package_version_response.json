@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 215221,
+        "crate": "zz-buffer",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zz-buffer/0.1.0/download",
+        "readme_path": "/api/v1/crates/zz-buffer/0.1.0/readme",
+        "updated_at": "2020-02-24T20:44:29.221643Z",
+        "created_at": "2020-02-24T20:28:09.846882Z",
+        "downloads": 1464,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zz-buffer/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zz-buffer/0.1.0/downloads",
+            "authors": "/api/v1/crates/zz-buffer/0.1.0/authors"
+        },
+        "crate_size": 3443,
+        "published_by": {
+            "id": 77926,
+            "login": "jwerle",
+            "name": "Joseph Werle",
+            "avatar": "https://avatars1.githubusercontent.com/u/1462973?v=4",
+            "url": "https://github.com/jwerle"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 77926,
+                    "login": "jwerle",
+                    "name": "Joseph Werle",
+                    "avatar": "https://avatars1.githubusercontent.com/u/1462973?v=4",
+                    "url": "https://github.com/jwerle"
+                },
+                "time": "2020-02-24T20:28:09.846882Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 77926,
+                    "login": "jwerle",
+                    "name": "Joseph Werle",
+                    "avatar": "https://avatars1.githubusercontent.com/u/1462973?v=4",
+                    "url": "https://github.com/jwerle"
+                },
+                "time": "2020-02-24T20:44:28.372952Z"
+            }
+        ],
+        "checksum": "113d3ce4288d780c7102148480226fd58f064cac72a2eb942b4e22ae86fe9dd5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Simple buffer implementation for ZZ (ZetZ)",
+        "homepage": "https://github.com/jwerle/zz-buffer",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 7,
+            "total_comment_lines": 0
+        }
+    }
+}

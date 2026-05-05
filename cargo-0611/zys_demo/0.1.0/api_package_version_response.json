@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 600343,
+        "crate": "zys_demo",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zys_demo/0.1.0/download",
+        "readme_path": "/api/v1/crates/zys_demo/0.1.0/readme",
+        "updated_at": "2022-08-11T06:33:39.132011Z",
+        "created_at": "2022-08-11T06:33:39.132011Z",
+        "downloads": 1560,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zys_demo/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zys_demo/0.1.0/downloads",
+            "authors": "/api/v1/crates/zys_demo/0.1.0/authors"
+        },
+        "crate_size": 1232,
+        "published_by": {
+            "id": 171812,
+            "login": "firezhuang",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/44081593?v=4",
+            "url": "https://github.com/firezhuang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 171812,
+                    "login": "firezhuang",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/44081593?v=4",
+                    "url": "https://github.com/firezhuang"
+                },
+                "time": "2022-08-11T06:33:39.132011Z"
+            }
+        ],
+        "checksum": "ca1e80fb225cc781c76fb0b97fa65773e18571c95956ff82380d0979d4481d69",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zys_demo"
+        ],
+        "edition": "2021",
+        "description": "A Rust Demo",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 28,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 28,
+            "total_comment_lines": 2
+        }
+    }
+}
