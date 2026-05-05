@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 187422,
+        "crate": "zstd-safe",
+        "num": "2.0.1+zstd.1.4.4",
+        "dl_path": "/api/v1/crates/zstd-safe/2.0.1+zstd.1.4.4/download",
+        "readme_path": "/api/v1/crates/zstd-safe/2.0.1+zstd.1.4.4/readme",
+        "updated_at": "2019-11-05T19:39:28.701288Z",
+        "created_at": "2019-11-05T19:39:28.701288Z",
+        "downloads": 2960,
+        "features": {
+            "bindgen": [
+                "zstd-sys/bindgen"
+            ],
+            "default": [
+                "legacy"
+            ],
+            "experimental": [
+                "zstd-sys/experimental"
+            ],
+            "legacy": [
+                "zstd-sys/legacy"
+            ],
+            "std": [
+                "zstd-sys/std"
+            ],
+            "zstdmt": [
+                "zstd-sys/zstdmt"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-safe/2.0.1+zstd.1.4.4/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-safe/2.0.1+zstd.1.4.4/downloads",
+            "authors": "/api/v1/crates/zstd-safe/2.0.1+zstd.1.4.4/authors"
+        },
+        "crate_size": 16123,
+        "published_by": {
+            "id": 3203,
+            "login": "gyscos",
+            "name": "Alexandre Bury",
+            "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+            "url": "https://github.com/gyscos"
+        },
+        "audit_actions": [],
+        "checksum": "85e5e639f319f91603ed722d5b5f57cf5269ec06512a8da34b000ec0135474b1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Safe low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 987,
+                    "comment_lines": 19,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 987,
+            "total_comment_lines": 19
+        }
+    }
+}

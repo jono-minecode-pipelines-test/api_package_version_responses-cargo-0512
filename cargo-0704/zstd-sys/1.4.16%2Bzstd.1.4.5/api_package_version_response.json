@@ -1,0 +1,123 @@
+{
+    "version": {
+        "id": 244613,
+        "crate": "zstd-sys",
+        "num": "1.4.16+zstd.1.4.5",
+        "dl_path": "/api/v1/crates/zstd-sys/1.4.16+zstd.1.4.5/download",
+        "readme_path": "/api/v1/crates/zstd-sys/1.4.16+zstd.1.4.5/readme",
+        "updated_at": "2020-05-24T04:16:20.847180Z",
+        "created_at": "2020-05-24T04:16:20.847180Z",
+        "downloads": 67493,
+        "features": {
+            "default": [
+                "legacy"
+            ],
+            "experimental": [],
+            "legacy": [],
+            "non-cargo": [],
+            "std": [],
+            "zstdmt": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zstd",
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-sys/1.4.16+zstd.1.4.5/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-sys/1.4.16+zstd.1.4.5/downloads",
+            "authors": "/api/v1/crates/zstd-sys/1.4.16+zstd.1.4.5/authors"
+        },
+        "crate_size": 2046719,
+        "published_by": {
+            "id": 3203,
+            "login": "gyscos",
+            "name": "Alexandre Bury",
+            "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+            "url": "https://github.com/gyscos"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3203,
+                    "login": "gyscos",
+                    "name": "Alexandre Bury",
+                    "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+                    "url": "https://github.com/gyscos"
+                },
+                "time": "2020-05-24T04:16:20.847180Z"
+            }
+        ],
+        "checksum": "c442965efc45353be5a9b9969c9b0872fff6828c7e06d118dda2cb2d0bb11d5a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 55094,
+                    "comment_lines": 12144,
+                    "files": 75
+                },
+                "C Header": {
+                    "code_lines": 7983,
+                    "comment_lines": 7191,
+                    "files": 79
+                },
+                "C++": {
+                    "code_lines": 1042,
+                    "comment_lines": 177,
+                    "files": 5
+                },
+                "HTML": {
+                    "code_lines": 1557,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Lua": {
+                    "code_lines": 69,
+                    "comment_lines": 3,
+                    "files": 2
+                },
+                "Python": {
+                    "code_lines": 54,
+                    "comment_lines": 23,
+                    "files": 2
+                },
+                "ReScript": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Rust": {
+                    "code_lines": 8608,
+                    "comment_lines": 154,
+                    "files": 6
+                },
+                "Shell": {
+                    "code_lines": 476,
+                    "comment_lines": 221,
+                    "files": 13
+                },
+                "Visual Studio Project": {
+                    "code_lines": 6209,
+                    "comment_lines": 0,
+                    "files": 16
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 224,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 81320,
+            "total_comment_lines": 19913
+        }
+    }
+}

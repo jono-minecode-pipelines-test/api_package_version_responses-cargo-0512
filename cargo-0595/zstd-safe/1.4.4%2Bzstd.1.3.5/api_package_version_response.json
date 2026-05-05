@@ -1,0 +1,59 @@
+{
+    "version": {
+        "id": 98181,
+        "crate": "zstd-safe",
+        "num": "1.4.4+zstd.1.3.5",
+        "dl_path": "/api/v1/crates/zstd-safe/1.4.4+zstd.1.3.5/download",
+        "readme_path": "/api/v1/crates/zstd-safe/1.4.4+zstd.1.3.5/readme",
+        "updated_at": "2018-06-28T18:33:32.606178Z",
+        "created_at": "2018-06-28T18:33:32.606178Z",
+        "downloads": 10858,
+        "features": {
+            "bindgen": [
+                "zstd-sys/bindgen"
+            ],
+            "default": [
+                "legacy"
+            ],
+            "legacy": [
+                "zstd-sys/legacy"
+            ],
+            "zstdmt": [
+                "zstd-sys/zstdmt"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-safe/1.4.4+zstd.1.3.5/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-safe/1.4.4+zstd.1.3.5/downloads",
+            "authors": "/api/v1/crates/zstd-safe/1.4.4+zstd.1.3.5/authors"
+        },
+        "crate_size": 7988,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "9291dbf678d18ace21725e3409d07e0a80d512feb75f5e27ac472a4948e5ddd1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Safe low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 552,
+                    "comment_lines": 8,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 552,
+            "total_comment_lines": 8
+        }
+    }
+}

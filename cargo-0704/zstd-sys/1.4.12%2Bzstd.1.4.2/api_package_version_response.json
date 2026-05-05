@@ -1,0 +1,111 @@
+{
+    "version": {
+        "id": 165214,
+        "crate": "zstd-sys",
+        "num": "1.4.12+zstd.1.4.2",
+        "dl_path": "/api/v1/crates/zstd-sys/1.4.12+zstd.1.4.2/download",
+        "readme_path": "/api/v1/crates/zstd-sys/1.4.12+zstd.1.4.2/readme",
+        "updated_at": "2019-07-25T21:17:25.948719Z",
+        "created_at": "2019-07-25T21:17:25.948719Z",
+        "downloads": 17701,
+        "features": {
+            "default": [
+                "legacy"
+            ],
+            "experimental": [],
+            "legacy": [],
+            "non-cargo": [],
+            "std": [],
+            "zstdmt": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zstd",
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-sys/1.4.12+zstd.1.4.2/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-sys/1.4.12+zstd.1.4.2/downloads",
+            "authors": "/api/v1/crates/zstd-sys/1.4.12+zstd.1.4.2/authors"
+        },
+        "crate_size": 1957952,
+        "published_by": {
+            "id": 3203,
+            "login": "gyscos",
+            "name": "Alexandre Bury",
+            "avatar": "https://avatars.githubusercontent.com/u/564903?v=4",
+            "url": "https://github.com/gyscos"
+        },
+        "audit_actions": [],
+        "checksum": "9e650014b0086a1588dfbe3cd4a8c19b03bc60eca5fd8043406e07f130a4f8bc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 54797,
+                    "comment_lines": 12163,
+                    "files": 78
+                },
+                "C Header": {
+                    "code_lines": 7460,
+                    "comment_lines": 6753,
+                    "files": 80
+                },
+                "C++": {
+                    "code_lines": 1046,
+                    "comment_lines": 177,
+                    "files": 5
+                },
+                "HTML": {
+                    "code_lines": 1482,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Lua": {
+                    "code_lines": 69,
+                    "comment_lines": 3,
+                    "files": 2
+                },
+                "Python": {
+                    "code_lines": 54,
+                    "comment_lines": 23,
+                    "files": 2
+                },
+                "ReScript": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Rust": {
+                    "code_lines": 7360,
+                    "comment_lines": 14,
+                    "files": 6
+                },
+                "Shell": {
+                    "code_lines": 498,
+                    "comment_lines": 143,
+                    "files": 12
+                },
+                "Visual Studio Project": {
+                    "code_lines": 6146,
+                    "comment_lines": 0,
+                    "files": 16
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 224,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 79140,
+            "total_comment_lines": 19276
+        }
+    }
+}
