@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1923357,
+        "crate": "zopp-store-sqlite",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zopp-store-sqlite/0.1.0/download",
+        "readme_path": "/api/v1/crates/zopp-store-sqlite/0.1.0/readme",
+        "updated_at": "2026-01-05T18:53:06.109045Z",
+        "created_at": "2026-01-05T18:53:06.109045Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-store-sqlite/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-store-sqlite/0.1.0/downloads",
+            "authors": "/api/v1/crates/zopp-store-sqlite/0.1.0/authors"
+        },
+        "crate_size": 32309,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T18:53:06.109045Z"
+            }
+        ],
+        "checksum": "7f93d8e2bfea0ebe07199ecdc15fa9ce3b9f1ba2c38e737a8d262fd5ddb64478",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "SQLite storage backend for zopp secrets manager",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1596,
+                    "comment_lines": 36,
+                    "files": 1
+                },
+                "SQL": {
+                    "code_lines": 119,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1715,
+            "total_comment_lines": 38
+        }
+    }
+}

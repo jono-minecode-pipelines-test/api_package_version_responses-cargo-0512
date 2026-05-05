@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 129981,
+        "crate": "zorio",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorio/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorio/0.1.0/readme",
+        "updated_at": "2019-01-25T03:22:31.825552Z",
+        "created_at": "2019-01-25T03:22:31.825552Z",
+        "downloads": 1904,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zorio/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorio/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorio/0.1.0/authors"
+        },
+        "crate_size": 24618,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "970f883e7a10b406fbd664aa32688bf33a0160d9788f8cde786be3b4c8e6408d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Subset of standard library I/O ported to no_std",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/digitalstreamio/zorio",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 932,
+                    "comment_lines": 148,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 932,
+            "total_comment_lines": 148
+        }
+    }
+}

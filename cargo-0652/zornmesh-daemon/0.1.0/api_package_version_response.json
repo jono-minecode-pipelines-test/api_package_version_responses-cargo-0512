@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 2323643,
+        "crate": "zornmesh-daemon",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zornmesh-daemon/0.1.0/download",
+        "readme_path": "/api/v1/crates/zornmesh-daemon/0.1.0/readme",
+        "updated_at": "2026-04-30T08:31:52.220929Z",
+        "created_at": "2026-04-29T09:05:09.168225Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zornmesh-daemon/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zornmesh-daemon/0.1.0/downloads",
+            "authors": "/api/v1/crates/zornmesh-daemon/0.1.0/authors"
+        },
+        "crate_size": 12427,
+        "published_by": {
+            "id": 411033,
+            "login": "nebrass",
+            "name": "Nebrass Lamouchi",
+            "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+            "url": "https://github.com/nebrass"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 411033,
+                    "login": "nebrass",
+                    "name": "Nebrass Lamouchi",
+                    "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+                    "url": "https://github.com/nebrass"
+                },
+                "time": "2026-04-29T09:05:09.168225Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 411033,
+                    "login": "nebrass",
+                    "name": "Nebrass Lamouchi",
+                    "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+                    "url": "https://github.com/nebrass"
+                },
+                "time": "2026-04-30T08:31:52.222729Z"
+            }
+        ],
+        "checksum": "422d47bdc49cb164fc250a67e5ce15d76f7d87aeb21575e98d307dafaa1cd3fb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Per-user daemon backing the zornmesh local-first agent mesh.",
+        "homepage": "https://github.com/nebrass/zorn-mesh",
+        "documentation": null,
+        "repository": "https://github.com/nebrass/zorn-mesh",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 738,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 738,
+            "total_comment_lines": 0
+        }
+    }
+}

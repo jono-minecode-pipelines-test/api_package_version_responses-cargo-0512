@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 766651,
+        "crate": "zorder",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorder/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorder/0.1.0/readme",
+        "updated_at": "2023-04-02T21:33:49.366535Z",
+        "created_at": "2023-04-02T21:33:49.366535Z",
+        "downloads": 2485,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zorder/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorder/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorder/0.1.0/authors"
+        },
+        "crate_size": 7178,
+        "published_by": {
+            "id": 185727,
+            "login": "kauppie",
+            "name": "Elias Kauppi",
+            "avatar": "https://avatars.githubusercontent.com/u/11910622?v=4",
+            "url": "https://github.com/kauppie"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 185727,
+                    "login": "kauppie",
+                    "name": "Elias Kauppi",
+                    "avatar": "https://avatars.githubusercontent.com/u/11910622?v=4",
+                    "url": "https://github.com/kauppie"
+                },
+                "time": "2023-04-02T21:33:49.366535Z"
+            }
+        ],
+        "checksum": "f365cfaafe39fc106d446524159d81291227fb079584b234a40e557094c7ad71",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Fast Z-order curve conversions",
+        "homepage": "https://github.com/kauppie/zorder",
+        "documentation": "https://docs.rs/zorder",
+        "repository": "https://github.com/kauppie/zorder",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 54,
+                    "comment_lines": 10,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 54,
+            "total_comment_lines": 10
+        }
+    }
+}
