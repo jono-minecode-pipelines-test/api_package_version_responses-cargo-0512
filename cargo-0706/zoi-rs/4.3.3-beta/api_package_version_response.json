@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1689729,
+        "crate": "zoi-rs",
+        "num": "4.3.3-beta",
+        "dl_path": "/api/v1/crates/zoi-rs/4.3.3-beta/download",
+        "readme_path": "/api/v1/crates/zoi-rs/4.3.3-beta/readme",
+        "updated_at": "2025-10-24T10:46:55.649496Z",
+        "created_at": "2025-08-17T22:15:00.905264Z",
+        "downloads": 326,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoi-rs/4.3.3-beta/dependencies",
+            "version_downloads": "/api/v1/crates/zoi-rs/4.3.3-beta/downloads",
+            "authors": "/api/v1/crates/zoi-rs/4.3.3-beta/authors"
+        },
+        "crate_size": 107321,
+        "published_by": {
+            "id": 265663,
+            "login": "ZilloweZ",
+            "name": "Zaid",
+            "avatar": "https://avatars.githubusercontent.com/u/110313697?v=4",
+            "url": "https://github.com/ZilloweZ"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 265663,
+                    "login": "ZilloweZ",
+                    "name": "Zaid",
+                    "avatar": "https://avatars.githubusercontent.com/u/110313697?v=4",
+                    "url": "https://github.com/ZilloweZ"
+                },
+                "time": "2025-08-17T22:15:00.905264Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 265663,
+                    "login": "ZilloweZ",
+                    "name": "Zaid",
+                    "avatar": "https://avatars.githubusercontent.com/u/110313697?v=4",
+                    "url": "https://github.com/ZilloweZ"
+                },
+                "time": "2025-10-24T10:46:55.652824Z"
+            }
+        ],
+        "checksum": "1409396b6fe35a7383e23c8b0fafbbe0af92687e654889c9ce2fbcdbe2eab21f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zoi"
+        ],
+        "edition": "2024",
+        "description": "Universal Package Manager & Environment Setup Tool",
+        "homepage": "https://zillowe.rf.gd/zds/zoi/",
+        "documentation": "https://zillowe.rf.gd/docs/zds/zoi/",
+        "repository": "https://gitlab.com/Zillowe/Zillwen/Zusty/Zoi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 10076,
+                    "comment_lines": 3,
+                    "files": 64
+                }
+            },
+            "total_code_lines": 10076,
+            "total_comment_lines": 3
+        }
+    }
+}

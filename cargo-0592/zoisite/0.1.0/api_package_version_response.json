@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1549072,
+        "crate": "zoisite",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoisite/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoisite/0.1.0/readme",
+        "updated_at": "2025-05-03T16:57:49.120797Z",
+        "created_at": "2025-05-03T16:57:49.120797Z",
+        "downloads": 643,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zoisite/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoisite/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoisite/0.1.0/authors"
+        },
+        "crate_size": 33516,
+        "published_by": {
+            "id": 331040,
+            "login": "Yu212",
+            "name": "Yu",
+            "avatar": "https://avatars.githubusercontent.com/u/41502287?v=4",
+            "url": "https://github.com/Yu212"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 331040,
+                    "login": "Yu212",
+                    "name": "Yu",
+                    "avatar": "https://avatars.githubusercontent.com/u/41502287?v=4",
+                    "url": "https://github.com/Yu212"
+                },
+                "time": "2025-05-03T16:57:49.120797Z"
+            }
+        ],
+        "checksum": "de4af1315a37fea5fae40ebd62689c97b9c542500995cd6cfcc672bfd2db5465",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zoic"
+        ],
+        "edition": "2021",
+        "description": "Zoisite is a programming language designed specifically for competitive programming.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/yu212/zoisite",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3478,
+                    "comment_lines": 0,
+                    "files": 21
+                }
+            },
+            "total_code_lines": 3478,
+            "total_comment_lines": 0
+        }
+    }
+}

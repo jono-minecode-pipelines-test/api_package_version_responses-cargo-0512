@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2093505,
+        "crate": "zoi-rs",
+        "num": "1.8.2",
+        "dl_path": "/api/v1/crates/zoi-rs/1.8.2/download",
+        "readme_path": "/api/v1/crates/zoi-rs/1.8.2/readme",
+        "updated_at": "2026-03-06T12:25:45.615529Z",
+        "created_at": "2026-03-06T12:25:45.615529Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoi-rs/1.8.2/dependencies",
+            "version_downloads": "/api/v1/crates/zoi-rs/1.8.2/downloads",
+            "authors": "/api/v1/crates/zoi-rs/1.8.2/authors"
+        },
+        "crate_size": 221021,
+        "published_by": {
+            "id": 265663,
+            "login": "ZilloweZ",
+            "name": "Zaid",
+            "avatar": "https://avatars.githubusercontent.com/u/110313697?v=4",
+            "url": "https://github.com/ZilloweZ"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 265663,
+                    "login": "ZilloweZ",
+                    "name": "Zaid",
+                    "avatar": "https://avatars.githubusercontent.com/u/110313697?v=4",
+                    "url": "https://github.com/ZilloweZ"
+                },
+                "time": "2026-03-06T12:25:45.615529Z"
+            }
+        ],
+        "checksum": "0e6c85bb13b46a561bda0127cad71a8d096cf6f33c7865f8bf4de19a9ee56fb5",
+        "rust_version": "1.88.0",
+        "has_lib": true,
+        "bin_names": [
+            "zoi"
+        ],
+        "edition": "2024",
+        "description": "Universal Package Manager & Environment Setup Tool",
+        "homepage": "https://zillowe.qzz.io/zds/zoi",
+        "documentation": "https://docs.rs/zoi-rs/latest/zoi",
+        "repository": "https://github.com/Zillowe/Zoi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 21087,
+                    "comment_lines": 6,
+                    "files": 113
+                }
+            },
+            "total_code_lines": 21087,
+            "total_comment_lines": 6
+        }
+    }
+}
