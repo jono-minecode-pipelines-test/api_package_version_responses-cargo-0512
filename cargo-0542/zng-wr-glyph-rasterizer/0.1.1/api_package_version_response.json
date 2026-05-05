@@ -1,0 +1,82 @@
+{
+    "version": {
+        "id": 1110685,
+        "crate": "zng-wr-glyph-rasterizer",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zng-wr-glyph-rasterizer/0.1.1/download",
+        "readme_path": "/api/v1/crates/zng-wr-glyph-rasterizer/0.1.1/readme",
+        "updated_at": "2024-04-10T18:52:29.153917Z",
+        "created_at": "2024-04-10T18:52:29.153917Z",
+        "downloads": 1461,
+        "features": {
+            "capture": [
+                "api/serialize",
+                "dep:serde",
+                "smallvec/serde"
+            ],
+            "default": [
+                "static_freetype"
+            ],
+            "dynamic_freetype": [],
+            "replay": [
+                "api/deserialize",
+                "dep:serde",
+                "smallvec/serde"
+            ],
+            "static_freetype": [
+                "freetype/freetype-sys"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wr-glyph-rasterizer/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wr-glyph-rasterizer/0.1.1/downloads",
+            "authors": "/api/v1/crates/zng-wr-glyph-rasterizer/0.1.1/authors"
+        },
+        "crate_size": 62518,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-10T18:52:29.153917Z"
+            }
+        ],
+        "checksum": "52ea355795b53cfa70dbc14dbb6be14a9a8ace56e6abbd43688d7944fa62b952",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A glyph rasterizer for WebRender",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3943,
+                    "comment_lines": 517,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 3943,
+            "total_comment_lines": 517
+        }
+    }
+}

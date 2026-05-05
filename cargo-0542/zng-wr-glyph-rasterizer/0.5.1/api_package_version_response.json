@@ -1,0 +1,86 @@
+{
+    "version": {
+        "id": 2269048,
+        "crate": "zng-wr-glyph-rasterizer",
+        "num": "0.5.1",
+        "dl_path": "/api/v1/crates/zng-wr-glyph-rasterizer/0.5.1/download",
+        "readme_path": "/api/v1/crates/zng-wr-glyph-rasterizer/0.5.1/readme",
+        "updated_at": "2026-04-17T13:58:56.076680Z",
+        "created_at": "2026-04-17T13:58:56.076680Z",
+        "downloads": 41,
+        "features": {
+            "capture": [
+                "api/serialize",
+                "serde",
+                "smallvec/serde"
+            ],
+            "default": [
+                "static_freetype"
+            ],
+            "dynamic_freetype": [],
+            "gecko": [
+                "firefox-on-glean",
+                "glean"
+            ],
+            "replay": [
+                "api/deserialize",
+                "serde",
+                "smallvec/serde"
+            ],
+            "static_freetype": [
+                "freetype/freetype-sys"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wr-glyph-rasterizer/0.5.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wr-glyph-rasterizer/0.5.1/downloads",
+            "authors": "/api/v1/crates/zng-wr-glyph-rasterizer/0.5.1/authors"
+        },
+        "crate_size": 65757,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-04-17T13:58:56.076680Z"
+            }
+        ],
+        "checksum": "6fd3e8cd1f4f1d5c7fa5120da41a92571997e86fe7f65f079d502f441d2e9421",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A glyph rasterizer for WebRender",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4046,
+                    "comment_lines": 515,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 4046,
+            "total_comment_lines": 515
+        }
+    }
+}
