@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 748152,
+        "crate": "zstring",
+        "num": "0.2.3",
+        "dl_path": "/api/v1/crates/zstring/0.2.3/download",
+        "readme_path": "/api/v1/crates/zstring/0.2.3/readme",
+        "updated_at": "2023-03-12T22:59:49.122275Z",
+        "created_at": "2023-03-12T22:59:49.122275Z",
+        "downloads": 2084,
+        "features": {
+            "alloc": [],
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Zlib OR Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstring/0.2.3/dependencies",
+            "version_downloads": "/api/v1/crates/zstring/0.2.3/downloads",
+            "authors": "/api/v1/crates/zstring/0.2.3/authors"
+        },
+        "crate_size": 8868,
+        "published_by": {
+            "id": 7211,
+            "login": "Lokathor",
+            "name": "Lokathor",
+            "avatar": "https://avatars.githubusercontent.com/u/5456384?v=4",
+            "url": "https://github.com/Lokathor"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 7211,
+                    "login": "Lokathor",
+                    "name": "Lokathor",
+                    "avatar": "https://avatars.githubusercontent.com/u/5456384?v=4",
+                    "url": "https://github.com/Lokathor"
+                },
+                "time": "2023-03-12T22:59:49.122275Z"
+            }
+        ],
+        "checksum": "44d0c4e5c8e2fa9c19aed7c9f214cc520ff6825b39ee59dbecb104161ba7e19c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zero-termianted string lib, for use with C FFI.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Lokathor/zstring",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 546,
+                    "comment_lines": 16,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 546,
+            "total_comment_lines": 16
+        }
+    }
+}

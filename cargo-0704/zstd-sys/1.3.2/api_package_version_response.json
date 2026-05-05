@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 63099,
+        "crate": "zstd-sys",
+        "num": "1.3.2",
+        "dl_path": "/api/v1/crates/zstd-sys/1.3.2/download",
+        "readme_path": "/api/v1/crates/zstd-sys/1.3.2/readme",
+        "updated_at": "2017-11-30T03:08:12.182348Z",
+        "created_at": "2017-08-22T02:54:05.098808Z",
+        "downloads": 4113,
+        "features": {
+            "default": [
+                "legacy"
+            ],
+            "legacy": [],
+            "zstdmt": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-sys/1.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-sys/1.3.2/downloads",
+            "authors": "/api/v1/crates/zstd-sys/1.3.2/authors"
+        },
+        "crate_size": 1521305,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "3e881d220853f1b29bd60844c9920fdab646c9ae8c865f3cf3741d2923012730",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 45608,
+                    "comment_lines": 11193,
+                    "files": 59
+                },
+                "C Header": {
+                    "code_lines": 6766,
+                    "comment_lines": 5213,
+                    "files": 62
+                },
+                "C++": {
+                    "code_lines": 1064,
+                    "comment_lines": 177,
+                    "files": 5
+                },
+                "HTML": {
+                    "code_lines": 925,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Module-Definition": {
+                    "code_lines": 88,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "ReScript": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Rust": {
+                    "code_lines": 1131,
+                    "comment_lines": 397,
+                    "files": 3
+                },
+                "Shell": {
+                    "code_lines": 425,
+                    "comment_lines": 138,
+                    "files": 7
+                },
+                "Visual Studio Project": {
+                    "code_lines": 5711,
+                    "comment_lines": 0,
+                    "files": 16
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 224,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 61946,
+            "total_comment_lines": 17118
+        }
+    }
+}

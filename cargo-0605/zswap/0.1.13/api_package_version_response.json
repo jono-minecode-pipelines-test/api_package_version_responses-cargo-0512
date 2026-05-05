@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1594960,
+        "crate": "zswap",
+        "num": "0.1.13",
+        "dl_path": "/api/v1/crates/zswap/0.1.13/download",
+        "readme_path": "/api/v1/crates/zswap/0.1.13/readme",
+        "updated_at": "2025-07-02T14:43:48.263525Z",
+        "created_at": "2025-06-08T19:36:45.857819Z",
+        "downloads": 411,
+        "features": {
+            "debug": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zswap/0.1.13/dependencies",
+            "version_downloads": "/api/v1/crates/zswap/0.1.13/downloads",
+            "authors": "/api/v1/crates/zswap/0.1.13/authors"
+        },
+        "crate_size": 6489,
+        "published_by": {
+            "id": 337921,
+            "login": "libreman-git",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/215377700?v=4",
+            "url": "https://github.com/libreman-git"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 337921,
+                    "login": "libreman-git",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/215377700?v=4",
+                    "url": "https://github.com/libreman-git"
+                },
+                "time": "2025-06-08T19:36:45.857819Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 338845,
+                    "login": "frofor",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/216216420?v=4",
+                    "url": "https://github.com/frofor"
+                },
+                "time": "2025-07-02T14:43:48.265929Z"
+            }
+        ],
+        "checksum": "4fac6ea877b28130cbf81f92ae360d7a6b1e4fa206d5e4a857c88c5baacbf003",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Async library for reading zswap information in Linux",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://codeberg.org/libreman/zswap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 182,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 182,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1602106,
+        "crate": "zswap",
+        "num": "1.0.3",
+        "dl_path": "/api/v1/crates/zswap/1.0.3/download",
+        "readme_path": "/api/v1/crates/zswap/1.0.3/readme",
+        "updated_at": "2025-07-02T14:42:49.587417Z",
+        "created_at": "2025-06-14T15:14:04.186634Z",
+        "downloads": 436,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zswap/1.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zswap/1.0.3/downloads",
+            "authors": "/api/v1/crates/zswap/1.0.3/authors"
+        },
+        "crate_size": 8529,
+        "published_by": {
+            "id": 338845,
+            "login": "frofor",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/216216420?v=4",
+            "url": "https://github.com/frofor"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 338845,
+                    "login": "frofor",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/216216420?v=4",
+                    "url": "https://github.com/frofor"
+                },
+                "time": "2025-06-14T15:14:04.186634Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 338845,
+                    "login": "frofor",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/216216420?v=4",
+                    "url": "https://github.com/frofor"
+                },
+                "time": "2025-07-02T14:42:49.592839Z"
+            }
+        ],
+        "checksum": "279e40fac8af4b65f1e40111bec7916c718800345637f1ed7f72fcf0c797af56",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Async library for accessing Zswap information in Linux",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://codeberg.org/frofor/zswap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 369,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 369,
+            "total_comment_lines": 0
+        }
+    }
+}

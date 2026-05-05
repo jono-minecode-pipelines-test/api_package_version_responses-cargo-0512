@@ -1,0 +1,105 @@
+{
+    "version": {
+        "id": 113658,
+        "crate": "zstd-sys",
+        "num": "1.4.6+zstd.1.3.7",
+        "dl_path": "/api/v1/crates/zstd-sys/1.4.6+zstd.1.3.7/download",
+        "readme_path": "/api/v1/crates/zstd-sys/1.4.6+zstd.1.3.7/readme",
+        "updated_at": "2018-10-19T22:01:17.554236Z",
+        "created_at": "2018-10-19T22:01:17.554236Z",
+        "downloads": 6460,
+        "features": {
+            "default": [
+                "legacy"
+            ],
+            "legacy": [],
+            "std": [
+                "bindgen"
+            ],
+            "zstdmt": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zstd",
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-sys/1.4.6+zstd.1.3.7/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-sys/1.4.6+zstd.1.3.7/downloads",
+            "authors": "/api/v1/crates/zstd-sys/1.4.6+zstd.1.3.7/authors"
+        },
+        "crate_size": 1834452,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "2403558df41a16a5c0d90fd2d80f2baeb59d88745ae62a2d341c7de5b0a3ef5d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Low-level bindings for the zstd compression library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/gyscos/zstd-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 52792,
+                    "comment_lines": 11827,
+                    "files": 71
+                },
+                "C Header": {
+                    "code_lines": 7369,
+                    "comment_lines": 6086,
+                    "files": 73
+                },
+                "C++": {
+                    "code_lines": 1046,
+                    "comment_lines": 177,
+                    "files": 5
+                },
+                "HTML": {
+                    "code_lines": 1227,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Lua": {
+                    "code_lines": 69,
+                    "comment_lines": 3,
+                    "files": 2
+                },
+                "Module-Definition": {
+                    "code_lines": 88,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "ReScript": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 2
+                },
+                "Rust": {
+                    "code_lines": 1866,
+                    "comment_lines": 4,
+                    "files": 3
+                },
+                "Shell": {
+                    "code_lines": 454,
+                    "comment_lines": 138,
+                    "files": 10
+                },
+                "Visual Studio Project": {
+                    "code_lines": 5985,
+                    "comment_lines": 0,
+                    "files": 16
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 224,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 71124,
+            "total_comment_lines": 18235
+        }
+    }
+}
