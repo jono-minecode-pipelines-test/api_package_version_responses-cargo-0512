@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 2269021,
+        "crate": "zng-webrender-build",
+        "num": "0.0.7",
+        "dl_path": "/api/v1/crates/zng-webrender-build/0.0.7/download",
+        "readme_path": "/api/v1/crates/zng-webrender-build/0.0.7/readme",
+        "updated_at": "2026-04-17T13:54:11.974656Z",
+        "created_at": "2026-04-17T13:54:11.974656Z",
+        "downloads": 41,
+        "features": {
+            "serialize_program": [
+                "serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-webrender-build/0.0.7/dependencies",
+            "version_downloads": "/api/v1/crates/zng-webrender-build/0.0.7/downloads",
+            "authors": "/api/v1/crates/zng-webrender-build/0.0.7/authors"
+        },
+        "crate_size": 6359,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-04-17T13:54:11.974656Z"
+            }
+        ],
+        "checksum": "76c1f7667c3347c6122d19d35f9ed3b2c650da53311d765f7a6f629498d787c1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Code shared between precompilation (build.rs) and the rest of WebRender",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/servo/webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 413,
+                    "comment_lines": 25,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 413,
+            "total_comment_lines": 25
+        }
+    }
+}

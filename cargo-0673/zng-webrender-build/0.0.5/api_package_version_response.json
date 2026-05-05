@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1613955,
+        "crate": "zng-webrender-build",
+        "num": "0.0.5",
+        "dl_path": "/api/v1/crates/zng-webrender-build/0.0.5/download",
+        "readme_path": "/api/v1/crates/zng-webrender-build/0.0.5/readme",
+        "updated_at": "2025-06-24T14:12:04.414074Z",
+        "created_at": "2025-06-24T14:12:04.414074Z",
+        "downloads": 6150,
+        "features": {
+            "serialize_program": [
+                "serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-webrender-build/0.0.5/dependencies",
+            "version_downloads": "/api/v1/crates/zng-webrender-build/0.0.5/downloads",
+            "authors": "/api/v1/crates/zng-webrender-build/0.0.5/authors"
+        },
+        "crate_size": 6092,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-06-24T14:12:04.414074Z"
+            }
+        ],
+        "checksum": "1745541fd8211df670dbc8e1c5f8437bcbb87dc82065dc9f184d9d9ab45c7585",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Code shared between precompilation (build.rs) and the rest of WebRender",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 408,
+                    "comment_lines": 25,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 408,
+            "total_comment_lines": 25
+        }
+    }
+}
