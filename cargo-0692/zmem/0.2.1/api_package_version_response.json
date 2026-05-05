@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 980177,
+        "crate": "zmem",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zmem/0.2.1/download",
+        "readme_path": "/api/v1/crates/zmem/0.2.1/readme",
+        "updated_at": "2023-12-08T22:43:28.759494Z",
+        "created_at": "2023-12-08T22:43:28.759494Z",
+        "downloads": 1446,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmem/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmem/0.2.1/downloads",
+            "authors": "/api/v1/crates/zmem/0.2.1/authors"
+        },
+        "crate_size": 59444,
+        "published_by": {
+            "id": 243511,
+            "login": "xeome",
+            "name": "Emin",
+            "avatar": "https://avatars.githubusercontent.com/u/44901648?v=4",
+            "url": "https://github.com/xeome"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 243511,
+                    "login": "xeome",
+                    "name": "Emin",
+                    "avatar": "https://avatars.githubusercontent.com/u/44901648?v=4",
+                    "url": "https://github.com/xeome"
+                },
+                "time": "2023-12-08T22:43:28.759494Z"
+            }
+        ],
+        "checksum": "60ea9ddb1109ee97eeb20fe2c151ba37b5d9a9e80fc3c3c0d1835207f54974c9",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zmem"
+        ],
+        "edition": "2021",
+        "description": "Zmem is a Linux memory monitoring program that displays detailed information about virtual memory.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/xeome/zmem",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 355,
+                    "comment_lines": 10,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 355,
+            "total_comment_lines": 10
+        }
+    }
+}
