@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1444410,
+        "crate": "zotero-rs",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zotero-rs/0.2.1/download",
+        "readme_path": "/api/v1/crates/zotero-rs/0.2.1/readme",
+        "updated_at": "2025-02-12T21:49:39.143210Z",
+        "created_at": "2025-02-12T21:49:39.143210Z",
+        "downloads": 680,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zotero-rs/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zotero-rs/0.2.1/downloads",
+            "authors": "/api/v1/crates/zotero-rs/0.2.1/authors"
+        },
+        "crate_size": 18527,
+        "published_by": {
+            "id": 295691,
+            "login": "mgao6767",
+            "name": "Adrian Gao",
+            "avatar": "https://avatars.githubusercontent.com/u/22109923?v=4",
+            "url": "https://github.com/mgao6767"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 295691,
+                    "login": "mgao6767",
+                    "name": "Adrian Gao",
+                    "avatar": "https://avatars.githubusercontent.com/u/22109923?v=4",
+                    "url": "https://github.com/mgao6767"
+                },
+                "time": "2025-02-12T21:49:39.143210Z"
+            }
+        ],
+        "checksum": "b8a71f552ccabe888a8e566c6e7c93791a83c10b79a8a01d8d350612227c947c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A Rust library for interacting with the Zotero API",
+        "homepage": null,
+        "documentation": "https://docs.rs/zotero-rs",
+        "repository": "https://github.com/mgao6767/zotero-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 718,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 718,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1270744,
+        "crate": "zoterofs",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoterofs/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoterofs/0.1.0/readme",
+        "updated_at": "2024-09-15T17:57:16.566042Z",
+        "created_at": "2024-09-15T17:57:16.566042Z",
+        "downloads": 1141,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zoterofs/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoterofs/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoterofs/0.1.0/authors"
+        },
+        "crate_size": 6662,
+        "published_by": {
+            "id": 290202,
+            "login": "vladidobro",
+            "name": "Vladislav Wohlrath",
+            "avatar": "https://avatars.githubusercontent.com/u/10547281?v=4",
+            "url": "https://github.com/vladidobro"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 290202,
+                    "login": "vladidobro",
+                    "name": "Vladislav Wohlrath",
+                    "avatar": "https://avatars.githubusercontent.com/u/10547281?v=4",
+                    "url": "https://github.com/vladidobro"
+                },
+                "time": "2024-09-15T17:57:16.566042Z"
+            }
+        ],
+        "checksum": "20c030b6a029440352004894a28d7318a89ffbef3e8544cbfb9b4047e96ff7d9",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoterofs"
+        ],
+        "edition": "2021",
+        "description": "FUSE filesystem for mounting the Zotero library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/vladidobro/zoterofs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 285,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 285,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 429864,
+        "crate": "zorya",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorya/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorya/0.1.0/readme",
+        "updated_at": "2021-09-25T12:50:01.780058Z",
+        "created_at": "2021-09-25T12:50:01.780058Z",
+        "downloads": 1570,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zorya/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorya/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorya/0.1.0/authors"
+        },
+        "crate_size": 4801,
+        "published_by": {
+            "id": 133662,
+            "login": "tomb85",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1337070?v=4",
+            "url": "https://github.com/tomb85"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 133662,
+                    "login": "tomb85",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1337070?v=4",
+                    "url": "https://github.com/tomb85"
+                },
+                "time": "2021-09-25T12:50:01.780058Z"
+            }
+        ],
+        "checksum": "ff7b5c117c47c0a4d538a736d4609c5db68647d62db3ffcf0c8ffcb95296ff55",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Foundation library for crypto currency trading on centralised exchanges",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dfxtraders/zorya",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 7,
+            "total_comment_lines": 0
+        }
+    }
+}
