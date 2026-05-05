@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2318735,
+        "crate": "zlayer-types",
+        "num": "0.11.7",
+        "dl_path": "/api/v1/crates/zlayer-types/0.11.7/download",
+        "readme_path": "/api/v1/crates/zlayer-types/0.11.7/readme",
+        "updated_at": "2026-04-28T07:16:28.666172Z",
+        "created_at": "2026-04-28T07:16:28.666172Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-types/0.11.7/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-types/0.11.7/downloads",
+            "authors": "/api/v1/crates/zlayer-types/0.11.7/authors"
+        },
+        "crate_size": 82881,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-28T07:16:28.666172Z"
+            }
+        ],
+        "checksum": "babc53653d909c3ed648b67b5daff157e3bacc2dc407545ab161330f422e1e90",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Shared wire types for the ZLayer platform \u2014 API DTOs, OCI image references, and related serde types.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6360,
+                    "comment_lines": 215,
+                    "files": 43
+                }
+            },
+            "total_code_lines": 6360,
+            "total_comment_lines": 215
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2229545,
+        "crate": "zlayer-tui",
+        "num": "0.10.65",
+        "dl_path": "/api/v1/crates/zlayer-tui/0.10.65/download",
+        "readme_path": "/api/v1/crates/zlayer-tui/0.10.65/readme",
+        "updated_at": "2026-04-08T21:32:11.484984Z",
+        "created_at": "2026-04-08T21:32:11.484984Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-tui/0.10.65/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-tui/0.10.65/downloads",
+            "authors": "/api/v1/crates/zlayer-tui/0.10.65/authors"
+        },
+        "crate_size": 18709,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-08T21:32:11.484984Z"
+            }
+        ],
+        "checksum": "c50535cdc23fbdc84550f167817f01f8996c733f839d4e918217feeefc2248e7",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Shared TUI widgets, color palette, and terminal utilities for ZLayer",
+        "homepage": "https://zlayer.dev",
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1473,
+                    "comment_lines": 120,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 1473,
+            "total_comment_lines": 120
+        }
+    }
+}
