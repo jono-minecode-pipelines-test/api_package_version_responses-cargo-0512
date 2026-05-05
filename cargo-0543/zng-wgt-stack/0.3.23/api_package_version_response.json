@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 1270808,
+        "crate": "zng-wgt-stack",
+        "num": "0.3.23",
+        "dl_path": "/api/v1/crates/zng-wgt-stack/0.3.23/download",
+        "readme_path": "/api/v1/crates/zng-wgt-stack/0.3.23/readme",
+        "updated_at": "2024-09-15T19:25:07.619264Z",
+        "created_at": "2024-09-15T19:25:07.619264Z",
+        "downloads": 1115,
+        "features": {
+            "debug_default": [],
+            "default": [
+                "debug_default"
+            ],
+            "dyn_closure": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-stack/0.3.23/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-stack/0.3.23/downloads",
+            "authors": "/api/v1/crates/zng-wgt-stack/0.3.23/authors"
+        },
+        "crate_size": 9450,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-09-15T19:25:07.619264Z"
+            }
+        ],
+        "checksum": "95f228649d9912cb347419f66aa1d8137a18490ee1f8b86ff9393c813f0ce461",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_stack",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 712,
+                    "comment_lines": 13,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 712,
+            "total_comment_lines": 13
+        }
+    }
+}
