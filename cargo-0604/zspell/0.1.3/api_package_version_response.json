@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 603259,
+        "crate": "zspell",
+        "num": "0.1.3",
+        "dl_path": "/api/v1/crates/zspell/0.1.3/download",
+        "readme_path": "/api/v1/crates/zspell/0.1.3/readme",
+        "updated_at": "2022-08-16T05:27:04.721658Z",
+        "created_at": "2022-08-16T05:27:04.721658Z",
+        "downloads": 1149,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zspell/0.1.3/dependencies",
+            "version_downloads": "/api/v1/crates/zspell/0.1.3/downloads",
+            "authors": "/api/v1/crates/zspell/0.1.3/authors"
+        },
+        "crate_size": 258493,
+        "published_by": {
+            "id": 157114,
+            "login": "tgross35",
+            "name": "Trevor Gross",
+            "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+            "url": "https://github.com/tgross35"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157114,
+                    "login": "tgross35",
+                    "name": "Trevor Gross",
+                    "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+                    "url": "https://github.com/tgross35"
+                },
+                "time": "2022-08-16T05:27:04.721658Z"
+            }
+        ],
+        "checksum": "d905bef2118c22663b3a2606ccc18375375624e0c4dba5d1507e278ac471e9fe",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zspell"
+        ],
+        "edition": "2018",
+        "description": "Native Rust library for spellchecking, with a command line interface",
+        "homepage": null,
+        "documentation": "https://docs.rs/zspell",
+        "repository": "https://github.com/pluots/zspell",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1543,
+                    "comment_lines": 229,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 1543,
+            "total_comment_lines": 229
+        }
+    }
+}

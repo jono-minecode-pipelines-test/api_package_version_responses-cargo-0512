@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 164378,
+        "crate": "zssetmgr",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zssetmgr/0.1.0/download",
+        "readme_path": "/api/v1/crates/zssetmgr/0.1.0/readme",
+        "updated_at": "2020-09-07T00:28:15.959560Z",
+        "created_at": "2019-07-22T00:14:57.897406Z",
+        "downloads": 1301,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zssetmgr/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zssetmgr/0.1.0/downloads",
+            "authors": "/api/v1/crates/zssetmgr/0.1.0/authors"
+        },
+        "crate_size": 3430,
+        "published_by": {
+            "id": 2340,
+            "login": "fogti",
+            "name": "Ellen Emilia Anna Zscheile",
+            "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+            "url": "https://github.com/fogti"
+        },
+        "audit_actions": [
+            {
+                "action": "yank",
+                "user": {
+                    "id": 2340,
+                    "login": "fogti",
+                    "name": "Ellen Emilia Anna Zscheile",
+                    "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+                    "url": "https://github.com/fogti"
+                },
+                "time": "2020-09-07T00:28:14.134938Z"
+            }
+        ],
+        "checksum": "c66c7616dacb2a7ebf84dae6ec69f659b087cc85ac314363b57c3cf6eee594f4",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zssetmgr"
+        ],
+        "edition": "2018",
+        "description": "a sorted-list manager",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zserik/zssetmgr",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 126,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 126,
+            "total_comment_lines": 0
+        }
+    }
+}

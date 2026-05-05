@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 195614,
+        "crate": "zsplg",
+        "num": "0.0.0-alpha2",
+        "dl_path": "/api/v1/crates/zsplg/0.0.0-alpha2/download",
+        "readme_path": "/api/v1/crates/zsplg/0.0.0-alpha2/readme",
+        "updated_at": "2019-12-11T08:27:48.218950Z",
+        "created_at": "2019-12-11T08:27:48.218950Z",
+        "downloads": 1766,
+        "features": {
+            "default": [
+                "loader"
+            ],
+            "loader": [
+                "libloading",
+                "try-block"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zsplg/0.0.0-alpha2/dependencies",
+            "version_downloads": "/api/v1/crates/zsplg/0.0.0-alpha2/downloads",
+            "authors": "/api/v1/crates/zsplg/0.0.0-alpha2/authors"
+        },
+        "crate_size": 3693,
+        "published_by": {
+            "id": 2340,
+            "login": "fogti",
+            "name": "Ellen Emilia Anna Zscheile",
+            "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+            "url": "https://github.com/fogti"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 2340,
+                    "login": "fogti",
+                    "name": "Ellen Emilia Anna Zscheile",
+                    "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+                    "url": "https://github.com/fogti"
+                },
+                "time": "2019-12-11T08:27:48.218950Z"
+            }
+        ],
+        "checksum": "12476a10956efd88c7d1d12e4d25814c447ac61915ef754828ebb257690a8b81",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Zscheile plugin library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zserik/zsplg/tree/master/zsplg",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 226,
+                    "comment_lines": 11,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 226,
+            "total_comment_lines": 11
+        }
+    }
+}

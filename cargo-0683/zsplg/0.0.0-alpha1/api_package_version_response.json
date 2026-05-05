@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 195178,
+        "crate": "zsplg",
+        "num": "0.0.0-alpha1",
+        "dl_path": "/api/v1/crates/zsplg/0.0.0-alpha1/download",
+        "readme_path": "/api/v1/crates/zsplg/0.0.0-alpha1/readme",
+        "updated_at": "2019-12-09T09:23:52.249234Z",
+        "created_at": "2019-12-09T09:23:52.249234Z",
+        "downloads": 1353,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zsplg/0.0.0-alpha1/dependencies",
+            "version_downloads": "/api/v1/crates/zsplg/0.0.0-alpha1/downloads",
+            "authors": "/api/v1/crates/zsplg/0.0.0-alpha1/authors"
+        },
+        "crate_size": 3485,
+        "published_by": {
+            "id": 2340,
+            "login": "fogti",
+            "name": "Ellen Emilia Anna Zscheile",
+            "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+            "url": "https://github.com/fogti"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 2340,
+                    "login": "fogti",
+                    "name": "Ellen Emilia Anna Zscheile",
+                    "avatar": "https://avatars.githubusercontent.com/u/1618343?v=4",
+                    "url": "https://github.com/fogti"
+                },
+                "time": "2019-12-09T09:23:52.249234Z"
+            }
+        ],
+        "checksum": "6eb1096ee455323405d690e43a18f5ae23c12b049062c87c628015d2c6618440",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Zscheile plugin library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zserik/zsplg/tree/master/zsplg",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 245,
+                    "comment_lines": 2,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 245,
+            "total_comment_lines": 2
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 984380,
+        "crate": "zspell",
+        "num": "0.5.3",
+        "dl_path": "/api/v1/crates/zspell/0.5.3/download",
+        "readme_path": "/api/v1/crates/zspell/0.5.3/readme",
+        "updated_at": "2023-12-13T05:07:30.639585Z",
+        "created_at": "2023-12-13T05:07:30.639585Z",
+        "downloads": 2058,
+        "features": {
+            "unstable-bench": [],
+            "unstable-suggestions": [],
+            "unstable-system": [],
+            "zspell-unstable": [
+                "unstable-suggestions",
+                "unstable-system"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zspell/0.5.3/dependencies",
+            "version_downloads": "/api/v1/crates/zspell/0.5.3/downloads",
+            "authors": "/api/v1/crates/zspell/0.5.3/authors"
+        },
+        "crate_size": 283944,
+        "published_by": {
+            "id": 157114,
+            "login": "tgross35",
+            "name": "Trevor Gross",
+            "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+            "url": "https://github.com/tgross35"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157114,
+                    "login": "tgross35",
+                    "name": "Trevor Gross",
+                    "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+                    "url": "https://github.com/tgross35"
+                },
+                "time": "2023-12-13T05:07:30.639585Z"
+            }
+        ],
+        "checksum": "75d83d56209e44de0b795c232288d692b7da16bc17cb35d99188a91dc52210be",
+        "rust_version": "1.65",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Native Rust library for spellchecking",
+        "homepage": null,
+        "documentation": "https://docs.rs/zspell",
+        "repository": "https://github.com/pluots/zspell",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3673,
+                    "comment_lines": 591,
+                    "files": 26
+                }
+            },
+            "total_code_lines": 3673,
+            "total_comment_lines": 591
+        }
+    }
+}

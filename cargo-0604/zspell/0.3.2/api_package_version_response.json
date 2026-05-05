@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 694269,
+        "crate": "zspell",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/zspell/0.3.2/download",
+        "readme_path": "/api/v1/crates/zspell/0.3.2/readme",
+        "updated_at": "2023-01-01T11:56:51.751106Z",
+        "created_at": "2023-01-01T11:56:51.751106Z",
+        "downloads": 1106,
+        "features": {
+            "benchmarking": [],
+            "unstable-analysis": [],
+            "unstable-stem": [],
+            "unstable-suggestions": [],
+            "unstable-system": [],
+            "zspell-unstable": [
+                "unstable-suggestions",
+                "unstable-analysis",
+                "unstable-stem",
+                "unstable-system"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zspell/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zspell/0.3.2/downloads",
+            "authors": "/api/v1/crates/zspell/0.3.2/authors"
+        },
+        "crate_size": 272091,
+        "published_by": {
+            "id": 157114,
+            "login": "tgross35",
+            "name": "Trevor Gross",
+            "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+            "url": "https://github.com/tgross35"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157114,
+                    "login": "tgross35",
+                    "name": "Trevor Gross",
+                    "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+                    "url": "https://github.com/tgross35"
+                },
+                "time": "2023-01-01T11:56:51.751106Z"
+            }
+        ],
+        "checksum": "351b8fd14ec4cecb65c95162b2c6ba6e1ec5bcc89a3144eee5178c31cf173c7d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Native Rust library for spellchecking, with a command line interface",
+        "homepage": null,
+        "documentation": "https://docs.rs/zspell",
+        "repository": "https://github.com/pluots/zspell",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3383,
+                    "comment_lines": 586,
+                    "files": 24
+                }
+            },
+            "total_code_lines": 3383,
+            "total_comment_lines": 586
+        }
+    }
+}
