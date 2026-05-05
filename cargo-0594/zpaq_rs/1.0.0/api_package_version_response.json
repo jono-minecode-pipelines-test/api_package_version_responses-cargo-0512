@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2043554,
+        "crate": "zpaq_rs",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zpaq_rs/1.0.0/download",
+        "readme_path": "/api/v1/crates/zpaq_rs/1.0.0/readme",
+        "updated_at": "2026-02-19T15:26:44.521843Z",
+        "created_at": "2026-02-19T15:26:44.521843Z",
+        "downloads": 237,
+        "features": {
+            "default": [],
+            "nojit": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "CC0-1.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpaq_rs/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpaq_rs/1.0.0/downloads",
+            "authors": "/api/v1/crates/zpaq_rs/1.0.0/authors"
+        },
+        "crate_size": 164017,
+        "published_by": {
+            "id": 384016,
+            "login": "turtle261",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/172091333?v=4",
+            "url": "https://github.com/turtle261"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 384016,
+                    "login": "turtle261",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/172091333?v=4",
+                    "url": "https://github.com/turtle261"
+                },
+                "time": "2026-02-19T15:26:44.521843Z"
+            }
+        ],
+        "checksum": "c9786e0d19b1e4652cd3f95103470d91f7db8ae1290cfdda2b1e92a14aad3a09",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Safe Rust bindings for libzpaq \u2014 ZPAQ compression, decompression, streaming compression, and crypto utilities (SHA-1, SHA-256, AES-CTR, scrypt).",
+        "homepage": "https://github.com/turtle261/zpaq-rs",
+        "documentation": "https://docs.rs/zpaq_rs",
+        "repository": "https://github.com/turtle261/zpaq-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 496,
+                    "comment_lines": 929,
+                    "files": 1
+                },
+                "C++": {
+                    "code_lines": 10327,
+                    "comment_lines": 1267,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 929,
+                    "comment_lines": 33,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 11752,
+            "total_comment_lines": 2229
+        }
+    }
+}

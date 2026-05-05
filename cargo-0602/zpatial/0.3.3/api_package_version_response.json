@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 143428,
+        "crate": "zpatial",
+        "num": "0.3.3",
+        "dl_path": "/api/v1/crates/zpatial/0.3.3/download",
+        "readme_path": "/api/v1/crates/zpatial/0.3.3/readme",
+        "updated_at": "2019-04-06T07:00:48.841649Z",
+        "created_at": "2019-04-06T07:00:48.841649Z",
+        "downloads": 2561,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zpatial/0.3.3/dependencies",
+            "version_downloads": "/api/v1/crates/zpatial/0.3.3/downloads",
+            "authors": "/api/v1/crates/zpatial/0.3.3/authors"
+        },
+        "crate_size": 7186,
+        "published_by": {
+            "id": 12296,
+            "login": "exbibyte",
+            "name": "Yuan Liu",
+            "avatar": "https://avatars.githubusercontent.com/u/1860786?v=4",
+            "url": "https://github.com/exbibyte"
+        },
+        "audit_actions": [],
+        "checksum": "941fc2f4f513626ccd50a969199697ac0e1e470bba84c1f679f4d8dee0836a56",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Algorithms for Spatial Acceleration and Geometries.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zpatial/0.3.3/zpatial/",
+        "repository": "https://github.com/clearlycloudy/zpatial/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 570,
+                    "comment_lines": 23,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 570,
+            "total_comment_lines": 23
+        }
+    }
+}

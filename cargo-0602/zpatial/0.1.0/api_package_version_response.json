@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 81634,
+        "crate": "zpatial",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zpatial/0.1.0/download",
+        "readme_path": "/api/v1/crates/zpatial/0.1.0/readme",
+        "updated_at": "2018-02-18T23:51:22.876555Z",
+        "created_at": "2018-02-18T23:51:22.876555Z",
+        "downloads": 1511,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zpatial/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpatial/0.1.0/downloads",
+            "authors": "/api/v1/crates/zpatial/0.1.0/authors"
+        },
+        "crate_size": 5475,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "51d7fd2d4ccc94a3ac60dab96c6f15d01455861d2e8e54f0c984bafacb17e136",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Algorithms for Spatial Acceleration and Geometries.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zpatial/0.1.0/zpatial/",
+        "repository": "https://github.com/clearlycloudy/zpatial/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 302,
+                    "comment_lines": 16,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 302,
+            "total_comment_lines": 16
+        }
+    }
+}
