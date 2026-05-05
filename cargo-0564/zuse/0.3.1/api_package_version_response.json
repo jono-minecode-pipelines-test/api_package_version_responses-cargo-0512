@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 230997,
+        "crate": "zuse",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zuse/0.3.1/download",
+        "readme_path": "/api/v1/crates/zuse/0.3.1/readme",
+        "updated_at": "2020-04-13T23:25:12.474139Z",
+        "created_at": "2020-04-13T23:25:12.474139Z",
+        "downloads": 1274,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuse/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zuse/0.3.1/downloads",
+            "authors": "/api/v1/crates/zuse/0.3.1/authors"
+        },
+        "crate_size": 23757,
+        "published_by": {
+            "id": 4856,
+            "login": "19h",
+            "name": "Kenan Sulayman",
+            "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+            "url": "https://github.com/19h"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 4856,
+                    "login": "19h",
+                    "name": "Kenan Sulayman",
+                    "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+                    "url": "https://github.com/19h"
+                },
+                "time": "2020-04-13T23:25:12.474139Z"
+            }
+        ],
+        "checksum": "fa632dfefcb435b8f76a0c1fd85e6dc7ccc46e2eadf102e6bca3504330e2cdb9",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zuse"
+        ],
+        "edition": "2018",
+        "description": "The flexible uptime bot, a descendant of the Rust async masterrace.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/19h/zuse",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 938,
+                    "comment_lines": 8,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 938,
+            "total_comment_lines": 8
+        }
+    }
+}

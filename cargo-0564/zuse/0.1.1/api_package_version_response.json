@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 229007,
+        "crate": "zuse",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zuse/0.1.1/download",
+        "readme_path": "/api/v1/crates/zuse/0.1.1/readme",
+        "updated_at": "2020-04-08T16:25:49.309337Z",
+        "created_at": "2020-04-08T16:25:49.309337Z",
+        "downloads": 1295,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuse/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zuse/0.1.1/downloads",
+            "authors": "/api/v1/crates/zuse/0.1.1/authors"
+        },
+        "crate_size": 15790,
+        "published_by": {
+            "id": 4856,
+            "login": "19h",
+            "name": "Kenan Sulayman",
+            "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+            "url": "https://github.com/19h"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 4856,
+                    "login": "19h",
+                    "name": "Kenan Sulayman",
+                    "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+                    "url": "https://github.com/19h"
+                },
+                "time": "2020-04-08T16:25:49.309337Z"
+            }
+        ],
+        "checksum": "eb45fd6fff6e843c40514093e1041267332c2e5a30445a1fc4e20d50b4023b18",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zuse"
+        ],
+        "edition": "2018",
+        "description": "The flexible uptime bot, a descendant of the Rust async masterrace.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/19h/zuse",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 443,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 443,
+            "total_comment_lines": 9
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 341772,
+        "crate": "zuse",
+        "num": "0.4.8",
+        "dl_path": "/api/v1/crates/zuse/0.4.8/download",
+        "readme_path": "/api/v1/crates/zuse/0.4.8/readme",
+        "updated_at": "2021-02-19T13:42:40.186391Z",
+        "created_at": "2021-02-19T13:42:40.186391Z",
+        "downloads": 1226,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuse/0.4.8/dependencies",
+            "version_downloads": "/api/v1/crates/zuse/0.4.8/downloads",
+            "authors": "/api/v1/crates/zuse/0.4.8/authors"
+        },
+        "crate_size": 30084,
+        "published_by": {
+            "id": 4856,
+            "login": "19h",
+            "name": "Kenan Sulayman",
+            "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+            "url": "https://github.com/19h"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 4856,
+                    "login": "19h",
+                    "name": "Kenan Sulayman",
+                    "avatar": "https://avatars.githubusercontent.com/u/280212?v=4",
+                    "url": "https://github.com/19h"
+                },
+                "time": "2021-02-19T13:42:40.186391Z"
+            }
+        ],
+        "checksum": "16ce42be82634f481e802f3c08cd2c0ad44b2cbe0be71e73958c914bc937397b",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zuse"
+        ],
+        "edition": "2018",
+        "description": "A flexible high-performance uptime bot powered by async Rust with Telegram, SNS and Slack notification backends.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/19h/zuse",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1378,
+                    "comment_lines": 28,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1378,
+            "total_comment_lines": 28
+        }
+    }
+}

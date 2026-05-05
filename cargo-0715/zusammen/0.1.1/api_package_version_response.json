@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1076948,
+        "crate": "zusammen",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zusammen/0.1.1/download",
+        "readme_path": "/api/v1/crates/zusammen/0.1.1/readme",
+        "updated_at": "2024-03-08T23:00:04.360614Z",
+        "created_at": "2024-03-08T23:00:04.360614Z",
+        "downloads": 1643,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zusammen/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zusammen/0.1.1/downloads",
+            "authors": "/api/v1/crates/zusammen/0.1.1/authors"
+        },
+        "crate_size": 2645,
+        "published_by": {
+            "id": 172259,
+            "login": "farshed",
+            "name": "Faisal Arshed",
+            "avatar": "https://avatars.githubusercontent.com/u/23633421?v=4",
+            "url": "https://github.com/farshed"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 172259,
+                    "login": "farshed",
+                    "name": "Faisal Arshed",
+                    "avatar": "https://avatars.githubusercontent.com/u/23633421?v=4",
+                    "url": "https://github.com/farshed"
+                },
+                "time": "2024-03-08T23:00:04.360614Z"
+            }
+        ],
+        "checksum": "54a5dfefb47b247fddbbd73776569e80e239289154fd0b1711dd4225fccbd79f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Download files in parallel",
+        "homepage": "https://github.com/farshed/zusammen",
+        "documentation": "https://github.com/farshed/zusammen",
+        "repository": "https://github.com/farshed/zusammen",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 135,
+                    "comment_lines": 10,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 135,
+            "total_comment_lines": 10
+        }
+    }
+}
