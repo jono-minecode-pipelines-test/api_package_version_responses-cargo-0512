@@ -1,0 +1,144 @@
+{
+    "version": {
+        "id": 1569038,
+        "crate": "zng-view",
+        "num": "0.9.1",
+        "dl_path": "/api/v1/crates/zng-view/0.9.1/download",
+        "readme_path": "/api/v1/crates/zng-view/0.9.1/readme",
+        "updated_at": "2025-05-19T00:52:29.559910Z",
+        "created_at": "2025-05-19T00:52:29.559910Z",
+        "downloads": 540,
+        "features": {
+            "android_game_activity": [
+                "winit/android-game-activity"
+            ],
+            "android_native_activity": [
+                "winit/android-native-activity"
+            ],
+            "bundle_licenses": [
+                "zng-tp-licenses/bundle"
+            ],
+            "default": [
+                "ipc",
+                "software",
+                "image_all"
+            ],
+            "image_all": [
+                "image_bmp",
+                "image_dds",
+                "image_exr",
+                "image_ff",
+                "image_gif",
+                "image_hdr",
+                "image_ico",
+                "image_jpeg",
+                "image_png",
+                "image_pnm",
+                "image_qoi",
+                "image_tga",
+                "image_tiff",
+                "image_webp"
+            ],
+            "image_bmp": [
+                "image/bmp"
+            ],
+            "image_dds": [
+                "image/dds"
+            ],
+            "image_exr": [
+                "image/exr"
+            ],
+            "image_ff": [
+                "image/ff"
+            ],
+            "image_gif": [
+                "image/gif"
+            ],
+            "image_hdr": [
+                "image/hdr"
+            ],
+            "image_ico": [
+                "image/ico"
+            ],
+            "image_jpeg": [
+                "image/jpeg"
+            ],
+            "image_png": [
+                "image/png"
+            ],
+            "image_pnm": [
+                "image/pnm"
+            ],
+            "image_qoi": [
+                "image/qoi"
+            ],
+            "image_tga": [
+                "image/tga"
+            ],
+            "image_tiff": [
+                "image/tiff"
+            ],
+            "image_webp": [
+                "image/webp"
+            ],
+            "ipc": [
+                "zng-view-api/ipc"
+            ],
+            "software": [
+                "dep:swgl",
+                "dep:softbuffer"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-view/0.9.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-view/0.9.1/downloads",
+            "authors": "/api/v1/crates/zng-view/0.9.1/authors"
+        },
+        "crate_size": 132061,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-19T00:52:29.559910Z"
+            }
+        ],
+        "checksum": "86ef97acde8e6c14d627f001e450c26128a991557a9239f9074b6aaae542db50",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_view",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11046,
+                    "comment_lines": 253,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 11046,
+            "total_comment_lines": 253
+        }
+    }
+}
