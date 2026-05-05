@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1430804,
+        "crate": "zombienet-sdk",
+        "num": "0.2.23",
+        "dl_path": "/api/v1/crates/zombienet-sdk/0.2.23/download",
+        "readme_path": "/api/v1/crates/zombienet-sdk/0.2.23/readme",
+        "updated_at": "2025-02-02T20:27:18.336034Z",
+        "created_at": "2025-02-02T20:27:18.336034Z",
+        "downloads": 909,
+        "features": {
+            "pjs": [
+                "orchestrator/pjs"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-sdk/0.2.23/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-sdk/0.2.23/downloads",
+            "authors": "/api/v1/crates/zombienet-sdk/0.2.23/authors"
+        },
+        "crate_size": 4217,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2025-02-02T20:27:18.336034Z"
+            }
+        ],
+        "checksum": "4e86e94d12620c147be7cf91b002a9b03dc7d9c3051560f8c0913eae272ea914",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet SDK, entrypoint for using zombienet",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 87,
+                    "comment_lines": 3,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 87,
+            "total_comment_lines": 3
+        }
+    }
+}

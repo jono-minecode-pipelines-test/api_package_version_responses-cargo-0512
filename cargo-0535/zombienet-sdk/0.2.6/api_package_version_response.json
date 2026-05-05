@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1182260,
+        "crate": "zombienet-sdk",
+        "num": "0.2.6",
+        "dl_path": "/api/v1/crates/zombienet-sdk/0.2.6/download",
+        "readme_path": "/api/v1/crates/zombienet-sdk/0.2.6/readme",
+        "updated_at": "2024-06-22T13:52:24.548748Z",
+        "created_at": "2024-06-22T13:52:24.548748Z",
+        "downloads": 3059,
+        "features": {
+            "pjs": [
+                "orchestrator/pjs"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-sdk/0.2.6/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-sdk/0.2.6/downloads",
+            "authors": "/api/v1/crates/zombienet-sdk/0.2.6/authors"
+        },
+        "crate_size": 4012,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2024-06-22T13:52:24.548748Z"
+            }
+        ],
+        "checksum": "daef344e96138af15f5f3300468cbe873fa5011e15099bb8722920b0c00d27ae",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zombienet SDK, entrypoint for using zombienet",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/paritytech/zombienet-sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 80,
+                    "comment_lines": 1,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 80,
+            "total_comment_lines": 1
+        }
+    }
+}
