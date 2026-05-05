@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1931953,
+        "crate": "zrx-id",
+        "num": "0.0.5",
+        "dl_path": "/api/v1/crates/zrx-id/0.0.5/download",
+        "readme_path": "/api/v1/crates/zrx-id/0.0.5/readme",
+        "updated_at": "2026-01-09T16:51:00.373427Z",
+        "created_at": "2026-01-09T16:51:00.373427Z",
+        "downloads": 37,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-id/0.0.5/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-id/0.0.5/downloads",
+            "authors": "/api/v1/crates/zrx-id/0.0.5/authors"
+        },
+        "crate_size": 33616,
+        "published_by": {
+            "id": 319220,
+            "login": "zensical-bot",
+            "name": "Zensical",
+            "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+            "url": "https://github.com/zensical-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319220,
+                    "login": "zensical-bot",
+                    "name": "Zensical",
+                    "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+                    "url": "https://github.com/zensical-bot"
+                },
+                "time": "2026-01-09T16:51:00.373427Z"
+            }
+        ],
+        "checksum": "4501a4b73150528abb0b479c472a693c27068ec1510699a59806d096f7fb9ad0",
+        "rust_version": "1.86",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Identifier abstractions and utilities",
+        "homepage": "https://github.com/zensical/zrx",
+        "documentation": null,
+        "repository": "https://github.com/zensical/zrx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2671,
+                    "comment_lines": 1238,
+                    "files": 40
+                }
+            },
+            "total_code_lines": 2671,
+            "total_comment_lines": 1238
+        }
+    }
+}

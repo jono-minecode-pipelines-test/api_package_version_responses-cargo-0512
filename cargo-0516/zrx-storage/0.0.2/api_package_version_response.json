@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2241296,
+        "crate": "zrx-storage",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zrx-storage/0.0.2/download",
+        "readme_path": "/api/v1/crates/zrx-storage/0.0.2/readme",
+        "updated_at": "2026-04-11T12:17:56.217771Z",
+        "created_at": "2026-04-11T12:17:56.217771Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-storage/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-storage/0.0.2/downloads",
+            "authors": "/api/v1/crates/zrx-storage/0.0.2/authors"
+        },
+        "crate_size": 12587,
+        "published_by": {
+            "id": 319220,
+            "login": "zensical-bot",
+            "name": "Zensical",
+            "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+            "url": "https://github.com/zensical-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319220,
+                    "login": "zensical-bot",
+                    "name": "Zensical",
+                    "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+                    "url": "https://github.com/zensical-bot"
+                },
+                "time": "2026-04-11T12:17:56.217771Z"
+            }
+        ],
+        "checksum": "4722dcbd753246ea2e7c6eaad6a5c0f40d2d76eed232370b7d348507a49c1d1e",
+        "rust_version": "1.86",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Storage abstractions and utilities",
+        "homepage": "https://github.com/zensical/zrx",
+        "documentation": null,
+        "repository": "https://github.com/zensical/zrx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 758,
+                    "comment_lines": 508,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 758,
+            "total_comment_lines": 508
+        }
+    }
+}

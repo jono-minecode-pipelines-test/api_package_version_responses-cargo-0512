@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1951789,
+        "crate": "zrxswap",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zrxswap/0.1.0/download",
+        "readme_path": "/api/v1/crates/zrxswap/0.1.0/readme",
+        "updated_at": "2026-01-17T13:00:27.269729Z",
+        "created_at": "2026-01-17T13:00:27.269729Z",
+        "downloads": 23,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrxswap/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrxswap/0.1.0/downloads",
+            "authors": "/api/v1/crates/zrxswap/0.1.0/authors"
+        },
+        "crate_size": 23080,
+        "published_by": {
+            "id": 380928,
+            "login": "michaeldim",
+            "name": "michaeldim",
+            "avatar": "https://avatars.githubusercontent.com/u/1141848?v=4",
+            "url": "https://github.com/michaeldim"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380928,
+                    "login": "michaeldim",
+                    "name": "michaeldim",
+                    "avatar": "https://avatars.githubusercontent.com/u/1141848?v=4",
+                    "url": "https://github.com/michaeldim"
+                },
+                "time": "2026-01-17T13:00:27.269729Z"
+            }
+        ],
+        "checksum": "0c2eac95f0c086a714f4ffc838fff08a3d496cbe0388f6f30b4db86dfce31ab9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Unofficial Rust client for the 0x DEX aggregator API (zrxswap)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/yldfi/yldfi-rs/tree/main/crates/zrxswap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 898,
+                    "comment_lines": 5,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 898,
+            "total_comment_lines": 5
+        }
+    }
+}
