@@ -1,0 +1,90 @@
+{
+    "version": {
+        "id": 1168259,
+        "crate": "zlgcan_driver",
+        "num": "2.0.0-rc0",
+        "dl_path": "/api/v1/crates/zlgcan_driver/2.0.0-rc0/download",
+        "readme_path": "/api/v1/crates/zlgcan_driver/2.0.0-rc0/readme",
+        "updated_at": "2024-06-08T06:46:22.834222Z",
+        "created_at": "2024-06-08T06:17:01.828632Z",
+        "downloads": 1272,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zlgcan_driver/2.0.0-rc0/dependencies",
+            "version_downloads": "/api/v1/crates/zlgcan_driver/2.0.0-rc0/downloads",
+            "authors": "/api/v1/crates/zlgcan_driver/2.0.0-rc0/authors"
+        },
+        "crate_size": 6734471,
+        "published_by": {
+            "id": 213250,
+            "login": "jesses2025smith",
+            "name": "Jesse Smith",
+            "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+            "url": "https://github.com/jesses2025smith"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 213250,
+                    "login": "jesses2025smith",
+                    "name": "Jesse Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+                    "url": "https://github.com/jesses2025smith"
+                },
+                "time": "2024-06-08T06:17:01.828632Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 213250,
+                    "login": "jesses2025smith",
+                    "name": "Jesse Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+                    "url": "https://github.com/jesses2025smith"
+                },
+                "time": "2024-06-08T06:46:22.839190Z"
+            }
+        ],
+        "checksum": "abb24621add2ea8e956aa3641e99bf1e3ff0cfc198516d9880d9fd84edcbd64a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A ZLGCAN driver with rust.",
+        "homepage": "https://github.com/zhuyu4839/zlgcan-driver-rs",
+        "documentation": null,
+        "repository": "https://github.com/zhuyu4839/zlgcan-driver-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 563,
+                    "comment_lines": 20,
+                    "files": 2
+                },
+                "C Header": {
+                    "code_lines": 4955,
+                    "comment_lines": 1117,
+                    "files": 29
+                },
+                "C++": {
+                    "code_lines": 377,
+                    "comment_lines": 13,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 2927,
+                    "comment_lines": 100,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 8822,
+            "total_comment_lines": 1250
+        }
+    }
+}
