@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1923425,
+        "crate": "zopp-events-memory",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zopp-events-memory/0.1.1/download",
+        "readme_path": "/api/v1/crates/zopp-events-memory/0.1.1/readme",
+        "updated_at": "2026-01-05T19:22:42.418202Z",
+        "created_at": "2026-01-05T19:22:42.418202Z",
+        "downloads": 92,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-events-memory/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-events-memory/0.1.1/downloads",
+            "authors": "/api/v1/crates/zopp-events-memory/0.1.1/authors"
+        },
+        "crate_size": 7810,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T19:22:42.418202Z"
+            }
+        ],
+        "checksum": "11269db0ff64b87d781d51314ddc491611e24c4557158381428b1e41cde6d900",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "In-memory event bus implementation for zopp",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 116,
+                    "comment_lines": 13,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 116,
+            "total_comment_lines": 13
+        }
+    }
+}

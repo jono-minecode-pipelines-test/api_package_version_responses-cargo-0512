@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1923301,
+        "crate": "zopp-proto",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zopp-proto/0.1.0/download",
+        "readme_path": "/api/v1/crates/zopp-proto/0.1.0/readme",
+        "updated_at": "2026-01-05T17:56:31.509768Z",
+        "created_at": "2026-01-05T17:56:31.509768Z",
+        "downloads": 21,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-proto/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-proto/0.1.0/downloads",
+            "authors": "/api/v1/crates/zopp-proto/0.1.0/authors"
+        },
+        "crate_size": 11353,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T17:56:31.509768Z"
+            }
+        ],
+        "checksum": "e23753211f63e9639ea0c3ecbbed1205a9fc145e2cae110d0cfac43282756c21",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "gRPC protocol definitions for zopp secrets manager",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 8,
+            "total_comment_lines": 0
+        }
+    }
+}

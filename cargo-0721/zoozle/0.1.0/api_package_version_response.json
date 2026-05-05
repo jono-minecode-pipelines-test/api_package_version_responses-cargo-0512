@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 271848,
+        "crate": "zoozle",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoozle/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoozle/0.1.0/readme",
+        "updated_at": "2020-08-12T00:04:53.864174Z",
+        "created_at": "2020-08-12T00:04:53.864174Z",
+        "downloads": 1190,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoozle/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoozle/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoozle/0.1.0/authors"
+        },
+        "crate_size": 2655,
+        "published_by": {
+            "id": 97433,
+            "login": "LmfZoozle",
+            "name": null,
+            "avatar": "https://avatars3.githubusercontent.com/u/68328512?v=4",
+            "url": "https://github.com/LmfZoozle"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 97433,
+                    "login": "LmfZoozle",
+                    "name": null,
+                    "avatar": "https://avatars3.githubusercontent.com/u/68328512?v=4",
+                    "url": "https://github.com/LmfZoozle"
+                },
+                "time": "2020-08-12T00:04:53.864174Z"
+            }
+        ],
+        "checksum": "f2ff9db78682dff2f13775bfeed3b286e9b20f312d28138042d441ba9936aa9c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Some I/O macros like C++ cout/cin.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 228,
+                    "comment_lines": 2,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 228,
+            "total_comment_lines": 2
+        }
+    }
+}

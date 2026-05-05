@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 109950,
+        "crate": "zoop",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoop/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoop/0.1.0/readme",
+        "updated_at": "2018-09-28T02:18:45.553842Z",
+        "created_at": "2018-09-28T02:18:45.553842Z",
+        "downloads": 1925,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoop/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoop/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoop/0.1.0/authors"
+        },
+        "crate_size": 798,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "6884aa780c4a183e85efd194ca11b9f3c2ae49c48f6ce197e0041072945ac72e",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoop"
+        ],
+        "edition": null,
+        "description": "zfs sync application",
+        "homepage": "https://github.com/jmesmon/zoop",
+        "documentation": "https://docs.rs/zoop",
+        "repository": "https://github.com/jmesmon/zoop",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

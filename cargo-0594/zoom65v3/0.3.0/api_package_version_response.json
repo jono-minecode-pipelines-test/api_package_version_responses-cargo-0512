@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1388164,
+        "crate": "zoom65v3",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zoom65v3/0.3.0/download",
+        "readme_path": "/api/v1/crates/zoom65v3/0.3.0/readme",
+        "updated_at": "2024-12-28T04:40:02.780990Z",
+        "created_at": "2024-12-28T04:40:02.780990Z",
+        "downloads": 1158,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom65v3/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom65v3/0.3.0/downloads",
+            "authors": "/api/v1/crates/zoom65v3/0.3.0/authors"
+        },
+        "crate_size": 6945,
+        "published_by": {
+            "id": 169561,
+            "login": "ozwaldorf",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/8976745?v=4",
+            "url": "https://github.com/ozwaldorf"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169561,
+                    "login": "ozwaldorf",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/8976745?v=4",
+                    "url": "https://github.com/ozwaldorf"
+                },
+                "time": "2024-12-28T04:40:02.780990Z"
+            }
+        ],
+        "checksum": "0942aeb085946c7cf60fb7ec8305ef7f143c244631aba7bfd5ab42c583c67d58",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Reverse engineered hidapi bindings to zoom65v3 screen modules",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ozwaldorf/zoom-sync",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 572,
+                    "comment_lines": 26,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 572,
+            "total_comment_lines": 26
+        }
+    }
+}

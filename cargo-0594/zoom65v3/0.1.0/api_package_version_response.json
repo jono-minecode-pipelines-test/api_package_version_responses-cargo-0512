@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1351298,
+        "crate": "zoom65v3",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoom65v3/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoom65v3/0.1.0/readme",
+        "updated_at": "2024-11-24T20:55:04.981748Z",
+        "created_at": "2024-11-24T20:55:04.981748Z",
+        "downloads": 763,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoom65v3/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoom65v3/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoom65v3/0.1.0/authors"
+        },
+        "crate_size": 6866,
+        "published_by": {
+            "id": 169561,
+            "login": "ozwaldorf",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/8976745?v=4",
+            "url": "https://github.com/ozwaldorf"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169561,
+                    "login": "ozwaldorf",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/8976745?v=4",
+                    "url": "https://github.com/ozwaldorf"
+                },
+                "time": "2024-11-24T20:55:04.981748Z"
+            }
+        ],
+        "checksum": "970f3ed5b65b42916fd7ab195c1a17a88a47627eb4ba117c34048918c474733f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Reverse engineered hidapi bindings to zoom65v3 screen modules",
+        "homepage": "https://github.com/ozwaldorf/zoom-sync",
+        "documentation": null,
+        "repository": "https://github.com/ozwaldorf/zoom-sync",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 637,
+                    "comment_lines": 35,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 637,
+            "total_comment_lines": 35
+        }
+    }
+}
