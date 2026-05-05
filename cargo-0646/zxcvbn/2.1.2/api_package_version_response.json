@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 436714,
+        "crate": "zxcvbn",
+        "num": "2.1.2",
+        "dl_path": "/api/v1/crates/zxcvbn/2.1.2/download",
+        "readme_path": "/api/v1/crates/zxcvbn/2.1.2/readme",
+        "updated_at": "2021-10-11T19:53:47.159715Z",
+        "created_at": "2021-10-11T19:53:47.159715Z",
+        "downloads": 1811540,
+        "features": {
+            "builder": [
+                "derive_builder"
+            ],
+            "default": [
+                "builder"
+            ],
+            "ser": [
+                "serde",
+                "serde_derive"
+            ],
+            "wasmbind": [
+                "chrono/wasmbind"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn/2.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn/2.1.2/downloads",
+            "authors": "/api/v1/crates/zxcvbn/2.1.2/authors"
+        },
+        "crate_size": 423335,
+        "published_by": {
+            "id": 3357,
+            "login": "shssoichiro",
+            "name": "Josh Holmer",
+            "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+            "url": "https://github.com/shssoichiro"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3357,
+                    "login": "shssoichiro",
+                    "name": "Josh Holmer",
+                    "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+                    "url": "https://github.com/shssoichiro"
+                },
+                "time": "2021-10-11T19:53:47.159715Z"
+            }
+        ],
+        "checksum": "7eb2873892ec52037005cc6c0852e4d15d6eee068651b6e2cdbd6df563112592",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An entropy-based password strength estimator, originally for Javascript by Dropbox.",
+        "homepage": "https://github.com/shssoichiro/zxcvbn-rs",
+        "documentation": "https://docs.rs/zxcvbn",
+        "repository": "https://github.com/shssoichiro/zxcvbn-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4934,
+                    "comment_lines": 55,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 4934,
+            "total_comment_lines": 55
+        }
+    }
+}

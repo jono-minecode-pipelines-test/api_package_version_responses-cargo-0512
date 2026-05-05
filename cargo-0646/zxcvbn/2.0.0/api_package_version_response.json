@@ -1,0 +1,58 @@
+{
+    "version": {
+        "id": 186309,
+        "crate": "zxcvbn",
+        "num": "2.0.0",
+        "dl_path": "/api/v1/crates/zxcvbn/2.0.0/download",
+        "readme_path": "/api/v1/crates/zxcvbn/2.0.0/readme",
+        "updated_at": "2019-10-31T01:19:57.141079Z",
+        "created_at": "2019-10-31T01:19:57.141079Z",
+        "downloads": 101250,
+        "features": {
+            "default": [],
+            "ser": [
+                "serde",
+                "serde_derive"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn/2.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn/2.0.0/downloads",
+            "authors": "/api/v1/crates/zxcvbn/2.0.0/authors"
+        },
+        "crate_size": 423793,
+        "published_by": {
+            "id": 3357,
+            "login": "shssoichiro",
+            "name": "Josh Holmer",
+            "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+            "url": "https://github.com/shssoichiro"
+        },
+        "audit_actions": [],
+        "checksum": "c1b710423135f967f879f084794db96a1f421ac4faac1440e3769a04f7d15611",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An entropy-based password strength estimator, originally for Javascript by Dropbox.",
+        "homepage": "https://github.com/shssoichiro/zxcvbn-rs",
+        "documentation": "https://docs.rs/zxcvbn",
+        "repository": "https://github.com/shssoichiro/zxcvbn-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4928,
+                    "comment_lines": 55,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 4928,
+            "total_comment_lines": 55
+        }
+    }
+}

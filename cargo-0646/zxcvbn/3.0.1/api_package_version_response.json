@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 1155364,
+        "crate": "zxcvbn",
+        "num": "3.0.1",
+        "dl_path": "/api/v1/crates/zxcvbn/3.0.1/download",
+        "readme_path": "/api/v1/crates/zxcvbn/3.0.1/readme",
+        "updated_at": "2024-05-25T02:25:14.804012Z",
+        "created_at": "2024-05-25T02:25:14.804012Z",
+        "downloads": 26173,
+        "features": {
+            "builder": [
+                "derive_builder"
+            ],
+            "default": [
+                "builder"
+            ],
+            "ser": [
+                "serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn/3.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn/3.0.1/downloads",
+            "authors": "/api/v1/crates/zxcvbn/3.0.1/authors"
+        },
+        "crate_size": 424394,
+        "published_by": {
+            "id": 3357,
+            "login": "shssoichiro",
+            "name": "Josh Holmer",
+            "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+            "url": "https://github.com/shssoichiro"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3357,
+                    "login": "shssoichiro",
+                    "name": "Josh Holmer",
+                    "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+                    "url": "https://github.com/shssoichiro"
+                },
+                "time": "2024-05-25T02:25:14.804012Z"
+            }
+        ],
+        "checksum": "579b1d84df61d9d04cd250035843fee2f86a4b4bb176f102fec20779fd0bd38b",
+        "rust_version": "1.63",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "An entropy-based password strength estimator, originally for Javascript by Dropbox.",
+        "homepage": "https://github.com/shssoichiro/zxcvbn-rs",
+        "documentation": "https://docs.rs/zxcvbn",
+        "repository": "https://github.com/shssoichiro/zxcvbn-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5047,
+                    "comment_lines": 55,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 5047,
+            "total_comment_lines": 55
+        }
+    }
+}

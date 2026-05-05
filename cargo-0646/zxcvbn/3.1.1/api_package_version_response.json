@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 2302054,
+        "crate": "zxcvbn",
+        "num": "3.1.1",
+        "dl_path": "/api/v1/crates/zxcvbn/3.1.1/download",
+        "readme_path": "/api/v1/crates/zxcvbn/3.1.1/readme",
+        "updated_at": "2026-04-24T16:38:30.687826Z",
+        "created_at": "2026-04-24T16:38:30.687826Z",
+        "downloads": 8482,
+        "features": {
+            "builder": [
+                "derive_builder"
+            ],
+            "custom_wasm_env": [],
+            "default": [
+                "builder"
+            ],
+            "ser": [
+                "serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn/3.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn/3.1.1/downloads",
+            "authors": "/api/v1/crates/zxcvbn/3.1.1/authors"
+        },
+        "crate_size": 436261,
+        "published_by": {
+            "id": 3357,
+            "login": "shssoichiro",
+            "name": "Josh Holmer",
+            "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+            "url": "https://github.com/shssoichiro"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3357,
+                    "login": "shssoichiro",
+                    "name": "Josh Holmer",
+                    "avatar": "https://avatars.githubusercontent.com/u/5951392?v=4",
+                    "url": "https://github.com/shssoichiro"
+                },
+                "time": "2026-04-24T16:38:30.687826Z"
+            }
+        ],
+        "checksum": "f9eaee90f4a795d1eb4ba6c51e1c1721d4784d550e8efa7b2600f29c867365e0",
+        "rust_version": "1.66",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "An entropy-based password strength estimator, originally for Javascript by Dropbox.",
+        "homepage": "https://github.com/shssoichiro/zxcvbn-rs",
+        "documentation": "https://docs.rs/zxcvbn",
+        "repository": "https://github.com/shssoichiro/zxcvbn-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5146,
+                    "comment_lines": 60,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 5146,
+            "total_comment_lines": 60
+        }
+    }
+}

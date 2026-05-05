@@ -1,0 +1,85 @@
+{
+    "version": {
+        "id": 1081853,
+        "crate": "zxing-cpp",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zxing-cpp/0.4.0/download",
+        "readme_path": "/api/v1/crates/zxing-cpp/0.4.0/readme",
+        "updated_at": "2024-03-13T23:29:40.018663Z",
+        "created_at": "2024-03-13T23:29:40.018663Z",
+        "downloads": 1877,
+        "features": {
+            "bundled": [],
+            "default": [],
+            "image": [
+                "dep:image"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zxing-cpp/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxing-cpp/0.4.0/downloads",
+            "authors": "/api/v1/crates/zxing-cpp/0.4.0/authors"
+        },
+        "crate_size": 1092502,
+        "published_by": {
+            "id": 250244,
+            "login": "axxel",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1038346?v=4",
+            "url": "https://github.com/axxel"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 250244,
+                    "login": "axxel",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1038346?v=4",
+                    "url": "https://github.com/axxel"
+                },
+                "time": "2024-03-13T23:29:40.018663Z"
+            }
+        ],
+        "checksum": "e0761d4b58790f8f1a18f2b1fb9586444e8b1fc9d8e1a5939c96c9eeba3f1874",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A rust wrapper for the zxing-cpp barcode library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zxing-cpp/zxing-cpp/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 21458,
+                    "comment_lines": 2821,
+                    "files": 25
+                },
+                "C Header": {
+                    "code_lines": 35576,
+                    "comment_lines": 3663,
+                    "files": 167
+                },
+                "C++": {
+                    "code_lines": 14088,
+                    "comment_lines": 2248,
+                    "files": 82
+                },
+                "Rust": {
+                    "code_lines": 819,
+                    "comment_lines": 27,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 71941,
+            "total_comment_lines": 8759
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "version": {
+        "id": 1022334,
+        "crate": "zxing-cpp",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zxing-cpp/0.2.1/download",
+        "readme_path": "/api/v1/crates/zxing-cpp/0.2.1/readme",
+        "updated_at": "2024-02-22T08:05:17.175378Z",
+        "created_at": "2024-01-22T10:50:37.630980Z",
+        "downloads": 1230,
+        "features": {
+            "bundled": [],
+            "default": [],
+            "image": [
+                "dep:image"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zxing-cpp/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zxing-cpp/0.2.1/downloads",
+            "authors": "/api/v1/crates/zxing-cpp/0.2.1/authors"
+        },
+        "crate_size": 606329,
+        "published_by": {
+            "id": 250244,
+            "login": "axxel",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1038346?v=4",
+            "url": "https://github.com/axxel"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 250244,
+                    "login": "axxel",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1038346?v=4",
+                    "url": "https://github.com/axxel"
+                },
+                "time": "2024-01-22T10:50:37.630980Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 250244,
+                    "login": "axxel",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1038346?v=4",
+                    "url": "https://github.com/axxel"
+                },
+                "time": "2024-02-22T08:05:17.178751Z"
+            }
+        ],
+        "checksum": "62f831734a86f80b7bb17c4946718d2ff55a50c2f571ffdc680ae20e16d26bd7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A rust wrapper for the zxing-cpp barcode library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zxing-cpp/zxing-cpp/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 1443,
+                    "comment_lines": 135,
+                    "files": 1
+                },
+                "C Header": {
+                    "code_lines": 21675,
+                    "comment_lines": 1887,
+                    "files": 130
+                },
+                "C++": {
+                    "code_lines": 13985,
+                    "comment_lines": 2232,
+                    "files": 82
+                },
+                "Rust": {
+                    "code_lines": 545,
+                    "comment_lines": 13,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 37648,
+            "total_comment_lines": 4267
+        }
+    }
+}

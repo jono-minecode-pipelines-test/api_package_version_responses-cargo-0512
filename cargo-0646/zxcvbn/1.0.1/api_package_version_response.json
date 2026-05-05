@@ -1,0 +1,59 @@
+{
+    "version": {
+        "id": 91059,
+        "crate": "zxcvbn",
+        "num": "1.0.1",
+        "dl_path": "/api/v1/crates/zxcvbn/1.0.1/download",
+        "readme_path": "/api/v1/crates/zxcvbn/1.0.1/readme",
+        "updated_at": "2018-05-02T01:01:09.280767Z",
+        "created_at": "2018-05-02T01:01:09.280767Z",
+        "downloads": 10189,
+        "features": {
+            "default": [],
+            "dev": [
+                "clippy",
+                "unstable"
+            ],
+            "ser": [
+                "serde",
+                "serde_derive"
+            ],
+            "unstable": [
+                "lazy_static/nightly"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn/1.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn/1.0.1/downloads",
+            "authors": "/api/v1/crates/zxcvbn/1.0.1/authors"
+        },
+        "crate_size": 421533,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "487b0578c3941a953b2fcad6a1fbee09b80746776783d6a8b556ff9c628f07f8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "An entropy-based password strength estimator, originally for Javascript by Dropbox.",
+        "homepage": "https://github.com/shssoichiro/zxcvbn-rs",
+        "documentation": "https://docs.rs/zxcvbn",
+        "repository": "https://github.com/shssoichiro/zxcvbn-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3248,
+                    "comment_lines": 54,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 3248,
+            "total_comment_lines": 54
+        }
+    }
+}

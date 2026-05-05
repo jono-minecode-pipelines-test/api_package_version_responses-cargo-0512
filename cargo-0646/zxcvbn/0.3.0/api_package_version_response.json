@@ -1,0 +1,61 @@
+{
+    "version": {
+        "id": 44798,
+        "crate": "zxcvbn",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zxcvbn/0.3.0/download",
+        "readme_path": "/api/v1/crates/zxcvbn/0.3.0/readme",
+        "updated_at": "2017-11-30T04:05:33.641728Z",
+        "created_at": "2017-02-05T18:47:15.588190Z",
+        "downloads": 3223,
+        "features": {
+            "default": [],
+            "dev": [
+                "clippy",
+                "unstable",
+                "rustc-serialize"
+            ],
+            "ser": [
+                "serde",
+                "serde_derive"
+            ],
+            "unstable": [
+                "regex/simd-accel",
+                "lazy_static/nightly"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn/0.3.0/downloads",
+            "authors": "/api/v1/crates/zxcvbn/0.3.0/authors"
+        },
+        "crate_size": 418500,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "836242e4286baf821dfb677d00461f019afc39656ecf6a7222ba72712573804b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "An entropy-based password strength estimator, originally for Javascript by Dropbox.",
+        "homepage": "https://github.com/shssoichiro/zxcvbn-rs",
+        "documentation": "https://docs.rs/zxcvbn",
+        "repository": "https://github.com/shssoichiro/zxcvbn-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2493,
+                    "comment_lines": 120,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 2493,
+            "total_comment_lines": 120
+        }
+    }
+}
