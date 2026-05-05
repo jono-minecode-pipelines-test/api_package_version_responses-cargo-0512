@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2094933,
+        "crate": "zyn-derive",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zyn-derive/0.3.0/download",
+        "readme_path": "/api/v1/crates/zyn-derive/0.3.0/readme",
+        "updated_at": "2026-03-06T20:40:44.776535Z",
+        "created_at": "2026-03-06T20:40:44.776535Z",
+        "downloads": 15,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyn-derive/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyn-derive/0.3.0/downloads",
+            "authors": "/api/v1/crates/zyn-derive/0.3.0/authors"
+        },
+        "crate_size": 12587,
+        "published_by": {
+            "id": 346169,
+            "login": "aacebo",
+            "name": "Alex Acebo",
+            "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+            "url": "https://github.com/aacebo"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 346169,
+                    "login": "aacebo",
+                    "name": "Alex Acebo",
+                    "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+                    "url": "https://github.com/aacebo"
+                },
+                "time": "2026-03-06T20:40:44.776535Z"
+            }
+        ],
+        "checksum": "75fb14cc69ea81da06f52116fee66bfd14683db4e5663318323ce0889d2be7a3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "derive macros for the zyn crate",
+        "homepage": "https://aacebo.github.io/zyn",
+        "documentation": "https://aacebo.github.io/zyn",
+        "repository": "https://www.github.com/aacebo/zyn",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1369,
+                    "comment_lines": 0,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 1369,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2084701,
+        "crate": "zyn-derive",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyn-derive/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyn-derive/0.1.0/readme",
+        "updated_at": "2026-03-04T04:19:50.259609Z",
+        "created_at": "2026-03-04T04:19:50.259609Z",
+        "downloads": 28,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyn-derive/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyn-derive/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyn-derive/0.1.0/authors"
+        },
+        "crate_size": 4744,
+        "published_by": {
+            "id": 346169,
+            "login": "aacebo",
+            "name": "Alex Acebo",
+            "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+            "url": "https://github.com/aacebo"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 346169,
+                    "login": "aacebo",
+                    "name": "Alex Acebo",
+                    "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+                    "url": "https://github.com/aacebo"
+                },
+                "time": "2026-03-04T04:19:50.259609Z"
+            }
+        ],
+        "checksum": "ccef4f6674a8053ea2dc4cb2ac3e156862c31fe258be62462520d37b0880b0d9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "derive macros for the zyn crate",
+        "homepage": "https://www.github.com/aacebo/zyn",
+        "documentation": "https://www.github.com/aacebo/zyn",
+        "repository": "https://www.github.com/aacebo/zyn",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 177,
+                    "comment_lines": 9,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 177,
+            "total_comment_lines": 9
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1411917,
+        "crate": "zygote",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zygote/0.1.2/download",
+        "readme_path": "/api/v1/crates/zygote/0.1.2/readme",
+        "updated_at": "2025-01-17T16:59:21.508833Z",
+        "created_at": "2025-01-17T16:59:21.508833Z",
+        "downloads": 19030,
+        "features": {
+            "clone3": [],
+            "default": [
+                "clone3"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zygote/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zygote/0.1.2/downloads",
+            "authors": "/api/v1/crates/zygote/0.1.2/authors"
+        },
+        "crate_size": 11193,
+        "published_by": {
+            "id": 69504,
+            "login": "jprendes",
+            "name": "Jorge Prendes",
+            "avatar": "https://avatars.githubusercontent.com/u/2564439?v=4",
+            "url": "https://github.com/jprendes"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 69504,
+                    "login": "jprendes",
+                    "name": "Jorge Prendes",
+                    "avatar": "https://avatars.githubusercontent.com/u/2564439?v=4",
+                    "url": "https://github.com/jprendes"
+                },
+                "time": "2025-01-17T16:59:21.508833Z"
+            }
+        ],
+        "checksum": "8b78cf6140893151497b58da3c52d4e4dda37be26273b4acefe92a6f294d7cb6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A zygote process is a small process used primarily to create new processes.",
+        "homepage": "https://github.com/jprendes/zygote",
+        "documentation": null,
+        "repository": "https://github.com/jprendes/zygote",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 744,
+                    "comment_lines": 14,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 744,
+            "total_comment_lines": 14
+        }
+    }
+}

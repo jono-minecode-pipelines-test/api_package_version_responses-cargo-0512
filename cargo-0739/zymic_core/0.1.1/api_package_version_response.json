@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 1733068,
+        "crate": "zymic_core",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zymic_core/0.1.1/download",
+        "readme_path": "/api/v1/crates/zymic_core/0.1.1/readme",
+        "updated_at": "2025-09-16T22:05:46.220263Z",
+        "created_at": "2025-09-16T22:05:46.220263Z",
+        "downloads": 351,
+        "features": {
+            "default": [
+                "std",
+                "zeroize"
+            ],
+            "os_rng": [
+                "dep:rand_core",
+                "rand_core/os_rng"
+            ],
+            "rand_core": [
+                "dep:rand_core"
+            ],
+            "serde": [
+                "dep:serde"
+            ],
+            "std": [],
+            "zeroize": [
+                "dep:zeroize",
+                "aes-gcm/zeroize"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zymic_core/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zymic_core/0.1.1/downloads",
+            "authors": "/api/v1/crates/zymic_core/0.1.1/authors"
+        },
+        "crate_size": 35501,
+        "published_by": {
+            "id": 216969,
+            "login": "dpottavio",
+            "name": "Daniel Ottavio",
+            "avatar": "https://avatars.githubusercontent.com/u/16430099?v=4",
+            "url": "https://github.com/dpottavio"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 216969,
+                    "login": "dpottavio",
+                    "name": "Daniel Ottavio",
+                    "avatar": "https://avatars.githubusercontent.com/u/16430099?v=4",
+                    "url": "https://github.com/dpottavio"
+                },
+                "time": "2025-09-16T22:05:46.220263Z"
+            }
+        ],
+        "checksum": "7a38d4da1aff119bcb84d2ee9fbd81eaee72b210b9f328278369c6ca6512f3ae",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Core library providing the primitives and streaming APIs for the Zymic\nauthenticated encryption format.\n",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dpottavio/zymic",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2403,
+                    "comment_lines": 60,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 2403,
+            "total_comment_lines": 60
+        }
+    }
+}

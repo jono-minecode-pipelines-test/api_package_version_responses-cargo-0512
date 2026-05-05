@@ -1,0 +1,90 @@
+{
+    "version": {
+        "id": 2102450,
+        "crate": "zync-core",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zync-core/0.3.0/download",
+        "readme_path": "/api/v1/crates/zync-core/0.3.0/readme",
+        "updated_at": "2026-03-09T08:17:02.710462Z",
+        "created_at": "2026-03-09T08:17:02.710462Z",
+        "downloads": 29,
+        "features": {
+            "client": [
+                "tonic",
+                "prost",
+                "tokio",
+                "tokio-stream",
+                "tracing"
+            ],
+            "default": [
+                "client",
+                "parallel"
+            ],
+            "parallel": [
+                "rayon"
+            ],
+            "wasm": [
+                "getrandom/js",
+                "wasm-bindgen",
+                "console_error_panic_hook"
+            ],
+            "wasm-parallel": [
+                "wasm",
+                "parallel",
+                "wasm-bindgen-rayon",
+                "js-sys"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zync-core/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zync-core/0.3.0/downloads",
+            "authors": "/api/v1/crates/zync-core/0.3.0/authors"
+        },
+        "crate_size": 34868,
+        "published_by": {
+            "id": 198084,
+            "login": "hitchhooker",
+            "name": "Tom Mi",
+            "avatar": "https://avatars.githubusercontent.com/u/15621959?v=4",
+            "url": "https://github.com/hitchhooker"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 198084,
+                    "login": "hitchhooker",
+                    "name": "Tom Mi",
+                    "avatar": "https://avatars.githubusercontent.com/u/15621959?v=4",
+                    "url": "https://github.com/hitchhooker"
+                },
+                "time": "2026-03-09T08:17:02.710462Z"
+            }
+        ],
+        "checksum": "d5d70768d014176b488003b6b9f5f8e8cf2499b26ee366a501468d49bdceff1e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zcash light client primitives \u2014 verification, scanning, proof types",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/rotkonetworks/zcli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1265,
+                    "comment_lines": 48,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 1265,
+            "total_comment_lines": 48
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1377859,
+        "crate": "zygote",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zygote/0.1.0/download",
+        "readme_path": "/api/v1/crates/zygote/0.1.0/readme",
+        "updated_at": "2024-12-17T16:13:55.541812Z",
+        "created_at": "2024-12-17T16:13:55.541812Z",
+        "downloads": 716,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zygote/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zygote/0.1.0/downloads",
+            "authors": "/api/v1/crates/zygote/0.1.0/authors"
+        },
+        "crate_size": 9997,
+        "published_by": {
+            "id": 69504,
+            "login": "jprendes",
+            "name": "Jorge Prendes",
+            "avatar": "https://avatars.githubusercontent.com/u/2564439?v=4",
+            "url": "https://github.com/jprendes"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 69504,
+                    "login": "jprendes",
+                    "name": "Jorge Prendes",
+                    "avatar": "https://avatars.githubusercontent.com/u/2564439?v=4",
+                    "url": "https://github.com/jprendes"
+                },
+                "time": "2024-12-17T16:13:55.541812Z"
+            }
+        ],
+        "checksum": "c26f018ed6508f1272d4f2e5b3f5b5505058ddb440af25bf6372296dde91ced5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A zygote process is a small process used primarily to create new processes.",
+        "homepage": "https://github.com/jprendes/zygote",
+        "documentation": null,
+        "repository": "https://github.com/jprendes/zygote",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 674,
+                    "comment_lines": 6,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 674,
+            "total_comment_lines": 6
+        }
+    }
+}

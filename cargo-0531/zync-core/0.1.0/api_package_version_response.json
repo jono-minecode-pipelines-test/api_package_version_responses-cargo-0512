@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1842308,
+        "crate": "zync-core",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zync-core/0.1.0/download",
+        "readme_path": "/api/v1/crates/zync-core/0.1.0/readme",
+        "updated_at": "2025-11-25T11:08:08.747843Z",
+        "created_at": "2025-11-25T11:08:08.747843Z",
+        "downloads": 151,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zync-core/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zync-core/0.1.0/downloads",
+            "authors": "/api/v1/crates/zync-core/0.1.0/authors"
+        },
+        "crate_size": 14569,
+        "published_by": {
+            "id": 198084,
+            "login": "hitchhooker",
+            "name": "Tom Mi",
+            "avatar": "https://avatars.githubusercontent.com/u/15621959?v=4",
+            "url": "https://github.com/hitchhooker"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 198084,
+                    "login": "hitchhooker",
+                    "name": "Tom Mi",
+                    "avatar": "https://avatars.githubusercontent.com/u/15621959?v=4",
+                    "url": "https://github.com/hitchhooker"
+                },
+                "time": "2025-11-25T11:08:08.747843Z"
+            }
+        ],
+        "checksum": "61852ec485bbca4da73e33ff61c455f9648fd57edf9be7334f5c3feb6f37e368",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zync-core"
+        ],
+        "edition": "2021",
+        "description": "Core types and logic for ZYNC - ligerito-powered Zcash light client synchronization",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/rotkonetworks/zeratul",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 365,
+                    "comment_lines": 22,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 365,
+            "total_comment_lines": 22
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2109611,
+        "crate": "zyn-derive",
+        "num": "0.4.2",
+        "dl_path": "/api/v1/crates/zyn-derive/0.4.2/download",
+        "readme_path": "/api/v1/crates/zyn-derive/0.4.2/readme",
+        "updated_at": "2026-03-11T05:51:04.031024Z",
+        "created_at": "2026-03-11T05:51:04.031024Z",
+        "downloads": 27,
+        "features": {
+            "diagnostics": [
+                "zyn-core/diagnostics"
+            ],
+            "pretty": [
+                "zyn-core/pretty"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyn-derive/0.4.2/dependencies",
+            "version_downloads": "/api/v1/crates/zyn-derive/0.4.2/downloads",
+            "authors": "/api/v1/crates/zyn-derive/0.4.2/authors"
+        },
+        "crate_size": 19221,
+        "published_by": {
+            "id": 346169,
+            "login": "aacebo",
+            "name": "Alex Acebo",
+            "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+            "url": "https://github.com/aacebo"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 346169,
+                    "login": "aacebo",
+                    "name": "Alex Acebo",
+                    "avatar": "https://avatars.githubusercontent.com/u/44811138?v=4",
+                    "url": "https://github.com/aacebo"
+                },
+                "time": "2026-03-11T05:51:04.031024Z"
+            }
+        ],
+        "checksum": "3e592b35728519732b11b0b26d4c6feb9756dc1b805fc204a75c4348ef331ff3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "derive macros for the zyn crate",
+        "homepage": "https://aacebo.github.io/zyn",
+        "documentation": "https://aacebo.github.io/zyn",
+        "repository": "https://www.github.com/aacebo/zyn",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1630,
+                    "comment_lines": 0,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 1630,
+            "total_comment_lines": 0
+        }
+    }
+}

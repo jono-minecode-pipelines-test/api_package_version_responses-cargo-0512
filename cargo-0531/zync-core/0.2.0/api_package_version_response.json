@@ -1,0 +1,92 @@
+{
+    "version": {
+        "id": 1859984,
+        "crate": "zync-core",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zync-core/0.2.0/download",
+        "readme_path": "/api/v1/crates/zync-core/0.2.0/readme",
+        "updated_at": "2025-12-04T17:47:04.785802Z",
+        "created_at": "2025-12-04T17:47:04.785802Z",
+        "downloads": 164,
+        "features": {
+            "client": [
+                "tonic",
+                "prost",
+                "tokio",
+                "tokio-stream",
+                "tracing"
+            ],
+            "default": [
+                "client",
+                "parallel"
+            ],
+            "parallel": [
+                "rayon"
+            ],
+            "wasm": [
+                "getrandom/js",
+                "wasm-bindgen",
+                "console_error_panic_hook"
+            ],
+            "wasm-parallel": [
+                "wasm",
+                "parallel",
+                "wasm-bindgen-rayon",
+                "js-sys"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zync-core/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zync-core/0.2.0/downloads",
+            "authors": "/api/v1/crates/zync-core/0.2.0/authors"
+        },
+        "crate_size": 40742,
+        "published_by": {
+            "id": 198084,
+            "login": "hitchhooker",
+            "name": "Tom Mi",
+            "avatar": "https://avatars.githubusercontent.com/u/15621959?v=4",
+            "url": "https://github.com/hitchhooker"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 198084,
+                    "login": "hitchhooker",
+                    "name": "Tom Mi",
+                    "avatar": "https://avatars.githubusercontent.com/u/15621959?v=4",
+                    "url": "https://github.com/hitchhooker"
+                },
+                "time": "2025-12-04T17:47:04.785802Z"
+            }
+        ],
+        "checksum": "c092bbaa5b82f053ca68b256d0d5855c8508b4b9ce774ceef1e7c29b19629b95",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zync-core"
+        ],
+        "edition": "2021",
+        "description": "Core types and logic for ZYNC - ligerito-powered Zcash light client synchronization",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/rotkonetworks/zeratul",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1657,
+                    "comment_lines": 102,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 1657,
+            "total_comment_lines": 102
+        }
+    }
+}
