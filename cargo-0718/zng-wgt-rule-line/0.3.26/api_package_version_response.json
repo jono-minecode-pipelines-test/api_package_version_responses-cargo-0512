@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1284724,
+        "crate": "zng-wgt-rule-line",
+        "num": "0.3.26",
+        "dl_path": "/api/v1/crates/zng-wgt-rule-line/0.3.26/download",
+        "readme_path": "/api/v1/crates/zng-wgt-rule-line/0.3.26/readme",
+        "updated_at": "2024-09-29T04:20:36.926327Z",
+        "created_at": "2024-09-29T04:20:36.926327Z",
+        "downloads": 1031,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-rule-line/0.3.26/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-rule-line/0.3.26/downloads",
+            "authors": "/api/v1/crates/zng-wgt-rule-line/0.3.26/authors"
+        },
+        "crate_size": 2989,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-09-29T04:20:36.926327Z"
+            }
+        ],
+        "checksum": "3eaa2e897dfffcb34fa99721e7c73119b45becf89f69ccc1ab2b88e2364f5a89",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_rule_line",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 177,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 177,
+            "total_comment_lines": 0
+        }
+    }
+}
