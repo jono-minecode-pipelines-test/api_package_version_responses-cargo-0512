@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1221960,
+        "crate": "zksync_protobuf_build",
+        "num": "0.1.0-rc.6",
+        "dl_path": "/api/v1/crates/zksync_protobuf_build/0.1.0-rc.6/download",
+        "readme_path": "/api/v1/crates/zksync_protobuf_build/0.1.0-rc.6/readme",
+        "updated_at": "2024-08-02T14:46:14.541498Z",
+        "created_at": "2024-08-02T14:46:14.541498Z",
+        "downloads": 986,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_protobuf_build/0.1.0-rc.6/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_protobuf_build/0.1.0-rc.6/downloads",
+            "authors": "/api/v1/crates/zksync_protobuf_build/0.1.0-rc.6/authors"
+        },
+        "crate_size": 11114,
+        "published_by": {
+            "id": 196241,
+            "login": "pompon0",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+            "url": "https://github.com/pompon0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 196241,
+                    "login": "pompon0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+                    "url": "https://github.com/pompon0"
+                },
+                "time": "2024-08-02T14:46:14.541498Z"
+            }
+        ],
+        "checksum": "fa0fadf792469f461fc7e859d89e7417e33f604939eea8aa04c66228c5a7800d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus protobuf codegen",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 717,
+                    "comment_lines": 31,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 717,
+            "total_comment_lines": 31
+        }
+    }
+}
