@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1929067,
+        "crate": "zksync_os_evm_errors",
+        "num": "0.0.13",
+        "dl_path": "/api/v1/crates/zksync_os_evm_errors/0.0.13/download",
+        "readme_path": "/api/v1/crates/zksync_os_evm_errors/0.0.13/readme",
+        "updated_at": "2026-01-08T08:26:18.315915Z",
+        "created_at": "2026-01-08T08:26:18.315915Z",
+        "downloads": 2213,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_os_evm_errors/0.0.13/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_os_evm_errors/0.0.13/downloads",
+            "authors": "/api/v1/crates/zksync_os_evm_errors/0.0.13/authors"
+        },
+        "crate_size": 1898,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-01-08T08:26:18.315915Z"
+            }
+        ],
+        "checksum": "8fea4915ff8302cbd66403de07518fe4025fbcacd3d3d1760cc03029e710586a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "EVM errors in ZKsync OS",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-os-interface",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 25,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 25,
+            "total_comment_lines": 0
+        }
+    }
+}
