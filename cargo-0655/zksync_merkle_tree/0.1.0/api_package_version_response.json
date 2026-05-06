@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1201300,
+        "crate": "zksync_merkle_tree",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zksync_merkle_tree/0.1.0/download",
+        "readme_path": "/api/v1/crates/zksync_merkle_tree/0.1.0/readme",
+        "updated_at": "2024-07-12T17:31:52.291238Z",
+        "created_at": "2024-07-12T17:31:52.291238Z",
+        "downloads": 2511,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_merkle_tree/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_merkle_tree/0.1.0/downloads",
+            "authors": "/api/v1/crates/zksync_merkle_tree/0.1.0/authors"
+        },
+        "crate_size": 228313,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-12T17:31:52.291238Z"
+            }
+        ],
+        "checksum": "267326ae326329e0590e1a5950fc60ab0a82f83745f5c7ea4e2f76a998fe319f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync implementation of Jellyfish Merkle tree",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7500,
+                    "comment_lines": 251,
+                    "files": 23
+                }
+            },
+            "total_code_lines": 7500,
+            "total_comment_lines": 251
+        }
+    }
+}
