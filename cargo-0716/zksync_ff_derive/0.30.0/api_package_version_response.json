@@ -1,0 +1,79 @@
+{
+    "version": {
+        "id": 1260340,
+        "crate": "zksync_ff_derive",
+        "num": "0.30.0",
+        "dl_path": "/api/v1/crates/zksync_ff_derive/0.30.0/download",
+        "readme_path": "/api/v1/crates/zksync_ff_derive/0.30.0/readme",
+        "updated_at": "2024-09-05T13:44:35.348171Z",
+        "created_at": "2024-09-05T10:27:17.456314Z",
+        "downloads": 913,
+        "features": {
+            "asm": [],
+            "default": [],
+            "serde": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_ff_derive/0.30.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_ff_derive/0.30.0/downloads",
+            "authors": "/api/v1/crates/zksync_ff_derive/0.30.0/authors"
+        },
+        "crate_size": 17893,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-05T10:27:17.456314Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-05T13:44:35.349738Z"
+            }
+        ],
+        "checksum": "7ac8b2293ccd90f62c48b3ecce3ef519a2f6540fe28a4aa4443be910a23864b8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Procedural macro library for zksync_ff, based on ff_derive",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2290,
+                    "comment_lines": 234,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 2290,
+            "total_comment_lines": 234
+        }
+    }
+}

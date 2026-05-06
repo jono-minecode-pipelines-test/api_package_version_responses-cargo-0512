@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1436399,
+        "crate": "zksync_ff_derive",
+        "num": "0.30.14",
+        "dl_path": "/api/v1/crates/zksync_ff_derive/0.30.14/download",
+        "readme_path": "/api/v1/crates/zksync_ff_derive/0.30.14/readme",
+        "updated_at": "2025-02-06T12:33:32.876712Z",
+        "created_at": "2025-02-06T12:33:32.876712Z",
+        "downloads": 1166,
+        "features": {
+            "asm": [],
+            "default": [],
+            "serde": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_ff_derive/0.30.14/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_ff_derive/0.30.14/downloads",
+            "authors": "/api/v1/crates/zksync_ff_derive/0.30.14/authors"
+        },
+        "crate_size": 17891,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-02-06T12:33:32.876712Z"
+            }
+        ],
+        "checksum": "57544a5ed11d959aea835164d9e34f9d4bab734e045ede9c390b3a43e8227eb9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Procedural macro library for zksync_ff, based on ff_derive",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2290,
+                    "comment_lines": 234,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 2290,
+            "total_comment_lines": 234
+        }
+    }
+}
