@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1232363,
+        "crate": "zksync_consensus_crypto",
+        "num": "0.1.0-rc.10",
+        "dl_path": "/api/v1/crates/zksync_consensus_crypto/0.1.0-rc.10/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_crypto/0.1.0-rc.10/readme",
+        "updated_at": "2024-08-12T14:28:49.824664Z",
+        "created_at": "2024-08-12T14:28:49.824664Z",
+        "downloads": 8073,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_crypto/0.1.0-rc.10/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_crypto/0.1.0-rc.10/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_crypto/0.1.0-rc.10/authors"
+        },
+        "crate_size": 12785,
+        "published_by": {
+            "id": 196241,
+            "login": "pompon0",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+            "url": "https://github.com/pompon0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 196241,
+                    "login": "pompon0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+                    "url": "https://github.com/pompon0"
+                },
+                "time": "2024-08-12T14:28:49.824664Z"
+            }
+        ],
+        "checksum": "3f0883af373e9198fd27c0148e7e47b37f912cb4b444bec3f7eed0af0b0dfc69",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus cryptographic utilities",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 922,
+                    "comment_lines": 34,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 922,
+            "total_comment_lines": 34
+        }
+    }
+}
