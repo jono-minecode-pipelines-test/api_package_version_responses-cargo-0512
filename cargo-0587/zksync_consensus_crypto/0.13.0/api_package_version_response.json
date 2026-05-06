@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1624718,
+        "crate": "zksync_consensus_crypto",
+        "num": "0.13.0",
+        "dl_path": "/api/v1/crates/zksync_consensus_crypto/0.13.0/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_crypto/0.13.0/readme",
+        "updated_at": "2025-07-02T15:24:33.646258Z",
+        "created_at": "2025-07-02T15:24:33.646258Z",
+        "downloads": 74512,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_crypto/0.13.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_crypto/0.13.0/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_crypto/0.13.0/authors"
+        },
+        "crate_size": 17816,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-07-02T15:24:33.646258Z"
+            }
+        ],
+        "checksum": "42985ecd42d50132d2b5ba6d4d5c0ddd5c2aa8165ec55755cadab5dd5e01ce88",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus cryptographic utilities",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 636,
+                    "comment_lines": 27,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 636,
+            "total_comment_lines": 27
+        }
+    }
+}

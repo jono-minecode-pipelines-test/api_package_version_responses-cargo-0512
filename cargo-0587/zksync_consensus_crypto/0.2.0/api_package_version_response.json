@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1279079,
+        "crate": "zksync_consensus_crypto",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zksync_consensus_crypto/0.2.0/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_crypto/0.2.0/readme",
+        "updated_at": "2024-09-24T00:27:04.681781Z",
+        "created_at": "2024-09-24T00:27:04.681781Z",
+        "downloads": 1021,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_crypto/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_crypto/0.2.0/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_crypto/0.2.0/authors"
+        },
+        "crate_size": 12724,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-24T00:27:04.681781Z"
+            }
+        ],
+        "checksum": "4194a7281dde7b9876b8b4e17f57bc0b816f7d80b8a23aeefdbd2c2e49a69780",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus cryptographic utilities",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 922,
+                    "comment_lines": 34,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 922,
+            "total_comment_lines": 34
+        }
+    }
+}
