@@ -7,7 +7,7 @@
         "readme_path": "/api/v1/crates/zyx-cpu/0.1.1/readme",
         "updated_at": "2024-03-21T16:32:50.236040Z",
         "created_at": "2024-03-21T16:32:50.236040Z",
-        "downloads": 1530,
+        "downloads": 1532,
         "features": {
             "default": [
                 "std"

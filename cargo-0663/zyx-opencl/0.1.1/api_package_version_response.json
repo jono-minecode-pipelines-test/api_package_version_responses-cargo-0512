@@ -7,7 +7,7 @@
         "readme_path": "/api/v1/crates/zyx-opencl/0.1.1/readme",
         "updated_at": "2024-03-21T16:32:30.079136Z",
         "created_at": "2024-03-21T16:32:30.079136Z",
-        "downloads": 1534,
+        "downloads": 1536,
         "features": {
             "CL_VERSION_1_1": [
                 "opencl-sys/CL_VERSION_1_1"
