@@ -7,7 +7,7 @@
         "readme_path": "/api/v1/crates/zxcvbn/2.1.1/readme",
         "updated_at": "2020-12-18T16:55:53.323032Z",
         "created_at": "2020-12-18T16:55:53.323032Z",
-        "downloads": 369393,
+        "downloads": 369437,
         "features": {
             "builder": [
                 "derive_builder"
