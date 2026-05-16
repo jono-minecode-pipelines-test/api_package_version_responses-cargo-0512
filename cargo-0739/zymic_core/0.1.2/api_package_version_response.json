@@ -7,7 +7,7 @@
         "readme_path": "/api/v1/crates/zymic_core/0.1.2/readme",
         "updated_at": "2026-05-01T21:12:34.221845Z",
         "created_at": "2026-05-01T21:12:34.221845Z",
-        "downloads": 16,
+        "downloads": 20,
         "features": {
             "default": [
                 "std",
